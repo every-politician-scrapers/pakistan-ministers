@@ -1,8 +1,2 @@
-@@,region,regionlabel,person,personlabel
-->,Q4478,Punjab,Q55825094,Usman Ahmed Khan Buzdar->Sardar Usman Buzdar
-->,Q37211,Sindh,Q26132883,Mohsin->Syed Murad Ali Shah
-->,Q200130,Azad Kashmir->Azad Jammu and Kashmir,NULL->Q107871987,NULL->Abdul Qayyum Khan Niazi
-->,Q163239,Balochistan,Q18750287->Q47200338,Jam Kamal Khan->Abdul Quddus Bizenjo
----,Q848613,Islamabad Capital Territory,Q26923792,Sheikh Ansar Aziz
----,Q4478,Punjab,Q16208895,Hasan Askari Rizvi
----,Q200697,Gilgit-Baltistan,Q20724398,Hafiz Hafeez ur Rehman
+@@,region,person
+---,Q848613,

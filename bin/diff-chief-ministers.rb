@@ -8,8 +8,7 @@ require 'pry'
 # Only compare IDs, not names, as those differ between WP/WD
 class Comparison < EveryPoliticianScraper::Comparison
   def columns
-    super
-    # super.reject { |name| name.to_s.downcase.include? 'label' }
+    super.reject { |name| name.to_s.downcase.include? 'label' }
   end
 end
 
