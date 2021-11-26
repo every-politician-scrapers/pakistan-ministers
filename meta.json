@@ -1,20 +1,20 @@
 {
     "jurisdiction": {
-      "name": "XXX",
-      "id": "Qxxx"
+      "name": "Pakistan",
+      "id": "Q843"
     },
     "cabinet": {
-      "id": "Qxxx",
-      "start": "YYYY-MM-DD",
-      "parent": "Qxxx"
+      "id": "Q56179236",
+      "start": "2018-08-20",
+      "parent": "Q2607174"
     },
     "source": {
-        "url":   "XXX",
-        "title": "XXX",
+        "url":   "http://www.na.gov.pk/en/fmins_list.php",
+        "title": "National Assembly of Pakistan: Federal Ministers",
         "lang":  {
             "code": "en",
             "wikidata": "Q1860"
         }
     },
-    "agent": "every-politican-scrapers/XXX"
+    "agent": "every-politican-scrapers/pakistan-ministers"
 }
