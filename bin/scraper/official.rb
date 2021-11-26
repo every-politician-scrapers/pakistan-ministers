@@ -7,17 +7,23 @@ require 'pry'
 class MemberList
   class Member
     def name
-      noko.css('.name').text.tidy
+      tds[1].text.tidy
     end
 
     def position
-      noko.css('.position').text.tidy
+      tds[2].text.tidy
+    end
+
+    private
+
+    def tds
+      noko.css('td')
     end
   end
 
   class Members
     def member_container
-      noko.css('.member')
+      noko.css('table.table_bill').xpath('.//tr[.//td]')
     end
   end
 end
