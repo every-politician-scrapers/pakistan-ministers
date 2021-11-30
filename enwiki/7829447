@@ -504,61 +504,6 @@
           "type": "web"
         }
       ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": []
-        }
-      ],
-      "templates": [
-        {
-          "template": "reflist"
-        },
-        {
-          "template": "s-start"
-        },
-        {
-          "template": "s-off"
-        },
-        {
-          "before": "Malik Meraj Khalid",
-          "template": "s-bef"
-        },
-        {
-          "title": "Speaker of the National Assembly",
-          "years": "1985–1986",
-          "template": "s-ttl"
-        },
-        {
-          "after": "Hamid Nasir Chattha",
-          "template": "s-aft"
-        },
-        {
-          "before": "Muhammad Saifullah",
-          "template": "s-bef"
-        },
-        {
-          "title": "Leader of the Opposition",
-          "years": "1985–1988",
-          "template": "s-ttl"
-        },
-        {
-          "after": "Ghulam Haider Wyne",
-          "template": "s-aft"
-        },
-        {
-          "template": "leader of the opposition (pakistan)"
-        },
-        {
-          "template": "speaker national assembly pakistan"
-        },
-        {
-          "template": "pakistan-mna-stub"
-        }
-      ]
     }
   ]
 }
