@@ -249,7 +249,14 @@
             "text": "17 December 2011"
           },
           "office6": {
-            "text": "Federal Minister for Railways"
+            "text": "Federal Minister for Railways",
+            "links": [
+              {
+                "text": "Minister for Railways",
+                "type": "internal",
+                "page": "Ministry of Railways (Pakistan)"
+              }
+            ]
           },
           "term_start6": {
             "text": "11 December 2020"
