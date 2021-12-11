@@ -23,7 +23,7 @@
         {
           "sentences": [
             {
-              "text": "Sardar Usman Ahmad Khan Buzdar (born May 1969) is a Pakistani politician who is the current Chief Minister of Punjab, in office since 20 August 2018.",
+              "text": "Sardar Usman Ahmad Khan Buzdar (born 1 May 1969 ) is a Pakistani politician who is the current Chief Minister of Punjab, in office since 20 August 2018.",
               "links": [
                 {
                   "type": "internal",
@@ -51,14 +51,23 @@
               ]
             },
             {
-              "text": "He is also the tumandar of the Baloch tribe Buzdar, since April 2019.",
+              "text": "He is also the Tumandar of the Baloch tribe Buzdar, since April 2019.",
               "links": [
+                {
+                  "type": "internal",
+                  "page": "Tumandar"
+                },
                 {
                   "text": "Buzdar",
                   "type": "internal",
                   "page": "Buzdar (tribe)"
                 }
-              ]
+              ],
+              "formatting": {
+                "italic": [
+                  "Tumandar"
+                ]
+              }
             },
             {
               "text": "He served as Tehsil Nazim of Taunsa Sharif from 2001 to 2008."
@@ -196,7 +205,7 @@
             "number": 2008
           },
           "birth_date": {
-            "text": "May 1969"
+            "text": "1 May 1969"
           },
           "birth_place": {
             "text": "Dera Ghazi Khan, West Pakistan, Pakistan",
@@ -269,6 +278,16 @@
               }
             ]
           }
+        }
+      ],
+      "references": [
+        {
+          "title": "Punjab Assembly {{!}} Members - Members' Directory",
+          "url": "https://www.pap.gov.pk/members/profile/en/21/1528",
+          "access-date": "2021-12-10",
+          "website": "www.pap.gov.pk",
+          "template": "citation",
+          "type": "web"
         }
       ]
     }

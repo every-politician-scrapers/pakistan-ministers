@@ -109,7 +109,7 @@
         },
         {
           "list": [
-            "پرویز خٹک"
+            "پرویز خټک"
           ],
           "template": "nastaliq"
         },
@@ -301,7 +301,7 @@
             "text": "January 1, 1950"
           },
           "birth_place": {
-            "text": "Manki Sharif, NWFP, Pakistan",
+            "text": "Manki Sharif, خيبر پښتونخوا Khyber pukhtoonkhwa, Pakistan",
             "links": [
               {
                 "text": "Manki Sharif",
@@ -309,7 +309,7 @@
                 "page": "Manki, Khyber Pakhtunkhwa"
               },
               {
-                "text": "NWFP",
+                "text": "خيبر پښتونخوا Khyber pukhtoonkhwa",
                 "type": "internal",
                 "page": "North-West Frontier Province (1901-55)"
               },
