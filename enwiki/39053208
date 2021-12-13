@@ -22,8 +22,17 @@
         {
           "sentences": [
             {
-              "text": "Pervez Khan Khattak (پروېز خان خټک; ; born 1 January 1950) is a Pakistani politician who is currently serving as the Defence Minister of Pakistan, in office since 20 August 2018.",
+              "text": "Pervez Khan Khattak (پروېز خان خټک; ; born 1 January 1950) in a Pushtun family of the \"Khattak\" tribe is a politician of Pakistan & is therefore rarely out of power and cabinet, He's currently serving as the Defence Minister of Pakistan, in office since 20 August 2018.",
               "links": [
+                {
+                  "text": "Pushtun",
+                  "type": "internal",
+                  "page": "Pashtuns"
+                },
+                {
+                  "type": "internal",
+                  "page": "Khattak"
+                },
                 {
                   "text": "Defence Minister of Pakistan",
                   "type": "internal",
@@ -301,10 +310,10 @@
             "text": "January 1, 1950"
           },
           "birth_place": {
-            "text": "Manki Sharif, خيبر پښتونخوا Khyber pukhtoonkhwa, Pakistan",
+            "text": "Manki Sharif Nowshera, خيبر پښتونخوا Khyber pukhtoonkhwa, Pakistan",
             "links": [
               {
-                "text": "Manki Sharif",
+                "text": "Manki Sharif Nowshera",
                 "type": "internal",
                 "page": "Manki, Khyber Pakhtunkhwa"
               },
