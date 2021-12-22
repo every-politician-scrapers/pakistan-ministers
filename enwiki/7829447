@@ -50,7 +50,11 @@
                   "page": "National Assembly of Pakistan"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "sentences": [
             {
               "text": "He has previously worked as the Chairman of Pakistan's Parliamentary Special Committee on Kashmir.",
               "links": [

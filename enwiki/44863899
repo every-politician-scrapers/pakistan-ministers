@@ -43,6 +43,10 @@
       ],
       "templates": [
         {
+          "description": "Pakistani politician, federal minister",
+          "template": "short description"
+        },
+        {
           "date": "September 2018",
           "template": "use pakistani english"
         },
@@ -66,9 +70,6 @@
           },
           "image": {
             "text": "Ali H Zaidi.jpg"
-          },
-          "caption": {
-            "text": "Ali Haider Zaidi"
           },
           "office": {
             "text": "Federal Minister for Maritime Affairs",
@@ -136,25 +137,7 @@
             "links": [
               {
                 "type": "internal",
-                "page": "Karachi"
-              },
-              {
-                "type": "internal",
-                "page": "Sindh"
-              },
-              {
-                "type": "internal",
-                "page": "Pakistan"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "🇵🇰 Pakistan",
-            "links": [
-              {
-                "text": "Pakistan",
-                "type": "internal",
-                "page": "pakistan"
+                "page": "Karachi, Sindh"
               }
             ]
           },
