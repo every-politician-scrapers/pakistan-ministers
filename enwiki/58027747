@@ -261,11 +261,15 @@
             ]
           },
           "alma_mater": {
-            "text": "Bahauddin Zakariya University",
+            "text": "Stanford, Cornel University Dean 1990-2005",
             "links": [
               {
-                "type": "internal",
-                "page": "Bahauddin Zakariya University"
+                "text": " Stanford, Cornel University Dean 1990-2005",
+                "type": "interwiki",
+                "wiki": {
+                  "wiki": "under-grad: harvard university, grad",
+                  "lang": " mit, phd"
+                }
               }
             ]
           },
