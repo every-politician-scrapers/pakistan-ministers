@@ -154,6 +154,15 @@
                 "page": "Azad Muslim Conference"
               }
             ]
+          },
+          "alma_mater": {
+            "text": "Lincoln’s Inn",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lincoln’s Inn"
+              }
+            ]
           }
         }
       ],
