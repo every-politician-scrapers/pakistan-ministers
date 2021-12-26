@@ -1,0 +1,58 @@
+id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
+Q473984,President of Pakistan,Q843,Q843,,Q13512886,1956-03-02,,,,President of Pakistan
+Q735575,Prime Minister of Pakistan,Q843,Q843,,Q13410992,1947-08-15,,,,Prime Minister of Pakistan
+Q5261070,Deputy Prime Minister of Pakistan,Q843,,,,,,,,Deputy Prime Minister of Pakistan
+Q5152430,Commerce Minister of Pakistan,Q843,,,,,,,,Commerce Minister of Pakistan
+Q109748501,Federal Minister of Communications,Q843,Q843,,,,,,,
+Q5251233,Defence Minister of Pakistan,Q843,Q843,,,1947-08-14,,,,Minister of Defence (Pakistan)
+Q109748534,Minister of Defence Production,Q843,Q843,,,,,,,
+Q109748787,Federal Minister of Economic Affairs,Q843,Q843,,,,,,,
+Q6865797,Minister for Education,Q843,Q843,,,,,,,Minister for Education (Pakistan)
+Q109748969,Federal Minister for Energy,Q843,Q843,,,,,,,
+Q16919235,Minister for Environment,Q843,,,,,,,,Minister for Environment (Pakistan)
+Q5449546,Finance Minister of Pakistan,Q843,Q843,,,,,,,Minister of Finance (Pakistan)
+Q2332457,Minister of Foreign Affairs,Q843,Q843,Q6866358,,1947-08,,,,Minister of Foreign Affairs (Pakistan)
+Q109748838,Federal Minister of Housing and Works,Q843,Q843,,,,,,,
+Q109748842,Federal Minister of Human Rights,Q843,Q843,,,,,,,
+Q109748708,Federal Minister of Industries and Production,Q843,Q843,,,,,,,
+Q6866210,Minister of Information and Broadcasting,Q843,,,,,,,,Minister of Information and Broadcasting (Pakistan)
+Q109748844,Federal Minister of Information Technology and Telecommunication,Q843,Q843,,,,,,,
+Q109748850,Federal Minister of the Interior,Q843,Q843,,,,,,,
+Q109748866,Federal Minister for Inter-Provincial Coordination,Q843,Q843,,,,,,,
+Q109748871,Federal Minister for Kashmir Affairs and Gilgit Baltistan,Q843,Q843,,,,,,,
+Q6503056,Law Minister of Pakistan,Q843,,,,,,,,Minister for Law and Justice (Pakistan)
+Q109748884,Federal Minister for Maritime Affairs,Q843,Q843,,,,,,,
+Q109748941,Federal Minister for Narcotics Control,Q843,Q843,,,,,,,
+Q109748900,Federal Minister for National Food Security and Research,Q843,Q843,,,,,,,
+Q56160171,Federal Minister for National Health Regulations and Services,Q843,,,,,,,,
+Q109748832,Federal Minister of National Heritage and Culture,Q843,Q843,,,,,,,
+Q23766516,Minister of Petroleum and Natural Resources,Q843,,,,,,,,
+Q109748920,"Federal Minister for Planning, Development and Special Initiatives",Q843,Q843,,,,,,,
+Q56160268,Federal Minister of Population Welfare,Q843,,,,,,,,
+Q109748932,Federal Minister for Privatization,Q843,Q843,,,,,,,
+Q57650391,Federal Minister for Railways,,Q843,,,,,,,
+Q56232386,Federal Minister for Religious Affairs,Q843,,,,,,,,
+Q109748950,Federal Minister for Science and Technology,Q843,Q843,,,,,,,
+Q6865966,Minister for States and Frontier Regions,Q843,,,,,,,,Minister for States and Frontier Regions
+Q6865986,Minister for Water and Power,Q843,,,,,,,,Minister for Water and Power (Pakistan)
+Q109748959,Federal Minister for Water Resources,Q843,Q843,,,,,,,
+Q3297966,Chairman of the Senate of Pakistan,Q843,Q843,,,,,,,Chairman of the Senate of Pakistan
+Q7574297,Speaker of the National Assembly of Pakistan,Q843,Q843,,,,,,,Speaker of the National Assembly of Pakistan
+Q4818650,Attorney General for Pakistan,Q843,Q843,,,1947-08-14,,,,Attorney-General for Pakistan
+Q3249579,Chief Justice of Pakistan,Q843,Q843,,,1949-06-27,,,,Chief Justice of Pakistan
+Q3000092,Governor of the State Bank of Pakistan,Q843,,,,,,,,List of governors of the State Bank of Pakistan
+Q5068077,Chairman Joint Chiefs of Staff Committee,Q843,,,,1976-03-01,,,,Chairman Joint Chiefs of Staff Committee
+Q5097024,Chief of General Staff of Pakistan,Q843,,,,,,,,Chief of General Staff (Pakistan)
+Q3694903,Governor of Balochistan,Q843,Q163239,,,1970-07-01,,,,"Governor of Balochistan, Pakistan"
+Q3695530,Chief Minister of Balochistan,Q843,Q163239,,,,,,,List of chief ministers of Balochistan
+Q5589654,Governor of Gilgit–Baltistan,Q843,,,,,,,,Governor of Gilgit-Baltistan
+Q8135012,Chief Minister of Gilgit-Baltistan,Q843,Q200697,,,,,,,Chief Minister of Gilgit-Baltistan
+Q3695560,Governor of Khyber Pakhtunkhwa,Q843,,,,1973-08-14,,,,Governor of Khyber Pakhtunkhwa
+Q5096852,Chief Minister of Khyber Pakhtunkhwa,Q843,Q183314,,,1947-08-23,,,,Chief Minister of Khyber Pakhtunkhwa
+Q3695540,"Governor of Punjab, Pakistan",Q843,Q4478,,,1947-08-15,,,,"Governor of Punjab, Pakistan"
+Q1837955,Chief Minister of Punjab,Q843,Q4478,,Q99669033,1947-08-15,,,,
+Q3695002,Governor of Sindh,Q843,Q37211,,,,,,,Governor of Sindh
+Q3694864,Chief Minister of Sindh,Q843,Q37211,,,,,,,Chief Minister of Sindh
+Q25548295,Prime Minister of Azad Kashmir,Q843,Q200130,,,1975-06,,,,Prime Minister of Azad Kashmir
+Q69593,President of Azad Kashmir,,Q200130,,,,,,,President of Azad Kashmir
+Q28172635,Mayor of Islamabad,Q843,Q848613,,,2015,,,,Mayor of Islamabad
