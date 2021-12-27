@@ -156,11 +156,15 @@
             ]
           },
           "alma_mater": {
-            "text": "Lincoln’s Inn",
+            "text": "Lincoln’s Inn\nGovernment Gordon College",
             "links": [
               {
                 "type": "internal",
                 "page": "Lincoln’s Inn"
+              },
+              {
+                "type": "internal",
+                "page": "Government Gordon College"
               }
             ]
           }
