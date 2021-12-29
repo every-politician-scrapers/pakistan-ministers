@@ -222,8 +222,9 @@
             "text": "* Command and Staff College, Quetta \n* National Defence University, Islamabad",
             "links": [
               {
+                "text": "Command and Staff College",
                 "type": "internal",
-                "page": "Command and Staff College"
+                "page": "Pakistan Command and Staff College"
               },
               {
                 "text": "National Defence University",
