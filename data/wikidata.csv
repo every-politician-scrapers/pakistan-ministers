@@ -1,30 +1,30 @@
-wdid,name,wdLabel,gender,dob,dobPrecision,source,sourceDate,pid,position,psid
-Q13579848,Mr. Pervez Khattak,Pervez Khattak,male,1950-01-01,11,http://www.na.gov.pk/en/fmins_list.php,2021-11-26,Q5251233,Defence,Q13579848-A31F6B66-45E5-4D14-A5EA-A7383B9D9B0B
-Q1543422,Makhdoom Shah Mahmood Hussain Qureshi,Makhdoom Shah Mahmood Hussain Qureshi,male,1956-06-22,11,http://www.na.gov.pk/en/fmins_list.php,2021-11-26,Q2332457,Foreign Affairs,Q1543422-D988D6F3-73B5-4371-BA82-217831E15AE4
-Q155164,Imran Khan,Imran Khan,male,1952-11-25,11,,,Q735575,Prime Minister of Pakistan,Q155164-1D2E5390-DD77-4268-9D99-2447FDD48721
-Q16187331,Muhammad Azam Khan Swati,Muhammad Azam Khan Swati,male,1956-06-22,11,http://www.na.gov.pk/en/fmins_list.php,2021-11-26,Q57650391,Railways,Q16187331-5E375EB1-C4BC-4C50-A818-747F09031806
-Q16231467,Mr. Murad Saeed,Murad Saeed,male,1986-08-17,11,http://www.na.gov.pk/en/fmins_list.php,2021-11-26,Q109748501,Communications,Q16231467-ED0A1E44-B3B8-4B4B-9F30-5757CECB19ED
-Q16727368,Makhdoom Khusro Bukhtiar,Makhdoom Khusro Bakhtiar,male,1969-07-07,11,http://www.na.gov.pk/en/fmins_list.php,2021-11-26,Q109748708,Industries and Production,Q16727368-6B714667-308D-42DE-AC01-7DA03412527F
-Q16730787,Mr. Ali Amin Khan Gandapur,Ali Amin Khan,male,,,http://www.na.gov.pk/en/fmins_list.php,2021-11-26,Q109748871,Kashmir Affairs & Gilgit Baltistan,Q16730787-420F82A1-2EEF-4DDD-9B7B-6A1575355BD0
-Q18815900,Chaudhary Tariq Bashir Cheema,Chaudhary Tariq Bashir Cheema,male,1958-11-11,11,http://www.na.gov.pk/en/fmins_list.php,2021-11-26,Q109748838,Housing and Works,Q18815900-EA618DF6-99ED-4850-BAE6-525BF18095A2
-Q19662586,Syed Shibli Faraz,Syed Shibli Faraz,male,,,http://www.na.gov.pk/en/fmins_list.php,2021-11-26,Q109748950,Science and Technology,Q19662586-7EA7BE5E-676F-477B-8FC6-BFA9591DC4F7
-Q19667804,Syed Ali Haider Zaidi,Ali Haider Zaidi,male,,,http://www.na.gov.pk/en/fmins_list.php,2021-11-26,Q109748884,Maritime Affairs,Q19667804-7254397A-C0F1-4EEA-85E9-5639B9FA58A9
-Q2371076,Dr. Fehmida Mirza,Dr. Fahmida Mirza,female,1956-12-20,11,http://www.na.gov.pk/en/fmins_list.php,2021-11-26,Q109748866,Inter-Provincial Coordination,Q2371076-62653A42-88E4-4567-93ED-09381904FB3F
-Q317624,Mr. Muhammad Mian Soomro,Muhammad Mian Soomro,male,1950-08-19,11,http://www.na.gov.pk/en/fmins_list.php,2021-11-26,Q109748932,Privatization,Q317624-A703F38D-4404-4E0D-AB04-31A8E91B7E4F
-Q33190078,Mr. Noor-Ul-Haq Qadri,Noorul Haq Al Qadri,male,1970-11-14,11,http://www.na.gov.pk/en/fmins_list.php,2021-11-26,Q56232386,Religious Affairs and Inter-faith Harmony,Q33190078-013E00C3-A6EF-45CC-98E3-AA47183A831D
-Q33528842,Sahibzada Muhammad Mehboob Sultan,Muhammad Mehboob Sultan,male,,,http://www.na.gov.pk/en/fmins_list.php,2021-11-26,Q6865966,States & Frontier Regions,Q33528842-FFDFDA88-814D-4CC0-8A93-D143E0BD723B
-Q4803224,Mr. Asad Umer,Asad Umer,male,1961-09-01,10,http://www.na.gov.pk/en/fmins_list.php,2021-11-26,Q109748920,"Planning, Development and Special Initiatives",Q4803224-61EBE95C-D5AE-43C5-9030-8AC3131CEBFB
-Q5431517,Syed Fakhar Imam,Syed Fakhar Imam,male,1942-12-18,11,http://www.na.gov.pk/en/fmins_list.php,2021-11-26,Q109748900,National Food Security and Research,Q5431517-62EB5255-EF63-4474-8D96-B6620B981E23
-Q5436115,Dr. Mohammad Farogh Naseem,Dr. Muhammad Farogh Naseem,male,1969-06-26,11,http://www.na.gov.pk/en/fmins_list.php,2021-11-26,Q6503056,Law and Justice,Q5436115-48EF5B4B-7CE6-4232-9EE4-554D2E312F77
-Q5557676,Mr. Ghulam Sarwar Khan,Ghulam Sarwar Khan,male,1955-10-13,11,http://www.na.gov.pk/en/fmins_list.php,2021-11-26,Q109748427,Aviation Division,Q5557676-475E035A-1EE2-438B-B15B-3EB4FCA82E9A
-Q55761250,Mr. Muhammad Hammad Azhar,Hammad Azhar,male,1981-01-01,9,http://www.na.gov.pk/en/fmins_list.php,2021-11-26,Q109748969,Energy,Q55761250-A0558B3D-6FC7-40FF-98D9-3744666B7B68
-Q55761307,Mr. Fawad Ahmed,Fawad Ahmed Chaudhry,male,1950-01-01,7,http://www.na.gov.pk/en/fmins_list.php,2021-11-26,Q6866210,Information and Broadcasting,Q55761307-4B945AF9-A72B-42E7-9E0D-9F955D71E7F3
-Q55819278,Syed Amin Ul Haque,Syed Amin Haque,male,,,http://www.na.gov.pk/en/fmins_list.php,2021-11-26,Q109748844,Information Technology & Telecom,Q55819278-ACE2242B-FF77-444C-A407-F2260A2AC790
-Q5995130,Mr. Ijaz Ahmad Shah,Ijaz Ahmed Shah,male,1954-01-01,9,http://www.na.gov.pk/en/fmins_list.php,2021-11-26,Q109748941,Narcotics Control,Q5995130-BA25AC11-D40B-4EAE-B202-B83D71A8C039
-Q6907814,Mr. Moonis Elahi,Moonis Elahi,male,1976-04-12,11,http://www.na.gov.pk/en/fmins_list.php,2021-11-26,Q109748959,Water Resources,Q6907814-74211F5E-6263-455C-AE06-EAD4114BBC26
-Q7089644,Mr. Omar Ayub Khan,Omar Ayub Khan,male,1970-01-26,11,http://www.na.gov.pk/en/fmins_list.php,2021-11-26,Q109748787,Economic Affairs,Q7089644-F893CD6C-4E71-4112-969C-E9379CE32699
-Q7461074,Shafqat Mahmood,Shafqat Mahmood,male,1950-02-19,11,,,Q6865797,Minister for Education,Q7461074-A74C50BF-3E9E-4F07-BFAC-78A0C3BDF06F
-Q7461074,Shafqat Mahmood,Shafqat Mahmood,male,1950-02-19,11,,,Q109748832,Federal Minister of National Heritage and Culture,Q7461074-FD99F342-01F9-4D5E-942C-4F2B3E08C25A
-Q7462429,Sheikh Rashid Ahmed,Sheikh Rasheed Ahmed,male,1950-11-06,11,http://www.na.gov.pk/en/fmins_list.php,2021-11-26,Q109748850,Interior,Q7462429-94B138BB-637F-4C45-9767-0C2219D6EEAC
-Q7498535,Dr. Shireen M. Mazari,Shireen M. Mazari,female,2000-01-01,7,http://www.na.gov.pk/en/fmins_list.php,2021-11-26,Q109748842,Human Rights,Q7498535-6F77B314-25C4-4A43-B56A-73F4D8F61B8D
-Q8074907,Ms. Zubaida Jalal,Zubaida Jalal,female,1959-08-31,11,http://www.na.gov.pk/en/fmins_list.php,2021-11-26,Q109748534,Defence Production,Q8074907-F4B59A1A-45DB-4126-BBE9-DB2F628FF92D
+wdid,name,wdLabel,gender,dob,dobPrecision,source,sourceDate,pid,position,start,psid
+Q13579848,Mr. Pervez Khattak,Pervez Khattak,male,1950-01-01,11,http://www.na.gov.pk/en/fmins_list.php,2021-11-26,Q5251233,Defence,2018-08-20,Q13579848-A31F6B66-45E5-4D14-A5EA-A7383B9D9B0B
+Q1543422,Makhdoom Shah Mahmood Hussain Qureshi,Makhdoom Shah Mahmood Hussain Qureshi,male,1956-06-22,11,http://www.na.gov.pk/en/fmins_list.php,2021-11-26,Q2332457,Foreign Affairs,2018-08-20,Q1543422-D988D6F3-73B5-4371-BA82-217831E15AE4
+Q155164,Imran Khan,Imran Khan,male,1952-11-25,11,,,Q735575,Prime Minister of Pakistan,2018-08-18,Q155164-1D2E5390-DD77-4268-9D99-2447FDD48721
+Q16187331,Muhammad Azam Khan Swati,Muhammad Azam Khan Swati,male,1956-06-22,11,http://www.na.gov.pk/en/fmins_list.php,2021-11-26,Q57650391,Railways,2020-12-11,Q16187331-5E375EB1-C4BC-4C50-A818-747F09031806
+Q16231467,Mr. Murad Saeed,Murad Saeed,male,1986-08-17,11,http://www.na.gov.pk/en/fmins_list.php,2021-11-26,Q109748501,Communications,2018-12-17,Q16231467-ED0A1E44-B3B8-4B4B-9F30-5757CECB19ED
+Q16727368,Makhdoom Khusro Bukhtiar,Makhdoom Khusro Bakhtiar,male,1969-07-07,11,http://www.na.gov.pk/en/fmins_list.php,2021-11-26,Q109748708,Industries and Production,2021-04-17,Q16727368-6B714667-308D-42DE-AC01-7DA03412527F
+Q16730787,Mr. Ali Amin Khan Gandapur,Ali Amin Khan,male,,,http://www.na.gov.pk/en/fmins_list.php,2021-11-26,Q109748871,Kashmir Affairs & Gilgit Baltistan,2018-10-05,Q16730787-420F82A1-2EEF-4DDD-9B7B-6A1575355BD0
+Q18815900,Chaudhary Tariq Bashir Cheema,Chaudhary Tariq Bashir Cheema,male,1958-11-11,11,http://www.na.gov.pk/en/fmins_list.php,2021-11-26,Q109748838,Housing and Works,2018-09-06,Q18815900-EA618DF6-99ED-4850-BAE6-525BF18095A2
+Q19662586,Syed Shibli Faraz,Syed Shibli Faraz,male,,,http://www.na.gov.pk/en/fmins_list.php,2021-11-26,Q109748950,Science and Technology,2021-04-16,Q19662586-7EA7BE5E-676F-477B-8FC6-BFA9591DC4F7
+Q19667804,Syed Ali Haider Zaidi,Ali Haider Zaidi,male,,,http://www.na.gov.pk/en/fmins_list.php,2021-11-26,Q109748884,Maritime Affairs,2018-09-11,Q19667804-7254397A-C0F1-4EEA-85E9-5639B9FA58A9
+Q2371076,Dr. Fehmida Mirza,Dr. Fahmida Mirza,female,1956-12-20,11,http://www.na.gov.pk/en/fmins_list.php,2021-11-26,Q109748866,Inter-Provincial Coordination,2018-08-20,Q2371076-62653A42-88E4-4567-93ED-09381904FB3F
+Q317624,Mr. Muhammad Mian Soomro,Muhammad Mian Soomro,male,1950-08-19,11,http://www.na.gov.pk/en/fmins_list.php,2021-11-26,Q109748932,Privatization,2018-10-05,Q317624-A703F38D-4404-4E0D-AB04-31A8E91B7E4F
+Q33190078,Mr. Noor-Ul-Haq Qadri,Noorul Haq Al Qadri,male,1970-11-14,11,http://www.na.gov.pk/en/fmins_list.php,2021-11-26,Q56232386,Religious Affairs and Inter-faith Harmony,2018-08-20,Q33190078-013E00C3-A6EF-45CC-98E3-AA47183A831D
+Q33528842,Sahibzada Muhammad Mehboob Sultan,Muhammad Mehboob Sultan,male,,,http://www.na.gov.pk/en/fmins_list.php,2021-11-26,Q6865966,States & Frontier Regions,2019-11-19,Q33528842-FFDFDA88-814D-4CC0-8A93-D143E0BD723B
+Q4803224,Mr. Asad Umer,Asad Umer,male,1961-09-01,10,http://www.na.gov.pk/en/fmins_list.php,2021-11-26,Q109748920,"Planning, Development and Special Initiatives",2019-11-19,Q4803224-61EBE95C-D5AE-43C5-9030-8AC3131CEBFB
+Q5431517,Syed Fakhar Imam,Syed Fakhar Imam,male,1942-12-18,11,http://www.na.gov.pk/en/fmins_list.php,2021-11-26,Q109748900,National Food Security and Research,2020-04-06,Q5431517-62EB5255-EF63-4474-8D96-B6620B981E23
+Q5436115,Dr. Mohammad Farogh Naseem,Dr. Muhammad Farogh Naseem,male,1969-06-26,11,http://www.na.gov.pk/en/fmins_list.php,2021-11-26,Q6503056,Law and Justice,2020-07-24,Q5436115-48EF5B4B-7CE6-4232-9EE4-554D2E312F77
+Q5557676,Mr. Ghulam Sarwar Khan,Ghulam Sarwar Khan,male,1955-10-13,11,http://www.na.gov.pk/en/fmins_list.php,2021-11-26,Q109748427,Aviation Division,2019-04-18,Q5557676-475E035A-1EE2-438B-B15B-3EB4FCA82E9A
+Q55761250,Mr. Muhammad Hammad Azhar,Hammad Azhar,male,1981-01-01,9,http://www.na.gov.pk/en/fmins_list.php,2021-11-26,Q109748969,Energy,2021-04-17,Q55761250-A0558B3D-6FC7-40FF-98D9-3744666B7B68
+Q55761307,Mr. Fawad Ahmed,Fawad Ahmed Chaudhry,male,1950-01-01,7,http://www.na.gov.pk/en/fmins_list.php,2021-11-26,Q6866210,Information and Broadcasting,2021-04-14,Q55761307-4B945AF9-A72B-42E7-9E0D-9F955D71E7F3
+Q55819278,Syed Amin Ul Haque,Syed Amin Haque,male,,,http://www.na.gov.pk/en/fmins_list.php,2021-11-26,Q109748844,Information Technology & Telecom,2020-04-06,Q55819278-ACE2242B-FF77-444C-A407-F2260A2AC790
+Q5995130,Mr. Ijaz Ahmad Shah,Ijaz Ahmed Shah,male,1954-01-01,9,http://www.na.gov.pk/en/fmins_list.php,2021-11-26,Q109748941,Narcotics Control,2020-12-11,Q5995130-BA25AC11-D40B-4EAE-B202-B83D71A8C039
+Q6907814,Mr. Moonis Elahi,Moonis Elahi,male,1976-04-12,11,http://www.na.gov.pk/en/fmins_list.php,2021-11-26,Q109748959,Water Resources,2021-07-13,Q6907814-74211F5E-6263-455C-AE06-EAD4114BBC26
+Q7089644,Mr. Omar Ayub Khan,Omar Ayub Khan,male,1970-01-26,11,http://www.na.gov.pk/en/fmins_list.php,2021-11-26,Q109748787,Economic Affairs,2021-04-17,Q7089644-F893CD6C-4E71-4112-969C-E9379CE32699
+Q7461074,Shafqat Mahmood,Shafqat Mahmood,male,1950-02-19,11,,,Q6865797,Minister for Education,2018-08-20,Q7461074-A74C50BF-3E9E-4F07-BFAC-78A0C3BDF06F
+Q7461074,Shafqat Mahmood,Shafqat Mahmood,male,1950-02-19,11,,,Q109748832,Federal Minister of National Heritage and Culture,2018-08-20,Q7461074-FD99F342-01F9-4D5E-942C-4F2B3E08C25A
+Q7462429,Sheikh Rashid Ahmed,Sheikh Rasheed Ahmed,male,1950-11-06,11,http://www.na.gov.pk/en/fmins_list.php,2021-11-26,Q109748850,Interior,2020-12-11,Q7462429-94B138BB-637F-4C45-9767-0C2219D6EEAC
+Q7498535,Dr. Shireen M. Mazari,Shireen M. Mazari,female,2000-01-01,7,http://www.na.gov.pk/en/fmins_list.php,2021-11-26,Q109748842,Human Rights,2018-08-20,Q7498535-6F77B314-25C4-4A43-B56A-73F4D8F61B8D
+Q8074907,Ms. Zubaida Jalal,Zubaida Jalal,female,1959-08-31,11,http://www.na.gov.pk/en/fmins_list.php,2021-11-26,Q109748534,Defence Production,2018-08-20,Q8074907-F4B59A1A-45DB-4126-BBE9-DB2F628FF92D
