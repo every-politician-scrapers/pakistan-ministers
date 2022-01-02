@@ -32,14 +32,10 @@
         {
           "sentences": [
             {
-              "text": "Makhdoom Shah Mahmood Hussain Qureshi (born 22 June 1956) is a Pakistani politician who is the Minister of Foreign Affairs, serving since 20 August 2018.",
+              "text": "Makhdoom Shah Mahmood Hussain Qureshi (born 22 June 1956) is a Pakistani politician who is the 29th and current minister of Foreign Affairs since 20 August 2018.",
               "links": [
                 {
-                  "type": "internal",
-                  "page": "Pakistani"
-                },
-                {
-                  "text": "Minister of Foreign Affairs",
+                  "text": "minister of Foreign Affairs",
                   "type": "internal",
                   "page": "Minister of Foreign Affairs (Pakistan)"
                 }
@@ -51,10 +47,10 @@
               }
             },
             {
-              "text": "He has been a Member of the Pakistani Parliament in the National Assembly since August 2018 and the Vice Chairman of the Pakistan Tehreek-e-Insaf political party since December 2011.",
+              "text": "He has been a member of the Parliament in the National Assembly since August 2018 and the vice chairman of the Pakistan Tehreek-e-Insaf political party since December 2011.",
               "links": [
                 {
-                  "text": "Member of the Pakistani Parliament",
+                  "text": "member of the Parliament",
                   "type": "internal",
                   "page": "Parliament of Pakistan"
                 },
@@ -70,8 +66,13 @@
               ]
             },
             {
-              "text": "He is also the current gaddi nasheen of Bahauddin Zakariya and Shah Rukn-e-Alam shrines.",
+              "text": "He is also the current sajjada nashin of Bahauddin Zakariya and Shah Rukn-e-Alam shrines.",
               "links": [
+                {
+                  "text": "sajjada nashin",
+                  "type": "internal",
+                  "page": "sajjada nashin"
+                },
                 {
                   "text": "Bahauddin Zakariya",
                   "type": "internal",
@@ -80,7 +81,7 @@
               ],
               "formatting": {
                 "italic": [
-                  "gaddi nasheen"
+                  "sajjada nashin"
                 ]
               }
             }
@@ -89,7 +90,7 @@
         {
           "sentences": [
             {
-              "text": "Previously, he was a member of the National Assembly from 2002 to May 2018 and served as the Minister for Foreign Affairs from 2008 to 2011."
+              "text": "Previously, he was a member of the National Assembly from 2002 to May 2018 and served as the minister for Foreign Affairs from 2008 to 2011."
             }
           ]
         },
@@ -137,7 +138,7 @@
               ]
             },
             {
-              "text": "He served as the Minister of State for Parliamentary Affairs in the federal cabinet from 1993 to 1996 and later as the Mayor of Multan from 2000 to 2002.",
+              "text": "He served as the minister of State for Parliamentary Affairs in the federal cabinet from 1993 to 1996 and later as the Mayor of Multan from 2000 to 2002.",
               "links": [
                 {
                   "text": "Mayor of Multan",
@@ -170,22 +171,14 @@
           "template": "birth date and age"
         },
         {
+          "titlestyle": "background:lavender;text-align:center;",
+          "title": "Other offices",
+          "bullets": "on",
           "list": [
-            "Flag of the Pakistan Tehreek-e-Insaf.svg"
+            "Incumbent since December 2011: Vice chairman of Pakistan Tehreek-e-Insaf",
+            "2000–2002: Mayor of Multan"
           ],
-          "template": "flagicon image"
-        },
-        {
-          "list": [
-            "Flag of IJI.svg"
-          ],
-          "template": "flagicon image"
-        },
-        {
-          "list": [
-            "Flag of Pakistan People's Party.svg"
-          ],
-          "template": "flagicon image"
+          "template": "collapsible list"
         },
         {
           "list": [
@@ -209,10 +202,10 @@
             ]
           },
           "image": {
-            "text": "File:Shah Mehmood Qureshi - 2011 (cropped).jpg"
+            "text": "Shah Mehmood Qureshi - 2011 (cropped).jpg"
           },
           "office": {
-            "text": "Minister of Foreign Affairs",
+            "text": "29th Minister of Foreign Affairs",
             "links": [
               {
                 "text": "Minister of Foreign Affairs",
@@ -302,48 +295,7 @@
               }
             ]
           },
-          "office2": {
-            "text": "Vice Chairman of Pakistan Tehreek-e-Insaf",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Pakistan Tehreek-e-Insaf"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "4 December 2011"
-          },
-          "1blankname2": {
-            "text": "Chairman"
-          },
-          "1namedata2": {
-            "text": "Imran Khan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Imran Khan"
-              }
-            ]
-          },
           "office3": {
-            "text": "Mayor of Multan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mayor of Multan"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "2000",
-            "number": 2000
-          },
-          "term_end3": {
-            "text": "2002",
-            "number": 2002
-          },
-          "office4": {
             "text": "Minister of State for Parliamentary Affairs",
             "links": [
               {
@@ -353,13 +305,13 @@
               }
             ]
           },
-          "term_start4": {
+          "term_start3": {
             "text": "20 December 1994"
           },
-          "term_end4": {
+          "term_end3": {
             "text": "05 November 1996"
           },
-          "president4": {
+          "president3": {
             "text": "Farooq Leghari",
             "links": [
               {
@@ -368,7 +320,7 @@
               }
             ]
           },
-          "primeminister4": {
+          "primeminister3": {
             "text": "Benazir Bhutto",
             "links": [
               {
@@ -377,7 +329,7 @@
               }
             ]
           },
-          "office5": {
+          "office4": {
             "text": "Provincial Minister for Finance of Punjab",
             "links": [
               {
@@ -387,15 +339,15 @@
               }
             ]
           },
-          "term_start5": {
+          "term_start4": {
             "text": "1990",
             "number": 1990
           },
-          "term_end5": {
+          "term_end4": {
             "text": "1993",
             "number": 1993
           },
-          "governor5": {
+          "governor4": {
             "text": "Mian Muhammad Azhar\nChaudhry Altaf Hussain",
             "links": [
               {
@@ -595,15 +547,11 @@
               {
                 "type": "internal",
                 "page": "West Pakistan"
-              },
-              {
-                "type": "internal",
-                "page": "Pakistan"
               }
             ]
           },
           "party": {
-            "text": "Pakistan Tehreek-e-Insaf (2011 - present)",
+            "text": "Pakistan Tehreek-e-Insaf (2011–present)",
             "links": [
               {
                 "type": "internal",
@@ -612,7 +560,7 @@
             ]
           },
           "otherparty": {
-            "text": "Islami Jamhoori Ittehad (1988–1993)\n  Pakistan Peoples Party (1993–2011)",
+            "text": "Islami Jamhoori Ittehad (1988–1993)\nPakistan Peoples Party (1993–2011)",
             "links": [
               {
                 "type": "internal",
@@ -662,6 +610,14 @@
                 "page": "Zain Hussain Qureshi"
               }
             ]
+          },
+          "footnotes": {
+            "text": "Other offices\n\nIncumbent since December 2011: Vice chairman of Pakistan Tehreek-e-Insaf\n\n2000–2002: Mayor of Multan",
+            "formatting": {
+              "bold": [
+                "Other offices"
+              ]
+            }
           }
         }
       ],
