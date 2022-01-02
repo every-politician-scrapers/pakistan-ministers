@@ -84,6 +84,9 @@
                   "page": "Engro Corporation"
                 }
               ]
+            },
+            {
+              "text": "He serves as secretry general of Pakistan Tehreek e Insaf since December 2021."
             }
           ]
         }
@@ -352,6 +355,12 @@
                 "page": "Constituency NA-48"
               }
             ]
+          },
+          "office6": {
+            "text": "Secretry General of Pakistan Tehreek e Insaf"
+          },
+          "term6": {
+            "text": "December 2021"
           },
           "birth_date": {
             "text": "September 8, 1961"
