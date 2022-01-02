@@ -387,38 +387,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "date": "2021-03-29",
-          "title": "Hammad Azhar appointed as Federal Minister of Finance and Revenue",
-          "url": "https://www.thenews.com.pk/latest/811717-govt-decides-to-replace-hafeez-shaikh-appoint-hammad-azhar-as-new-finance-minister-sources",
-          "url-status": "live",
-          "access-date": "2021-03-29",
-          "website": "The News International",
-          "language": "en",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "2021-03-29",
-          "title": "Govt decides to replace Hafeez Shaikh, appoint Hammad Azhar as new finance minister: sources",
-          "url": "https://www.thenews.com.pk/latest/811717-govt-decides-to-replace-hafeez-shaikh-appoint-hammad-azhar-as-new-finance-minister-sources",
-          "access-date": "2021-03-29",
-          "website": "The News International",
-          "language": "en",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Banking wizard Shaukat Tarin made third finance minister in weeks {{!}} SAMAA",
-          "url": "https://www.samaa.tv/news/2021/04/shaukat-tareen-appointed-pakistans-finance-minister/",
-          "access-date": "2021-04-16",
-          "website": "Samaa TV",
-          "language": "en-US",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

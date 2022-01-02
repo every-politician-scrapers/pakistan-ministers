@@ -471,42 +471,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://www.pakistanherald.com/profile/syed-fakhar-imam-1169",
-          "title": "Syed Fakhar Imam",
-          "website": "Pakistan Herald",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://nation.com.pk/08-Apr-2020/fakhar-imam-takes-oath-as-federal-minister",
-          "title": "Fakhar Imam takes oath as Federal Minister",
-          "author": "Staff Reporter",
-          "date": "April 8, 2020",
-          "website": "nation.com.pk",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.na.gov.pk/h_speaker.html",
-          "title": "Speakers / Presidents",
-          "publisher": "National Assembly of Pakistan",
-          "access-date": "26 February 2011",
-          "url-status": "dead",
-          "archive-url": "https://web.archive.org/web/20100204000937/http://www.na.gov.pk/h_speaker.html",
-          "archive-date": "4 February 2010",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.pakistantoday.com.pk/2019/02/02/govt-to-appoint-fakhar-imam-as-kashmir-committee-chairman/",
-          "title": "Govt to appoint Fakhar Imam as Kashmir Committee chairman - Pakistan Today",
-          "website": "www.pakistantoday.com.pk",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

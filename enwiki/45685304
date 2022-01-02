@@ -339,28 +339,6 @@
             "text": "Politician"
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://www.khaleejtimes.com/kt-article-display-1.asp?xfile=data/international/2015/March/international_March334.xml&section=internationalMaulana",
-          "title": "Maulana Haidri sworn in as Senate deputy chairman",
-          "website": "www.khaleejtimes.com",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://dunyanews.tv/index.php/en/Pakistan/267087-Politicians-surprised-as-PTIs-Shibli-Faraz-gets-1",
-          "title": "Politicians surprised as PTI's Shibli Faraz gets 16 votes instead of 7 - Pakistan - Dunya News",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://arynews.tv/en/pti-coalition-partners-sweep-kp-senate-polls/",
-          "title": "PTI, coalition partners sweep senate polls from KP - ARYNEWS",
-          "date": "6 March 2015",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

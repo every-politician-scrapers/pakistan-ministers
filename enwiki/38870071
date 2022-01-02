@@ -315,53 +315,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://www.chron.com/news/houston-texas/article/The-World-in-Houston-2116537.php",
-          "title": "The World in Houston: Success spans the globe",
-          "work": "Houston Chronicle",
-          "date": "12 May 2003",
-          "accessdate": "12 July 2016",
-          "first": "Edward",
-          "last": "Hegstrom",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "https://www.dawn.com/news/1393083/pml-n-gains-senate-control-amid-surprise-ppp-showing",
-          "title": "PML-N gains Senate control amid surprise PPP showing",
-          "last": "Khan",
-          "first": "Iftikhar A.",
-          "date": "2018-03-04",
-          "work": "DAWN.COM",
-          "access-date": "2018-10-10",
-          "language": "en-US",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "date": "July 2017",
-          "template": "citation needed"
-        }
       ]
     }
   ]
