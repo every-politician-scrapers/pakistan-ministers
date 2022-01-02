@@ -402,27 +402,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "last": "Dawn.com",
-          "date": "2021-04-15",
-          "title": "Fawad Chaudhry appointed information minister a second time",
-          "url": "https://www.dawn.com/news/1618383",
-          "access-date": "2021-05-04",
-          "website": "DAWN.COM",
-          "language": "en",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "A Potohari family album ‹ The Friday Times",
-          "url": "http://www.thefridaytimes.com/tft/a-potohari-family-album/",
-          "access-date": "19 August 2018",
-          "work": "The Friday Times",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]

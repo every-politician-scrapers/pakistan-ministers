@@ -173,36 +173,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "date": "2020-04-22",
-          "title": "Aminul Haque sworn in as Federal Minister for Information Technology",
-          "url": "https://arynews.tv/aminul-haque-sworn-federal-minister/",
-          "access-date": "2021-10-16",
-          "website": "ARY NEWS",
-          "language": "en-US",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "MINISTRY OF INFORMATION TECHNOLOGY & TELECOMMUNICATION",
-          "url": "https://moitt.gov.pk/",
-          "access-date": "2020-11-13",
-          "website": "moitt.gov.pk",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "2021-10-11",
-          "title": "MQM-P vows support to Balochistan quake victims",
-          "url": "http://tribune.com.pk/story/2324239/mqm-p-vows-support-to-balochistan-quake-victims",
-          "access-date": "2021-10-16",
-          "website": "The Express Tribune",
-          "language": "en",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
