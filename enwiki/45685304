@@ -22,11 +22,6 @@
               "text": "Shibli Faraz is a Pakistani politician serving  as the Minister of Science and Technology, in office  from 16 April 2021.",
               "links": [
                 {
-                  "text": "Pakistani",
-                  "type": "internal",
-                  "page": "Pakistan"
-                },
-                {
                   "text": "Minister of Science and Technology",
                   "type": "internal",
                   "page": "Ministry of Science and Technology (Pakistan)"
@@ -61,7 +56,7 @@
         {
           "sentences": [
             {
-              "text": "Previously, Shibli has served as the Leader of the House for the Senate of Pakistan from 26 August 2018 till 04 June 2020.",
+              "text": "Previously, Shibli has served as the Leader of the House for the Senate of Pakistan from 26 August 2018 till 4 June 2020.",
               "links": [
                 {
                   "type": "internal",
@@ -117,7 +112,7 @@
             "text": "Federal Minister for Science and Technology",
             "links": [
               {
-                "text": " Federal Minister for Science and Technology",
+                "text": "Federal Minister for Science and Technology",
                 "type": "internal",
                 "page": "Ministry of Science and Technology (Pakistan)"
               }
@@ -157,7 +152,7 @@
             "text": "Federal Minister for Information and Broadcasting",
             "links": [
               {
-                "text": " Federal Minister for Information and Broadcasting",
+                "text": "Federal Minister for Information and Broadcasting",
                 "type": "internal",
                 "page": "Ministry of Information & Broadcasting (Pakistan)"
               }
