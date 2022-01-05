@@ -49,7 +49,7 @@
       ],
       "templates": [
         {
-          "description": "Chief Minister Gilgit-Baltistan (2020–present)",
+          "description": "Pakistani politician",
           "template": "short description"
         },
         {
@@ -147,7 +147,19 @@
             "text": "25 November 2020"
           },
           "constituency": {
-            "text": "Astore 1, GBLA 13"
+            "text": "GBLA-13 (Astore-1)",
+            "links": [
+              {
+                "text": "GBLA-13",
+                "type": "internal",
+                "page": "Constituency GBLA-13"
+              },
+              {
+                "text": "Astore-1",
+                "type": "internal",
+                "page": "Astore District"
+              }
+            ]
           },
           "birth_date": {
             "text": "November 17, 1980"
@@ -184,11 +196,16 @@
             ]
           },
           "residence": {
-            "text": "Chief Minister of Gilgit-Baltistan",
+            "text": "Chief Minister House, Gilgit",
             "links": [
               {
+                "text": "Chief Minister House",
                 "type": "internal",
                 "page": "Chief Minister of Gilgit-Baltistan"
+              },
+              {
+                "type": "internal",
+                "page": "Gilgit"
               }
             ]
           },
@@ -202,12 +219,15 @@
             ]
           },
           "profession": {
-            "text": "Politician • barrister",
+            "text": "Politician\nBarrister",
             "links": [
               {
-                "text": "barrister",
                 "type": "internal",
-                "page": "barrister"
+                "page": "Politician"
+              },
+              {
+                "type": "internal",
+                "page": "Barrister"
               }
             ]
           },
