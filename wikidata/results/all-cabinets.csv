@@ -1,4 +1,5 @@
-ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,isa,isaLabel,parent,parentLabel,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
-,Q56280663,Ashraf ministry,2012-06-22,11,,,2013-03-24,11,,,Q2607174,Federal Cabinet of Pakistan,,,Q18125118,Gillani ministry,Q18219532,Khoso caretaker ministry,,,,
-,Q15939229,Sharif III Government,2013-01-01,9,,,,,,,Q640506,cabinet,,,,,Q39057308,Abbasi ministry,Q18219532,Khoso caretaker ministry,,
-,Q55075001,Mulk caretaker ministry,2018-06-05,11,,,2018-08-18,11,,,Q2607174,Federal Cabinet of Pakistan,,,Q39057308,Abbasi ministry,Q56179236,Khan ministry,,,,
+ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
+,Q56280663,Ashraf ministry,2012-06-22,11,,,2013-03-24,11,,,Q18125118,Gillani ministry,Q18219532,Khoso caretaker ministry,,,,
+,Q15939229,Sharif III Government,2013-01-01,9,,,,,,,,,Q39057308,Abbasi ministry,Q18219532,Khoso caretaker ministry,,
+,Q55075001,Mulk caretaker ministry,2018-06-05,11,,,2018-08-18,11,,,Q39057308,Abbasi ministry,Q56179236,Khan ministry,,,,
+,Q56179236,Khan ministry,2018-08-20,11,,,,,,,Q55075001,Mulk caretaker ministry,,,,,,
