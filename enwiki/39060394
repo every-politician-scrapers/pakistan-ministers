@@ -243,8 +243,12 @@
             "text": "Pakistani"
           },
           "alma_mater": {
-            "text": "University of Peshawar",
+            "text": "Government Post Graduate College, Swabi University of Peshawar",
             "links": [
+              {
+                "type": "internal",
+                "page": "Government Post Graduate College, Swabi"
+              },
               {
                 "type": "internal",
                 "page": "University of Peshawar"
