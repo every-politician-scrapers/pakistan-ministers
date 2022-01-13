@@ -1117,16 +1117,16 @@
             "number": 2
           },
           "education": {
-            "text": "University of Oxford (BA)",
+            "text": "University of Oxford (MA)",
             "links": [
               {
                 "type": "internal",
                 "page": "University of Oxford"
               },
               {
-                "text": "BA",
+                "text": "MA",
                 "type": "internal",
-                "page": "Bachelor of Arts"
+                "page": "Masters of Arts"
               }
             ]
           },
