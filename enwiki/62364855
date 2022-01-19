@@ -96,7 +96,7 @@
       ],
       "templates": [
         {
-          "description": "Chairman Joint Chiefs of Staff Committee, Pakistan Army",
+          "description": "17th Chairman Joint Chiefs of Staff Committee",
           "template": "short description"
         },
         {
@@ -136,7 +136,7 @@
             "text": "CJCSC Gen.Nadeem Raza.jpg"
           },
           "office": {
-            "text": "Chairman Joint Chiefs of Staff Committee",
+            "text": "17th Chairman Joint Chiefs of Staff Committee",
             "links": [
               {
                 "type": "internal",
