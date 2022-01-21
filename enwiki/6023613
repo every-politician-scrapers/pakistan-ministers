@@ -112,13 +112,13 @@
       ],
       "templates": [
         {
-          "date": "October 2021",
-          "template": "use dmy dates"
-        },
-        {
           "description": "Pakistani politician",
           "bot": "PearBOT 5",
           "template": "short description"
+        },
+        {
+          "date": "October 2021",
+          "template": "use dmy dates"
         },
         {
           "df": "yes",
@@ -511,7 +511,7 @@
             ]
           },
           "relatives": {
-            "text": "Makhdoom Hashim Jawan Bakht (Brother) Makhdum Omar Shehryar (Brother)",
+            "text": "Makhdoom Hashim Jawan Bakht (Brother) \nMakhdum Omar Shehryar (Brother)",
             "links": [
               {
                 "type": "internal",
