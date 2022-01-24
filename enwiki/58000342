@@ -111,6 +111,18 @@
         {
           "date": "July 2021",
           "template": "use dmy dates"
+        },
+        {
+          "list": [
+            "Flag of the Pakistan Tehreek-e-Insaf.svg"
+          ],
+          "template": "flagicon image"
+        },
+        {
+          "list": [
+            "Flag of Pakistan People's Party.svg"
+          ],
+          "template": "flagicon image"
         }
       ],
       "infoboxes": [
@@ -356,12 +368,17 @@
             "text": "Pakistani"
           },
           "party": {
-            "text": "Pakistan Tehreek-e-Insaf (2016–Present)\n\nPakistan Muslim League (Q) (2013–2016)\n\nPakistan Peoples Party (2012–2013)\n\nAll Pakistan Muslim League (–2012)",
+            "text": "Pakistan Tehreek-e-Insaf (2016–Present)",
             "links": [
               {
                 "type": "internal",
                 "page": "Pakistan Tehreek-e-Insaf"
-              },
+              }
+            ]
+          },
+          "otherparty": {
+            "text": "Pakistan Muslim League (Q) (2013–2016)\n Pakistan Peoples Party (2012–2013)\nAll Pakistan Muslim League (–2012)",
+            "links": [
               {
                 "type": "internal",
                 "page": "Pakistan Muslim League (Q)"

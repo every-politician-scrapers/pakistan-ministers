@@ -171,6 +171,18 @@
           "template": "birth date and age"
         },
         {
+          "list": [
+            "Flag of the Pakistan Tehreek-e-Insaf.svg"
+          ],
+          "template": "flagicon image"
+        },
+        {
+          "list": [
+            "Flag of Pakistan People's Party.svg"
+          ],
+          "template": "flagicon image"
+        },
+        {
           "titlestyle": "background:lavender;text-align:center;",
           "title": "Other offices",
           "bullets": "on",
@@ -551,24 +563,26 @@
             ]
           },
           "party": {
-            "text": "Pakistan Tehreek-e-Insaf (2011–present)",
+            "text": "Pakistan Movement for Justice (2011–present)",
             "links": [
               {
+                "text": "Pakistan Movement for Justice",
                 "type": "internal",
                 "page": "Pakistan Tehreek-e-Insaf"
               }
             ]
           },
           "otherparty": {
-            "text": "Islami Jamhoori Ittehad (1988–1993)\nPakistan Peoples Party (1993–2011)",
+            "text": "Pakistan Peoples Party (1993–2011)\nIslamic Democratic Alliance (1988–1993)",
             "links": [
               {
                 "type": "internal",
-                "page": "Islami Jamhoori Ittehad"
+                "page": "Pakistan Peoples Party"
               },
               {
+                "text": "Islamic Democratic Alliance",
                 "type": "internal",
-                "page": "Pakistan Peoples Party"
+                "page": "Islami Jamhoori Ittehad"
               }
             ]
           },
