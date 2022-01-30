@@ -165,7 +165,7 @@
               ]
             },
             {
-              "text": "Khan played until 1992, served as the team's captain intermittently between 1982 and 1992, and won the Cricket World Cup, in what is Pakistan's first and only victory in the competition.",
+              "text": "Khan played until 1992, served as the team's captain intermittently between 1982 and 1992, and won the 1992 Cricket World Cup, in what is Pakistan's first and only victory in the competition.",
               "links": [
                 {
                   "text": "captain",
@@ -173,14 +173,25 @@
                   "page": "captain (cricket)"
                 },
                 {
+                  "text": "1992 Cricket World Cup",
                   "type": "internal",
-                  "page": "Cricket World Cup"
+                  "page": "1992 Cricket World Cup"
                 }
               ]
             },
             {
-              "text": "Khan registered 3,807 runs and took 362 wickets in Test cricket and was inducted into the ICC Cricket Hall of Fame.",
+              "text": "Considered one of cricket's greatest ever all-rounders, Khan registered 3,807 runs and took 362 wickets in Test cricket and was inducted into the ICC Cricket Hall of Fame.",
               "links": [
+                {
+                  "text": "cricket's",
+                  "type": "internal",
+                  "page": "Cricket"
+                },
+                {
+                  "text": "all-rounders",
+                  "type": "internal",
+                  "page": "All-rounder"
+                },
                 {
                   "type": "internal",
                   "page": "Test cricket"
@@ -844,13 +855,13 @@
             ]
           },
           "image": {
-            "text": "Imran Ahmed Khan Niazi - UNGA (48784380531) (cropped).jpg"
+            "text": "Imran khan.jpg"
           },
           "image_size": {
             "text": "250px"
           },
           "caption": {
-            "text": "Khan in 2019"
+            "text": "Khan in 2018 shortly after becoming Prime Minister"
           },
           "office": {
             "text": "22nd Prime Minister of Pakistan",
