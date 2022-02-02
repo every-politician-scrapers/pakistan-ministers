@@ -18,7 +18,7 @@
         {
           "sentences": [
             {
-              "text": "Gulzar Ahmed (born 2 February 1957) is a Pakistani jurist who has served as the 27th Chief Justice of Pakistan since 2019.",
+              "text": "Gulzar Ahmed (born 2 February 1957) is a Pakistani jurist who has served as the 27th Chief Justice of Pakistan from 21 December 2019 to 1 February 2022.",
               "links": [
                 {
                   "type": "internal",
@@ -115,8 +115,20 @@
               }
             ]
           },
+          "successor": {
+            "text": "Umar Ata Bandial",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Umar Ata Bandial"
+              }
+            ]
+          },
           "term_start": {
             "text": "21 December 2019"
+          },
+          "term_end": {
+            "text": "1 February 2022"
           },
           "office1": {
             "text": "Senior Justice of the Supreme Court of Pakistan",
