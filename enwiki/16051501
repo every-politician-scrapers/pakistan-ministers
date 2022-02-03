@@ -307,6 +307,39 @@
               }
             ]
           },
+          "office2": {
+            "text": "Mayor of Multan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mayor of Multan"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "28 March 2000"
+          },
+          "term_end2": {
+            "text": "05 January 2002"
+          },
+          "president2": {
+            "text": "Pervaiz Musharraf",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Pervaiz Musharraf"
+              }
+            ]
+          },
+          "primeminister2": {
+            "text": "Zafarullah Khan Jamali",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Zafarullah Khan Jamali"
+              }
+            ]
+          },
           "office3": {
             "text": "Minister of State for Parliamentary Affairs",
             "links": [
