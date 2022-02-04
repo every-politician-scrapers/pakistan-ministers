@@ -71,12 +71,16 @@
       "infoboxes": [
         {
           "honorific-prefix": {
-            "text": "His Excellency",
+            "text": "His Excellency / Honorable",
             "links": [
               {
                 "text": "His Excellency",
                 "type": "internal",
                 "page": "Excellency"
+              },
+              {
+                "type": "internal",
+                "page": "Honorable"
               }
             ]
           },
