@@ -45,20 +45,11 @@
               }
             },
             {
-              "text": "He was previously part of the Pakistan Administrative Service.",
+              "text": "Before joining politics, he served as a grade 20 officer of the Pakistan Administrative Service.",
               "links": [
                 {
                   "type": "internal",
                   "page": "Pakistan Administrative Service"
-                }
-              ]
-            },
-            {
-              "text": "He has been a member of the National Assembly of Pakistan, since August 2018.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "National Assembly of Pakistan"
                 }
               ]
             }
@@ -67,8 +58,12 @@
         {
           "sentences": [
             {
-              "text": "Previously, he was member of the National Assembly from June 2013 to May 2018 and member of the Senate of Pakistan from March 1994 to March 2000.",
+              "text": "He has been a member of the National Assembly of Pakistan, since August 2018.Previously, he was member of the National Assembly from June 2013 to May 2018 and member of the Senate of Pakistan from March 1994 to March 2000.",
               "links": [
+                {
+                  "type": "internal",
+                  "page": "National Assembly of Pakistan"
+                },
                 {
                   "type": "internal",
                   "page": "Senate of Pakistan"
