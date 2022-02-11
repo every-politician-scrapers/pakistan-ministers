@@ -197,7 +197,7 @@
             "text": "2 September 2004"
           },
           "term_end3": {
-            "text": "15 November 2007"
+            "text": "25 April 2006"
           },
           "president3": {
             "text": "Pervez Musharraf",
@@ -214,6 +214,15 @@
               {
                 "type": "internal",
                 "page": "Shaukat Aziz"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Muhammad Ali Durrani",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Muhammad Ali Durrani"
               }
             ]
           },
