@@ -46,6 +46,10 @@
       ],
       "templates": [
         {
+          "description": "Pakistani businessman and politician",
+          "template": "short description"
+        },
+        {
           "date": "June 2021",
           "template": "use dmy dates"
         },
