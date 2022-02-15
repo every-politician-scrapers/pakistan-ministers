@@ -27,7 +27,7 @@
         {
           "sentences": [
             {
-              "text": "Arif-ur-Rehman Alvi  (born 29 August 1949) is a Pakistani politician serving as the 13th president of Pakistan, in office since 9 September 2018.",
+              "text": "Arif-ur-Rehman Alvi  (born 29 August 1949) is a Pakistani politician serving as the 13th and the current president of Pakistan, in office since 9 September 2018.",
               "links": [
                 {
                   "text": "president of Pakistan",
@@ -73,7 +73,7 @@
       ],
       "templates": [
         {
-          "description": "President of Pakistan (2018-present)",
+          "description": "13th President of Pakistan",
           "template": "short description"
         },
         {
@@ -86,9 +86,9 @@
         },
         {
           "year": "1949",
-          "month": "8",
+          "month": "08",
           "day": "29",
-          "df": "y",
+          "df": "yes",
           "template": "birth date and age"
         },
         {
@@ -107,7 +107,7 @@
             "text": "President of Pakistan Dr Arif Alvi.jpg"
           },
           "caption": {
-            "text": "Alvi in 2018"
+            "text": "Official portrait, 2018"
           },
           "office": {
             "text": "13th President of Pakistan",
@@ -235,6 +235,15 @@
               }
             ]
           },
+          "occupation": {
+            "text": "Politician",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Politician"
+              }
+            ]
+          },
           "party": {
             "text": "Pakistan Tehreek-e-Insaf",
             "links": [
@@ -252,19 +261,11 @@
             "number": 4
           },
           "residence": {
-            "text": "Anum Empire Shahre E Faisal, Islamabad, Pakistan",
+            "text": "Anum Empire Shahre-e-Faisal, Islamabad",
             "links": [
               {
                 "type": "internal",
-                "page": "Anum Empire Shahre E Faisal"
-              },
-              {
-                "type": "internal",
                 "page": "Islamabad"
-              },
-              {
-                "type": "internal",
-                "page": "Pakistan"
               }
             ]
           },
