@@ -93,7 +93,7 @@
       ],
       "templates": [
         {
-          "description": "Pakistani politician",
+          "description": "Pakistani politician Pakistani",
           "template": "short description"
         },
         {
@@ -291,7 +291,7 @@
             "text": "Himself as Federal Minister"
           },
           "successor2": {
-            "text": "Himself as Federal Minister"
+            "text": "Himself as Federal Minister(Pakistani)"
           }
         }
       ]
