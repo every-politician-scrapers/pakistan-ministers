@@ -426,7 +426,7 @@
               ]
             },
             {
-              "text": "In foreign policy, he dealt with border skirmishes against India, supported the Afghan peace process, and strengthened relations with China, Russia and the United States.",
+              "text": "In foreign policy, he dealt with border skirmishes against India, supported the Afghan peace process, and strengthened relations with China and Russia",
               "links": [
                 {
                   "text": "border skirmishes against India",
@@ -445,11 +445,6 @@
                 {
                   "type": "internal",
                   "page": "Russia"
-                },
-                {
-                  "text": "United States",
-                  "type": "internal",
-                  "page": "Pakistan–United States relations"
                 }
               ]
             }
