@@ -86,12 +86,6 @@
           "template": "nq"
         },
         {
-          "list": [
-            "Flag of Pakistan People's Party.svg"
-          ],
-          "template": "flagicon image"
-        },
-        {
           "year": "1962",
           "month": "11",
           "day": "8",
@@ -117,11 +111,11 @@
             "text": "Murad Ali Shah"
           },
           "party": {
-            "text": "Pakistan Peoples Party (PPP)",
+            "text": "Pakistan Tehreek E Insaf (Tiger)",
             "links": [
               {
                 "type": "internal",
-                "page": "Pakistan Peoples Party"
+                "page": "Pakistan Tehreek E Insaf"
               }
             ]
           },

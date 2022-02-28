@@ -49,6 +49,12 @@
           "links": []
         }
       ],
+      "templates": [
+        {
+          "description": "Pakistani politician",
+          "template": "short description"
+        }
+      ],
       "infoboxes": [
         {
           "name": {
