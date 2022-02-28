@@ -78,6 +78,10 @@
       ],
       "templates": [
         {
+          "description": "Pakistani politician",
+          "template": "short description"
+        },
+        {
           "list": [
             "فروغ نسیم"
           ],
