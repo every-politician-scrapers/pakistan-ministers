@@ -152,16 +152,16 @@
       ],
       "templates": [
         {
+          "description": "Foreign Minister Of Pakistan",
+          "template": "short description"
+        },
+        {
           "date": "November 2015",
           "template": "engvarb"
         },
         {
           "date": "November 2015",
           "template": "use dmy dates"
-        },
-        {
-          "description": "Foreign Minister Of Pakistan",
-          "template": "short description"
         },
         {
           "df": "yes",
@@ -354,7 +354,7 @@
             "text": "20 December 1994"
           },
           "term_end3": {
-            "text": "05 November 1996"
+            "text": "5 November 1996"
           },
           "president3": {
             "text": "Farooq Leghari",
@@ -378,7 +378,7 @@
             "text": "Provincial Minister for Finance of Punjab",
             "links": [
               {
-                "text": " Provincial Minister for Finance of Punjab",
+                "text": "Provincial Minister for Finance of Punjab",
                 "type": "internal",
                 "page": "Finance department, Punjab (Pakistan)"
               }

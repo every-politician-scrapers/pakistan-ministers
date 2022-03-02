@@ -1116,25 +1116,9 @@
             "number": 3
           },
           "education": {
-            "text": "RGS Worcester",
+            "text": "University of Oxford (MA)",
             "links": [
               {
-                "text": "RGS Worcester",
-                "type": "internal",
-                "page": "Royal Grammar School Worcester"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "Keble College, Oxford (MA PPE)",
-            "links": [
-              {
-                "text": "Keble College",
-                "type": "internal",
-                "page": "Keble College, Oxford"
-              },
-              {
-                "text": "Oxford",
                 "type": "internal",
                 "page": "University of Oxford"
               },
@@ -1142,11 +1126,6 @@
                 "text": "MA",
                 "type": "internal",
                 "page": "Masters of Arts"
-              },
-              {
-                "text": "PPE",
-                "type": "internal",
-                "page": "Philosophy, politics and economics"
               }
             ]
           },
