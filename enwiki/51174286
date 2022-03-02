@@ -86,6 +86,12 @@
           "template": "nq"
         },
         {
+          "list": [
+            "Flag of Pakistan People's Party.svg"
+          ],
+          "template": "flagicon image"
+        },
+        {
           "year": "1962",
           "month": "11",
           "day": "8",
@@ -111,11 +117,11 @@
             "text": "Murad Ali Shah"
           },
           "party": {
-            "text": "Pakistan Tehreek E Insaf (Tiger)",
+            "text": "Pakistan People's Party",
             "links": [
               {
                 "type": "internal",
-                "page": "Pakistan Tehreek E Insaf"
+                "page": "Pakistan People's Party"
               }
             ]
           },
@@ -168,17 +174,12 @@
             ]
           },
           "citizenship": {
-            "text": "🇵🇰 Pakistan 🇨🇦 Canada (Untill 2013)",
+            "text": "🇵🇰 Pakistan",
             "links": [
               {
                 "text": "Pakistan",
                 "type": "internal",
                 "page": "pakistan"
-              },
-              {
-                "text": "Canada",
-                "type": "internal",
-                "page": "canada"
               }
             ]
           },
