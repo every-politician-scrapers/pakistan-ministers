@@ -27,7 +27,7 @@
     "Pakistani MNAs 2002–2007",
     "Pakistani MNAs 2013–2018",
     "Pakistani MNAs 2018–2023",
-    "Anti-corruption activists",
+    "Pakistani anti-corruption activists",
     "Aitchison College alumni",
     "Alumni of Keble College, Oxford",
     "Articles containing video clips",
@@ -190,7 +190,7 @@
                 {
                   "text": "all-rounders",
                   "type": "internal",
-                  "page": "All-rounder"
+                  "page": "all-rounder"
                 },
                 {
                   "type": "internal",
@@ -471,7 +471,7 @@
           "template": "engvarb"
         },
         {
-          "date": "November 2021",
+          "date": "March 2022",
           "template": "use dmy dates"
         },
         {
@@ -557,7 +557,7 @@
             "text": "true"
           },
           "internationalspan": {
-            "text": "1971-1992"
+            "text": "1971–1992"
           },
           "testdebutdate": {
             "text": "3 June"

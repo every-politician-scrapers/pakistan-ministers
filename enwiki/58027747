@@ -23,7 +23,7 @@
         {
           "sentences": [
             {
-              "text": "Sardar Usman Ahmad Khan Buzdar (born 1 May 1969 ) is a Pakistani politician who is the current Chief Minister of Punjab, in office since 20 August 2018.",
+              "text": "Usman Ahmad Khan Buzdar (born 1 May 1969 ) is a Pakistani politician who is the current Chief Minister of Punjab, in office since 20 August 2018.",
               "links": [
                 {
                   "type": "internal",
@@ -37,7 +37,7 @@
               ],
               "formatting": {
                 "bold": [
-                  "Sardar Usman Ahmad Khan Buzdar"
+                  "Usman Ahmad Khan Buzdar"
                 ]
               }
             },
