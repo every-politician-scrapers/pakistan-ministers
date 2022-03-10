@@ -1,348 +1,40 @@
 {
-  "title": "Fahmida Mirza",
-  "pageID": 16374465,
-  "categories": [
-    "1956 births",
-    "Living people",
-    "Women federal ministers of Pakistan",
-    "Pakistani business executives",
-    "Pakistani MNAs 1997–1999",
-    "Pakistani MNAs 2002–2007",
-    "Pakistani MNAs 2008–2013",
-    "Pakistani MNAs 2013–2018",
-    "Pakistani MNAs 2018–2023",
-    "Pakistan Peoples Party MNAs",
-    "Women members of the National Assembly of Pakistan",
-    "Women legislative speakers",
-    "Speakers of the National Assembly of Pakistan",
-    "Mirza family",
-    "Grand Democratic Alliance MNAs",
-    "21st-century Pakistani women politicians"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Fahmida Mirza (born 20 December 1956) is a Pakistani politician who is the current Federal Minister for Inter Provincial Coordination, in office since 20 August 2018.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Pakistani"
-                },
-                {
-                  "text": "Federal Minister for Inter Provincial Coordination",
-                  "type": "internal",
-                  "page": "Ministry of Inter Provincial Coordination"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Fahmida Mirza"
-                ]
-              }
-            },
-            {
-              "text": "She served as the 18th and only women Speaker of the National Assembly of Pakistan from March 2008 to June 2013.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Speaker of the National Assembly of Pakistan"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Previously, she was a member of the National Assembly from 1997 to 1999, 2002 to May 2018 and again she has been a member of the National Assembly of Pakistan since August 2018.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "National Assembly of Pakistan"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Pakistani politician",
-          "template": "short description"
-        },
-        {
-          "year": "1956",
-          "month": "12",
-          "day": "20",
-          "df": "y",
-          "template": "birth date and age"
-        },
-        {
-          "list": [
-            "فہمیدہ مرزا"
-          ],
-          "template": "nastaliq"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Fahmida Zulfiqar Ali Mirza"
-          },
-          "image": {
-            "text": "Fehmida_Mizra_2.png"
-          },
-          "office": {
-            "text": "Minister for Inter Provincial Coordination",
-            "links": [
-              {
-                "text": "Minister for Inter Provincial Coordination",
-                "type": "internal",
-                "page": "Ministry of Inter Provincial Coordination"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "20 August 2018"
-          },
-          "president": {
-            "text": "Mamnoon Hussain\nArif Alvi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mamnoon Hussain"
-              },
-              {
-                "type": "internal",
-                "page": "Arif Alvi"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Imran Khan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Imran Khan"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Muhammad Azam Khan (caretaker)"
-          },
-          "office1": {
-            "text": "18th Speaker of the National Assembly of Pakistan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Speaker of the National Assembly of Pakistan"
-              }
-            ]
-          },
-          "deputy1": {
-            "text": "Faisal Karim Kundi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Faisal Karim Kundi"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "19 March 2008"
-          },
-          "term_end1": {
-            "text": "3 June 2013"
-          },
-          "predecessor1": {
-            "text": "Chaudhry Amir Hussain",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Chaudhry Amir Hussain"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Sardar Ayaz Sadiq",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sardar Ayaz Sadiq"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Member of the National Assembly of Pakistan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "National Assembly of Pakistan"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "13 August 2018"
-          },
-          "constituency2": {
-            "text": "NA-230 (Badin-II)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "NA-230 (Badin-II)"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "1 June 2013"
-          },
-          "term_end3": {
-            "text": "31 May 2018"
-          },
-          "constituency3": {
-            "text": "NA-225 (Badin-II)",
-            "links": [
-              {
-                "text": "NA-225 (Badin-II)",
-                "type": "internal",
-                "page": "Constituency NA-225"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "17 March 2008"
-          },
-          "term_end4": {
-            "text": "16 March 2013"
-          },
-          "constituency4": {
-            "text": "NA-225 (Badin-II)",
-            "links": [
-              {
-                "text": "NA-225 (Badin-II)",
-                "type": "internal",
-                "page": "Constituency NA-225"
-              }
-            ]
-          },
-          "term_start5": {
-            "text": "16 November 2002"
-          },
-          "term_end5": {
-            "text": "15 November 2007"
-          },
-          "constituency5": {
-            "text": "NA-225 (Badin-II)",
-            "links": [
-              {
-                "text": "NA-225 (Badin-II)",
-                "type": "internal",
-                "page": "Constituency NA-225"
-              }
-            ]
-          },
-          "term_start6": {
-            "text": "14 February 1997"
-          },
-          "term_end6": {
-            "text": "12 October 1999"
-          },
-          "constituency6": {
-            "text": "NA-173 (Badin-II)"
-          },
-          "birth_date": {
-            "text": "December 20, 1956"
-          },
-          "birth_place": {
-            "text": "Karachi, Sindh, Pakistan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Karachi"
-              }
-            ]
-          },
-          "party": {
-            "text": "Grand Democratic Alliance",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Grand Democratic Alliance"
-              }
-            ]
-          },
-          "otherparty": {
-            "text": "Pakistan Peoples Party (till May 2018)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Pakistan Peoples Party"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "Liaquat University",
-            "links": [
-              {
-                "text": "Liaquat University",
-                "type": "internal",
-                "page": "Liaquat University of Medical and Health Sciences"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Zulfiqar Mirza",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Zulfiqar Mirza"
-              }
-            ]
-          },
-          "father": {
-            "text": "Qazi Abdul Majeed Abid",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Qazi Abdul Majeed Abid"
-              }
-            ]
-          },
-          "children": {
-            "text": "Hasnain Mirza (son)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Hasnain Mirza"
-              }
-            ]
-          },
-          "relations": {
-            "text": "Zafar Hussain Mirza (father-in-law)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Zafar Hussain Mirza"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "🇵🇰 Pakistan",
-            "links": [
-              {
-                "text": "Pakistan",
-                "type": "internal",
-                "page": "pakistan"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Fahmida Zulfiqar Ali Mirza",
+  "image": "Fehmida_Mizra_2.png",
+  "office": "Minister for Inter Provincial Coordination",
+  "term_start": "20 August 2018",
+  "president": "Mamnoon Hussain\nArif Alvi",
+  "primeminister": "Imran Khan",
+  "predecessor": "Muhammad Azam Khan (caretaker)",
+  "office1": "18th Speaker of the National Assembly of Pakistan",
+  "deputy1": "Faisal Karim Kundi",
+  "term_start1": "19 March 2008",
+  "term_end1": "3 June 2013",
+  "predecessor1": "Chaudhry Amir Hussain",
+  "successor1": "Sardar Ayaz Sadiq",
+  "office2": "Member of the National Assembly of Pakistan",
+  "term_start2": "13 August 2018",
+  "constituency2": "NA-230 (Badin-II)",
+  "term_start3": "1 June 2013",
+  "term_end3": "31 May 2018",
+  "constituency3": "NA-225 (Badin-II)",
+  "term_start4": "17 March 2008",
+  "term_end4": "16 March 2013",
+  "constituency4": "NA-225 (Badin-II)",
+  "term_start5": "16 November 2002",
+  "term_end5": "15 November 2007",
+  "constituency5": "NA-225 (Badin-II)",
+  "term_start6": "14 February 1997",
+  "term_end6": "12 October 1999",
+  "constituency6": "NA-173 (Badin-II)",
+  "birth_date": "December 20, 1956",
+  "birth_place": "Karachi, Sindh, Pakistan",
+  "party": "Grand Democratic Alliance",
+  "otherparty": "Pakistan Peoples Party (till May 2018)",
+  "alma_mater": "Liaquat University",
+  "spouse": "Zulfiqar Mirza",
+  "father": "Qazi Abdul Majeed Abid",
+  "children": "Hasnain Mirza (son)",
+  "relations": "Zafar Hussain Mirza (father-in-law)",
+  "nationality": "🇵🇰 Pakistan"
 }

@@ -1,390 +1,52 @@
 {
-  "title": "Abdul Quddus Bizenjo",
-  "pageID": 56276197,
-  "categories": [
-    "Living people",
-    "1974 births",
-    "Balochistan MPAs 2013–2018",
-    "Pakistan Muslim League (Q) politicians",
-    "Baloch people",
-    "People from Awaran District",
-    "University of Balochistan alumni",
-    "Balochistan Awami Party MPAs (Balochistan)",
-    "Chief Ministers of Balochistan, Pakistan"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Mir Abdul Quddus Bizenjo (born 1 January 1974) is a Pakistani politician who has been serving as the Chief Minister of Balochistan since 29 October 2021.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Pakistani"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Mir Abdul Quddus Bizenjo"
-                ]
-              }
-            },
-            {
-              "text": "He has been a member of the Provincial Assembly of Balochistan since November 2002."
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Previously, he was a member of the Balochistan Assembly from November 2002 to May 2018."
-            },
-            {
-              "text": "He served as the 16th Chief Minister of Balochistan from 13 January 2018 to 7 June 2018 and served as Deputy Speaker of the Provincial Assembly of Balochistan from 2013 to 2015.",
-              "links": [
-                {
-                  "text": "Chief Minister of Balochistan",
-                  "type": "internal",
-                  "page": "List of Chief Ministers of Balochistan"
-                }
-              ]
-            },
-            {
-              "text": "He served in the provincial Balochistan cabinet between 2002 and 2013, as the minister of livestock.He has been elected as chief minister of Balochistan on 29 October 2021."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Pakistani politician",
-          "bot": "PearBOT 5",
-          "template": "short description"
-        },
-        {
-          "date": "September 2018",
-          "template": "use dmy dates"
-        },
-        {
-          "year": "1974",
-          "month": "1",
-          "day": "1",
-          "df": "y",
-          "template": "birth date and age"
-        },
-        {
-          "list": [
-            "میر عبد القدوس بزنجو"
-          ],
-          "template": "nastaliq"
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific_prefix": {
-            "text": "Mir",
-            "links": [
-              {
-                "text": "Mir",
-                "type": "internal",
-                "page": "Mir (title)"
-              }
-            ]
-          },
-          "name": {
-            "text": "Abdul Quddus Bizenjo"
-          },
-          "image": {
-            "text": "Abdul Quddus Bizenjo.jpg"
-          },
-          "office2": {
-            "text": "Speaker of the Provincial Assembly of Balochistan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Provincial Assembly of Balochistan"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "16 August 2018"
-          },
-          "term_end2": {
-            "text": "25 October 2021"
-          },
-          "deputy2": {
-            "text": "Sardar Babar Khan Musakhel",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sardar Babar Khan Musakhel"
-              }
-            ]
-          },
-          "predecessor2": {
-            "text": "Rahila Durrani",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Rahila Durrani"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Jan Mohammad Jamali",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jan Mohammad Jamali"
-              }
-            ]
-          },
-          "office": {
-            "text": "Chief Minister of Balochistan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Chief Minister of Balochistan"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "29 October 2021"
-          },
-          "governor": {
-            "text": "Syed Zahoor Ahmad Agha",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Syed Zahoor Ahmad Agha"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Jam Kamal Khan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jam Kamal Khan"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "13 January 2018"
-          },
-          "term_end1": {
-            "text": "07 June 2018"
-          },
-          "governor1": {
-            "text": "Muhammad Khan Achakzai",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Muhammad Khan Achakzai"
-              }
-            ]
-          },
-          "predecessor1": {
-            "text": "Nawab Sanaullah Khan Zehri",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nawab Sanaullah Khan Zehri"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Alauddin Marri (caretaker)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Alauddin Marri"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Deputy Speaker of the Provincial Assembly of Balochistan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Provincial Assembly of Balochistan"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "June 2013"
-          },
-          "term_end3": {
-            "text": "2 December 2015"
-          },
-          "1blankname3": {
-            "text": "Speaker"
-          },
-          "1namedata3": {
-            "text": "Jan Mohammad Jamali",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jan Mohammad Jamali"
-              }
-            ]
-          },
-          "office4": {
-            "text": "Provincial Minister of Balochistan for Livestock and Dairy Development"
-          },
-          "term_start4": {
-            "text": "2008",
-            "number": 2008
-          },
-          "term_end4": {
-            "text": "2013",
-            "number": 2013
-          },
-          "1blankname4": {
-            "text": "Chief Minister"
-          },
-          "1namedata4": {
-            "text": "Nawab Aslam Raisani",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nawab Aslam Raisani"
-              }
-            ]
-          },
-          "term_start5": {
-            "text": "2002",
-            "number": 2002
-          },
-          "term_end5": {
-            "text": "2008",
-            "number": 2008
-          },
-          "1blankname5": {
-            "text": "Chief Minister"
-          },
-          "1namedata5": {
-            "text": "Jam Yousuf",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jam Yousuf"
-              }
-            ]
-          },
-          "office6": {
-            "text": "Member of the Provincial Assembly of Balochistan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Provincial Assembly of Balochistan"
-              }
-            ]
-          },
-          "term_start6": {
-            "text": "13 August 2018"
-          },
-          "constituency6": {
-            "text": "PB-44 (Awaran-cum-Panjgur)"
-          },
-          "term_start7": {
-            "text": "2013",
-            "number": 2013
-          },
-          "term_end7": {
-            "text": "31 May 2018"
-          },
-          "constituency7": {
-            "text": "PB-41 (Awaran)",
-            "links": [
-              {
-                "text": "PB-41 (Awaran)",
-                "type": "internal",
-                "page": "Constituency PB-41 (Awaran)"
-              }
-            ]
-          },
-          "term_start8": {
-            "text": "2008",
-            "number": 2008
-          },
-          "term_end8": {
-            "text": "2013",
-            "number": 2013
-          },
-          "constituency8": {
-            "text": "PB-41 (Awaran)",
-            "links": [
-              {
-                "text": "PB-41 (Awaran)",
-                "type": "internal",
-                "page": "Constituency PB-41 (Awaran)"
-              }
-            ]
-          },
-          "term_start9": {
-            "text": "November 2002"
-          },
-          "term_end9": {
-            "text": "2008",
-            "number": 2008
-          },
-          "constituency9": {
-            "text": "PB-41 (Awaran)",
-            "links": [
-              {
-                "text": "PB-41 (Awaran)",
-                "type": "internal",
-                "page": "Constituency PB-41 (Awaran)"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "January 1, 1974"
-          },
-          "birth_place": {
-            "text": "Awaran, Balochistan, Pakistan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Awaran"
-              },
-              {
-                "type": "internal",
-                "page": "Balochistan, Pakistan"
-              }
-            ]
-          },
-          "father": {
-            "text": "Mir Abdul Majeed Bizenjo"
-          },
-          "nationality": {
-            "text": "Pakistani"
-          },
-          "party": {
-            "text": "Balochistan Awami Party",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Balochistan Awami Party"
-              }
-            ]
-          },
-          "otherparty": {
-            "text": "Pakistan Muslim League (Q) (until 2018)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Pakistan Muslim League (Q)"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "honorific_prefix": "Mir",
+  "name": "Abdul Quddus Bizenjo",
+  "image": "Abdul Quddus Bizenjo.jpg",
+  "office2": "Speaker of the Provincial Assembly of Balochistan",
+  "term_start2": "16 August 2018",
+  "term_end2": "25 October 2021",
+  "deputy2": "Sardar Babar Khan Musakhel",
+  "predecessor2": "Rahila Durrani",
+  "successor2": "Jan Mohammad Jamali",
+  "office": "Chief Minister of Balochistan",
+  "term_start": "29 October 2021",
+  "governor": "Syed Zahoor Ahmad Agha",
+  "predecessor": "Jam Kamal Khan",
+  "term_start1": "13 January 2018",
+  "term_end1": "07 June 2018",
+  "governor1": "Muhammad Khan Achakzai",
+  "predecessor1": "Nawab Sanaullah Khan Zehri",
+  "successor1": "Alauddin Marri (caretaker)",
+  "office3": "Deputy Speaker of the Provincial Assembly of Balochistan",
+  "term_start3": "June 2013",
+  "term_end3": "2 December 2015",
+  "1blankname3": "Speaker",
+  "1namedata3": "Jan Mohammad Jamali",
+  "office4": "Provincial Minister of Balochistan for Livestock and Dairy Development",
+  "term_start4": "2008",
+  "term_end4": "2013",
+  "1blankname4": "Chief Minister",
+  "1namedata4": "Nawab Aslam Raisani",
+  "term_start5": "2002",
+  "term_end5": "2008",
+  "1blankname5": "Chief Minister",
+  "1namedata5": "Jam Yousuf",
+  "office6": "Member of the Provincial Assembly of Balochistan",
+  "term_start6": "13 August 2018",
+  "constituency6": "PB-44 (Awaran-cum-Panjgur)",
+  "term_start7": "2013",
+  "term_end7": "31 May 2018",
+  "constituency7": "PB-41 (Awaran)",
+  "term_start8": "2008",
+  "term_end8": "2013",
+  "constituency8": "PB-41 (Awaran)",
+  "term_start9": "November 2002",
+  "term_end9": "2008",
+  "constituency9": "PB-41 (Awaran)",
+  "birth_date": "January 1, 1974",
+  "birth_place": "Awaran, Balochistan, Pakistan",
+  "father": "Mir Abdul Majeed Bizenjo",
+  "nationality": "Pakistani",
+  "party": "Balochistan Awami Party",
+  "otherparty": "Pakistan Muslim League (Q) (until 2018)"
 }

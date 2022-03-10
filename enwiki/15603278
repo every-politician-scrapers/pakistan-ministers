@@ -1,262 +1,29 @@
 {
-  "title": "Farogh Naseem",
-  "pageID": 15603278,
-  "categories": [
-    "Living people",
-    "1969 births",
-    "Pakistani lawyers",
-    "Pakistani barristers",
-    "Law Ministers of Pakistan",
-    "Pakistani senators (14th Parliament)",
-    "Muttahida Qaumi Movement politicians",
-    "Alumni of the University of Wales",
-    "Alumni of the London School of Economics",
-    "Alumni of the University of London",
-    "Lawyers from Karachi",
-    "Vice Chairmen of the Pakistan Bar Council"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Mohammad Farogh Naseem is a Pakistani politician and barrister  who serves as the Federal Minister of Law and Justice, in office since 20 August 2018.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Pakistani"
-                },
-                {
-                  "text": "politician",
-                  "type": "internal",
-                  "page": "politician"
-                },
-                {
-                  "text": "barrister",
-                  "type": "internal",
-                  "page": "barrister"
-                },
-                {
-                  "text": "Federal Minister of Law and Justice",
-                  "type": "internal",
-                  "page": "Ministry of Law and Justice (Pakistan)"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Mohammad Farogh Naseem"
-                ]
-              }
-            },
-            {
-              "text": "He is serving as member of the Senate of Pakistan.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Senate of Pakistan"
-                }
-              ]
-            },
-            {
-              "text": "He has previously served as Advocate General of Sindh.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Advocate General"
-                },
-                {
-                  "type": "internal",
-                  "page": "Sindh"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Pakistani politician",
-          "template": "short description"
-        },
-        {
-          "list": [
-            "فروغ نسیم"
-          ],
-          "template": "nastaliq"
-        },
-        {
-          "year": "1965",
-          "month": "06",
-          "day": "26",
-          "template": "birth date and age"
-        },
-        {
-          "list": [
-            "محمد فروغ نسیم"
-          ],
-          "template": "nastaliq"
-        }
-      ],
-      "infoboxes": [
-        {
-          "office": {
-            "text": "Federal Minister of Law",
-            "links": [
-              {
-                "text": "Federal Minister of Law",
-                "type": "internal",
-                "page": "Minister for Law and Justice (Pakistan)"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "24 July 2020"
-          },
-          "predecessor": {
-            "text": "Himself"
-          },
-          "president": {
-            "text": "Arif Alvi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Arif Alvi"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Imran Khan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Imran Khan"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "29 November 2019"
-          },
-          "term_end1": {
-            "text": "1 June 2020"
-          },
-          "president1": {
-            "text": "Arif Alvi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Arif Alvi"
-              }
-            ]
-          },
-          "preceded1": {
-            "text": "Himself"
-          },
-          "successor1": {
-            "text": "Himself"
-          },
-          "term_start2": {
-            "text": "20 August 2018"
-          },
-          "term_end2": {
-            "text": "26 November 2019"
-          },
-          "predecessor2": {
-            "text": "Syed Ali Zafar (caretaker)"
-          },
-          "successor2": {
-            "text": "Himself"
-          },
-          "president2": {
-            "text": "Mamnoon Hussain Arif Alvi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mamnoon Hussain"
-              },
-              {
-                "type": "internal",
-                "page": "Arif Alvi"
-              }
-            ]
-          },
-          "primeminister1": {
-            "text": "Imran Khan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Imran Khan"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Member of the Senate of Pakistan",
-            "links": [
-              {
-                "text": "Member of the Senate of Pakistan",
-                "type": "internal",
-                "page": "Senate of Pakistan"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "12 March 2018"
-          },
-          "constituency3": {
-            "text": "Sindh",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sindh"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "12 March 2012"
-          },
-          "term_end4": {
-            "text": "11 March 2018"
-          },
-          "constituency4": {
-            "text": "Sindh",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sindh"
-              }
-            ]
-          },
-          "name": {
-            "text": "Mohammad Farogh Naseem"
-          },
-          "nationality": {
-            "text": "Pakistani"
-          },
-          "party": {
-            "text": "Muttahida Qaumi Movement-Pakistan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Muttahida Qaumi Movement-Pakistan"
-              }
-            ]
-          },
-          "birth_place": {
-            "text": "Karachi, Sindh, Pakistan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Karachi, Sindh, Pakistan"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "June 26, 1965"
-          }
-        }
-      ]
-    }
-  ]
+  "office": "Federal Minister of Law",
+  "term_start": "24 July 2020",
+  "predecessor": "Himself",
+  "president": "Arif Alvi",
+  "primeminister": "Imran Khan",
+  "term_start1": "29 November 2019",
+  "term_end1": "1 June 2020",
+  "president1": "Arif Alvi",
+  "preceded1": "Himself",
+  "successor1": "Himself",
+  "term_start2": "20 August 2018",
+  "term_end2": "26 November 2019",
+  "predecessor2": "Syed Ali Zafar (caretaker)",
+  "successor2": "Himself",
+  "president2": "Mamnoon Hussain Arif Alvi",
+  "primeminister1": "Imran Khan",
+  "office3": "Member of the Senate of Pakistan",
+  "term_start3": "12 March 2018",
+  "constituency3": "Sindh",
+  "term_start4": "12 March 2012",
+  "term_end4": "11 March 2018",
+  "constituency4": "Sindh",
+  "name": "Mohammad Farogh Naseem",
+  "nationality": "Pakistani",
+  "party": "Muttahida Qaumi Movement-Pakistan",
+  "birth_place": "Karachi, Sindh, Pakistan",
+  "birth_date": "June 26, 1965"
 }

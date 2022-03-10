@@ -1,367 +1,46 @@
 {
-  "title": "Tariq Bashir Cheema",
-  "pageID": 44996283,
-  "categories": [
-    "Living people",
-    "Punjabi people",
-    "Pakistani exiles",
-    "Punjab MPAs 1993–1996",
-    "Pakistani MNAs 2013–2018",
-    "Pakistani MNAs 2018–2023",
-    "Pakistani prisoners and detainees",
-    "Pakistani expatriates in Afghanistan",
-    "Pakistan Muslim League (Q) MNAs",
-    "Pakistan Peoples Party MPAs (Punjab)",
-    "Mayors of places in Pakistan",
-    "1958 births"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Chaudhry Tariq Bashir Cheema is a Pakistani politician who is the Secretary General of PML-Q.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Pakistani"
-                },
-                {
-                  "text": "PML-Q",
-                  "type": "internal",
-                  "page": "Pakistan Muslim League (Q)"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Chaudhry Tariq Bashir Cheema"
-                ]
-              }
-            },
-            {
-              "text": "He is serving as the Federal Minister for Housing and Works, in office since 6 September 2018.",
-              "links": [
-                {
-                  "text": "Federal Minister for Housing and Works",
-                  "type": "internal",
-                  "page": "Ministry of Housing and Works (Pakistan)"
-                }
-              ]
-            },
-            {
-              "text": "He has been a member of the National Assembly of Pakistan, since June 2013.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "National Assembly of Pakistan"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Pakistani politician",
-          "template": "short description"
-        },
-        {
-          "year": "1958",
-          "month": "11",
-          "day": "11",
-          "template": "birth date and age"
-        },
-        {
-          "list": [
-            "چوہدری طارق بشیر چیمہ"
-          ],
-          "template": "nastaliq"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Tariq Bashir Cheema"
-          },
-          "image": {
-            "text": "Tariq Cheema.jpg"
-          },
-          "office": {
-            "text": "Federal Minister for Housing and Works",
-            "links": [
-              {
-                "text": "Federal Minister for Housing and Works",
-                "type": "internal",
-                "page": "Ministry of Housing and Works (Pakistan)"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "6 September 2018"
-          },
-          "president": {
-            "text": "Arif Alvi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Arif Alvi"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Imran Khan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Imran Khan"
-              }
-            ]
-          },
-          "deputy": {
-            "text": "Shabbir Ali Qureshi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Shabbir Ali Qureshi"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Federal Minister for States and Frontier Regions",
-            "links": [
-              {
-                "text": "Federal Minister for States and Frontier Regions",
-                "type": "internal",
-                "page": "Ministry of States and Frontier Regions (Pakistan)"
-              }
-            ]
-          },
-          "president1": {
-            "text": "Mamnoon Hussain",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mamnoon Hussain"
-              }
-            ]
-          },
-          "primeminister1": {
-            "text": "Imran Khan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Imran Khan"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "20 August 2018"
-          },
-          "term_end1": {
-            "text": "6 September 2018"
-          },
-          "predecessor1": {
-            "text": "Roshan Khursheed Bharucha (caretaker)"
-          },
-          "successor1": {
-            "text": "Shehryar Khan Afridi (Minister of State)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Shehryar Khan Afridi"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Chairman Standing Committee on Science and Technology",
-            "links": [
-              {
-                "text": "Science and Technology",
-                "type": "internal",
-                "page": "Ministry of Science and Technology (Pakistan)"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "2013",
-            "number": 2013
-          },
-          "term_end2": {
-            "text": "2018",
-            "number": 2018
-          },
-          "office3": {
-            "text": "Member of the National Assembly of Pakistan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "National Assembly of Pakistan"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "13 August 2018"
-          },
-          "constituency3": {
-            "text": "NA-172 (Bahawalpur-III)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "NA-172 (Bahawalpur-III)"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "1 June 2013"
-          },
-          "term_end4": {
-            "text": "31 May 2018"
-          },
-          "constituency4": {
-            "text": "NA-187 (Bahawalpur-V)",
-            "links": [
-              {
-                "text": "NA-187 (Bahawalpur-V)",
-                "type": "internal",
-                "page": "Constituency NA-187"
-              }
-            ]
-          },
-          "office5": {
-            "text": "Mayor of Bahawalpur",
-            "links": [
-              {
-                "text": "Mayor of Bahawalpur",
-                "type": "internal",
-                "page": "Bahawalpur"
-              }
-            ]
-          },
-          "term_start5": {
-            "text": "2005",
-            "number": 2005
-          },
-          "term_end5": {
-            "text": "2010",
-            "number": 2010
-          },
-          "term_start6": {
-            "text": "2001",
-            "number": 2001
-          },
-          "term_end6": {
-            "text": "2005",
-            "number": 2005
-          },
-          "office7": {
-            "text": "Provincial Minister of Punjab for Food",
-            "links": [
-              {
-                "text": "Provincial Minister of Punjab for Food",
-                "type": "internal",
-                "page": "Punjab Food Department (Pakistan)"
-              }
-            ]
-          },
-          "term_start7": {
-            "text": "1993",
-            "number": 1993
-          },
-          "term_end7": {
-            "text": "1996",
-            "number": 1996
-          },
-          "office8": {
-            "text": "Provincial Minister of Punjab for Agriculture",
-            "links": [
-              {
-                "text": "Provincial Minister of Punjab for Agriculture",
-                "type": "internal",
-                "page": "Punjab Agriculture Department"
-              }
-            ]
-          },
-          "term_start8": {
-            "text": "1993",
-            "number": 1993
-          },
-          "term_end8": {
-            "text": "1996",
-            "number": 1996
-          },
-          "office9": {
-            "text": "Member of Provincial Assembly of Punjab",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Provincial Assembly of Punjab"
-              }
-            ]
-          },
-          "term_start9": {
-            "text": "1993",
-            "number": 1993
-          },
-          "term_end9": {
-            "text": "1996",
-            "number": 1996
-          },
-          "constituency9": {
-            "text": "PP-221 (Bahawalpur-IV)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "PP-221 (Bahawalpur-IV)"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "Pakistani"
-          },
-          "birth_date": {
-            "text": "November 11, 1958"
-          },
-          "alma_mater": {
-            "text": "University of the Punjab",
-            "links": [
-              {
-                "type": "internal",
-                "page": "University of the Punjab"
-              }
-            ]
-          },
-          "party": {
-            "text": "Pakistan Muslim League (Q)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Pakistan Muslim League (Q)"
-              }
-            ]
-          },
-          "otherparty": {
-            "text": "Pakistan People's Party 1980 - 2002",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Pakistan People's Party"
-              }
-            ]
-          },
-          "relations": {
-            "text": "Tahir Bashir Cheema (brother)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Tahir Bashir Cheema"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Tariq Bashir Cheema",
+  "image": "Tariq Cheema.jpg",
+  "office": "Federal Minister for Housing and Works",
+  "term_start": "6 September 2018",
+  "president": "Arif Alvi",
+  "primeminister": "Imran Khan",
+  "deputy": "Shabbir Ali Qureshi",
+  "office1": "Federal Minister for States and Frontier Regions",
+  "president1": "Mamnoon Hussain",
+  "primeminister1": "Imran Khan",
+  "term_start1": "20 August 2018",
+  "term_end1": "6 September 2018",
+  "predecessor1": "Roshan Khursheed Bharucha (caretaker)",
+  "successor1": "Shehryar Khan Afridi (Minister of State)",
+  "office2": "Chairman Standing Committee on Science and Technology",
+  "term_start2": "2013",
+  "term_end2": "2018",
+  "office3": "Member of the National Assembly of Pakistan",
+  "term_start3": "13 August 2018",
+  "constituency3": "NA-172 (Bahawalpur-III)",
+  "term_start4": "1 June 2013",
+  "term_end4": "31 May 2018",
+  "constituency4": "NA-187 (Bahawalpur-V)",
+  "office5": "Mayor of Bahawalpur",
+  "term_start5": "2005",
+  "term_end5": "2010",
+  "term_start6": "2001",
+  "term_end6": "2005",
+  "office7": "Provincial Minister of Punjab for Food",
+  "term_start7": "1993",
+  "term_end7": "1996",
+  "office8": "Provincial Minister of Punjab for Agriculture",
+  "term_start8": "1993",
+  "term_end8": "1996",
+  "office9": "Member of Provincial Assembly of Punjab",
+  "term_start9": "1993",
+  "term_end9": "1996",
+  "constituency9": "PP-221 (Bahawalpur-IV)",
+  "nationality": "Pakistani",
+  "birth_date": "November 11, 1958",
+  "alma_mater": "University of the Punjab",
+  "party": "Pakistan Muslim League (Q)",
+  "otherparty": "Pakistan People's Party 1980 - 2002",
+  "relations": "Tahir Bashir Cheema (brother)"
 }
