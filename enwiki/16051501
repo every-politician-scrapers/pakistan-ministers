@@ -1,669 +1,77 @@
 {
-  "title": "Shah Mahmood Qureshi",
-  "pageID": 16051501,
-  "categories": [
-    "Living people",
-    "1956 births",
-    "Punjabi people",
-    "Pakistani Sufis",
-    "Pakistani MNAs 1993–1996",
-    "Pakistani MNAs 2002–2007",
-    "Pakistani MNAs 2008–2013",
-    "Pakistani MNAs 2013–2018",
-    "Punjab MPAs 1985–1988",
-    "Punjab MPAs 1988–1990",
-    "Punjab MPAs 1990–1993",
-    "Pakistan Peoples Party politicians",
-    "Pakistan Tehreek-e-Insaf MNAs",
-    "Politicians from Multan",
-    "Forman Christian College alumni",
-    "Alumni of Corpus Christi College, Cambridge",
-    "Aitchison College alumni",
-    "Qureshi family",
-    "Pakistani MNAs 2018–2023",
-    "Foreign Ministers of Pakistan",
-    "Finance Ministers of Punjab, Pakistan"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Makhdoom Shah Mahmood Hussain Qureshi (born 22 June 1956) is a Pakistani politician who is the 29th and current minister of Foreign Affairs since 20 August 2018.",
-              "links": [
-                {
-                  "text": "minister of Foreign Affairs",
-                  "type": "internal",
-                  "page": "Minister of Foreign Affairs (Pakistan)"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Makhdoom Shah Mahmood Hussain Qureshi"
-                ]
-              }
-            },
-            {
-              "text": "He has been a member of the Parliament in the National Assembly since August 2018 and the vice chairman of the Pakistan Tehreek-e-Insaf political party since December 2011.",
-              "links": [
-                {
-                  "text": "member of the Parliament",
-                  "type": "internal",
-                  "page": "Parliament of Pakistan"
-                },
-                {
-                  "text": "National Assembly",
-                  "type": "internal",
-                  "page": "National Assembly of Pakistan"
-                },
-                {
-                  "type": "internal",
-                  "page": "Pakistan Tehreek-e-Insaf"
-                }
-              ]
-            },
-            {
-              "text": "He was also a sajjada nashin of Bahauddin Zakariya and Shah Rukn-e-Alam shrines.",
-              "links": [
-                {
-                  "text": "sajjada nashin",
-                  "type": "internal",
-                  "page": "sajjada nashin"
-                },
-                {
-                  "text": "Bahauddin Zakariya",
-                  "type": "internal",
-                  "page": "Shrine of Bahauddin Zakariya"
-                }
-              ],
-              "formatting": {
-                "italic": [
-                  "sajjada nashin"
-                ]
-              }
-            },
-            {
-              "text": "Previously, he was a member of the National Assembly from 2002 to May 2018 and served as the minister for Foreign Affairs from 2008 to 2011."
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Born in Multan, Punjab, Qureshi studied at Aitchison College and received Bachelor of Arts degree from Forman Christian College and Master of Arts degree from Corpus Christi College, Cambridge.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Multan"
-                },
-                {
-                  "text": "Punjab",
-                  "type": "internal",
-                  "page": "Punjab, Pakistan"
-                },
-                {
-                  "type": "internal",
-                  "page": "Aitchison College"
-                },
-                {
-                  "type": "internal",
-                  "page": "Forman Christian College"
-                },
-                {
-                  "text": "Corpus Christi College",
-                  "type": "internal",
-                  "page": "Corpus Christi College, Cambridge"
-                },
-                {
-                  "text": "Cambridge",
-                  "type": "internal",
-                  "page": "University of Cambridge"
-                }
-              ]
-            },
-            {
-              "text": "He remained a member of the Provincial Assembly of the Punjab for nine years from 1985 to 1993 and had served in the provincial cabinet in various positions between 1988 and 1993.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Provincial Assembly of the Punjab"
-                }
-              ]
-            },
-            {
-              "text": "He served as the minister of State for Parliamentary Affairs in the federal cabinet from 1993 to 1996 and later as the Mayor of Multan from 2000 to 2002.",
-              "links": [
-                {
-                  "text": "Mayor of Multan",
-                  "type": "internal",
-                  "page": "Multan"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Foreign Minister Of Pakistan",
-          "template": "short description"
-        },
-        {
-          "date": "November 2015",
-          "template": "engvarb"
-        },
-        {
-          "date": "November 2015",
-          "template": "use dmy dates"
-        },
-        {
-          "df": "yes",
-          "year": "1956",
-          "month": "6",
-          "day": "22",
-          "template": "birth date and age"
-        },
-        {
-          "list": [
-            "Flag of the Pakistan Tehreek-e-Insaf.svg"
-          ],
-          "template": "flagicon image"
-        },
-        {
-          "list": [
-            "Flag of Pakistan People's Party.svg"
-          ],
-          "template": "flagicon image"
-        },
-        {
-          "titlestyle": "background:lavender;text-align:center;",
-          "title": "Other offices",
-          "bullets": "on",
-          "list": [
-            "Incumbent since December 2011: Vice chairman of Pakistan Tehreek-e-Insaf",
-            "2000–2002: Mayor of Multan"
-          ],
-          "template": "collapsible list"
-        },
-        {
-          "list": [
-            "مخدوم شاہ محمود حسین قریشی"
-          ],
-          "template": "nastaliq"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Shah Mahmood Qureshi"
-          },
-          "honorific-prefix": {
-            "text": "Makhdoom",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Makhdoom"
-              }
-            ]
-          },
-          "image": {
-            "text": "Shah Mehmood Qureshi - 2011 (cropped).jpg"
-          },
-          "office": {
-            "text": "29th Minister of Foreign Affairs",
-            "links": [
-              {
-                "text": "Minister of Foreign Affairs",
-                "type": "internal",
-                "page": "Minister of Foreign Affairs (Pakistan)"
-              }
-            ]
-          },
-          "president": {
-            "text": "Mamnoon Hussain\nArif Alvi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mamnoon Hussain"
-              },
-              {
-                "type": "internal",
-                "page": "Arif Alvi"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Imran Khan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Imran Khan"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "20 August 2018"
-          },
-          "predecessor": {
-            "text": "Abdullah Hussain Haroon (caretaker)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Abdullah Hussain Haroon"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "31 March 2008"
-          },
-          "term_end1": {
-            "text": "9 February 2011"
-          },
-          "primeminister1": {
-            "text": "Yousaf Raza Gillani",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Yousaf Raza Gillani"
-              }
-            ]
-          },
-          "president1": {
-            "text": "Pervez Musharraf\nAsif Ali Zardari",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Pervez Musharraf"
-              },
-              {
-                "type": "internal",
-                "page": "Asif Ali Zardari"
-              }
-            ]
-          },
-          "predecessor1": {
-            "text": "Inam-ul-Haq (caretaker)",
-            "links": [
-              {
-                "text": "Inam-ul-Haq",
-                "type": "internal",
-                "page": "Inam-ul-Haq (diplomat)"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Hina Rabbani Khar",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Hina Rabbani Khar"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Mayor of Multan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mayor of Multan"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "28 March 2000"
-          },
-          "term_end2": {
-            "text": "05 January 2002"
-          },
-          "president2": {
-            "text": "Pervaiz Musharraf",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Pervaiz Musharraf"
-              }
-            ]
-          },
-          "primeminister2": {
-            "text": "Zafarullah Khan Jamali",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Zafarullah Khan Jamali"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Minister of State for Parliamentary Affairs",
-            "links": [
-              {
-                "text": "Minister of State for Parliamentary Affairs",
-                "type": "internal",
-                "page": "Ministry of Parliamentary Affairs (Pakistan)"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "20 December 1994"
-          },
-          "term_end3": {
-            "text": "5 November 1996"
-          },
-          "president3": {
-            "text": "Farooq Leghari",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Farooq Leghari"
-              }
-            ]
-          },
-          "primeminister3": {
-            "text": "Benazir Bhutto",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Benazir Bhutto"
-              }
-            ]
-          },
-          "office4": {
-            "text": "Provincial Minister for Finance of Punjab",
-            "links": [
-              {
-                "text": "Provincial Minister for Finance of Punjab",
-                "type": "internal",
-                "page": "Finance department, Punjab (Pakistan)"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "1990",
-            "number": 1990
-          },
-          "term_end4": {
-            "text": "1993",
-            "number": 1993
-          },
-          "governor4": {
-            "text": "Mian Muhammad Azhar\nChaudhry Altaf Hussain",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mian Muhammad Azhar"
-              },
-              {
-                "type": "internal",
-                "page": "Chaudhry Altaf Hussain"
-              }
-            ]
-          },
-          "1blankname5": {
-            "text": "Chief Minister"
-          },
-          "1namedata5": {
-            "text": "Ghulam Haider Wyne",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ghulam Haider Wyne"
-              }
-            ]
-          },
-          "term_start6": {
-            "text": "1988",
-            "number": 1988
-          },
-          "term_end6": {
-            "text": "1990",
-            "number": 1990
-          },
-          "governor6": {
-            "text": "Tikka Khan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Tikka Khan"
-              }
-            ]
-          },
-          "1blankname6": {
-            "text": "Chief Minister"
-          },
-          "1namedata6": {
-            "text": "Mian Muhammad Nawaz Sharif",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mian Muhammad Nawaz Sharif"
-              }
-            ]
-          },
-          "office7": {
-            "text": "Provincial Minister of Punjab for Planning and Development"
-          },
-          "term_start7": {
-            "text": "1988",
-            "number": 1988
-          },
-          "term_end7": {
-            "text": "1990",
-            "number": 1990
-          },
-          "governor7": {
-            "text": "Tikka Khan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Tikka Khan"
-              }
-            ]
-          },
-          "1blankname7": {
-            "text": "Chief Minister"
-          },
-          "1namedata7": {
-            "text": "Mian Muhammad Nawaz Sharif",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mian Muhammad Nawaz Sharif"
-              }
-            ]
-          },
-          "office8": {
-            "text": "Member of the National Assembly of Pakistan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "National Assembly of Pakistan"
-              }
-            ]
-          },
-          "term_start8": {
-            "text": "25 July 2018"
-          },
-          "constituency8": {
-            "text": "NA156 Multan-III"
-          },
-          "term_start9": {
-            "text": "2013",
-            "number": 2013
-          },
-          "term_end9": {
-            "text": "2018",
-            "number": 2018
-          },
-          "constituency9": {
-            "text": "NA150 Multan-III"
-          },
-          "term_start10": {
-            "text": "2008",
-            "number": 2008
-          },
-          "term_end10": {
-            "text": "November 2011"
-          },
-          "constituency10": {
-            "text": "NA148 Multan-I"
-          },
-          "term_start11": {
-            "text": "2002",
-            "number": 2002
-          },
-          "term_end11": {
-            "text": "2007",
-            "number": 2007
-          },
-          "constituency11": {
-            "text": "NA148 Multan-I"
-          },
-          "term_start12": {
-            "text": "1993",
-            "number": 1993
-          },
-          "term_end12": {
-            "text": "1996",
-            "number": 1996
-          },
-          "constituency12": {
-            "text": "NA120 Multan-cum-Khanewal"
-          },
-          "office13": {
-            "text": "Member of the Provincial Assembly of Punjab",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Provincial Assembly of Punjab"
-              }
-            ]
-          },
-          "term_start13": {
-            "text": "1990",
-            "number": 1990
-          },
-          "term_end13": {
-            "text": "1993",
-            "number": 1993
-          },
-          "constituency13": {
-            "text": "PP166 Multan"
-          },
-          "term_start14": {
-            "text": "1988",
-            "number": 1988
-          },
-          "term_end14": {
-            "text": "1990",
-            "number": 1990
-          },
-          "constituency14": {
-            "text": "PP166 Multan"
-          },
-          "term_start15": {
-            "text": "12 March 1985"
-          },
-          "term_end15": {
-            "text": "30 May 1988"
-          },
-          "constituency15": {
-            "text": "PP164 Multan"
-          },
-          "birth_name": {
-            "text": "Makhdoom Shah Mahmood Hussain Qureshi"
-          },
-          "birth_date": {
-            "text": "June 22, 1956"
-          },
-          "birth_place": {
-            "text": "Multan, West Pakistan, Pakistan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Multan"
-              },
-              {
-                "type": "internal",
-                "page": "West Pakistan"
-              }
-            ]
-          },
-          "party": {
-            "text": "Pakistan Movement for Justice (2011–present)",
-            "links": [
-              {
-                "text": "Pakistan Movement for Justice",
-                "type": "internal",
-                "page": "Pakistan Tehreek-e-Insaf"
-              }
-            ]
-          },
-          "otherparty": {
-            "text": "Pakistan Peoples Party (1993–2011)\nIslamic Democratic Alliance (1988–1993)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Pakistan Peoples Party"
-              },
-              {
-                "text": "Islamic Democratic Alliance",
-                "type": "internal",
-                "page": "Islami Jamhoori Ittehad"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "Aitchison College\nForman Christian College\nUniversity of Cambridge\nUniversity of Punjab",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Aitchison College"
-              },
-              {
-                "type": "internal",
-                "page": "Forman Christian College"
-              },
-              {
-                "type": "internal",
-                "page": "University of Cambridge"
-              },
-              {
-                "type": "internal",
-                "page": "University of Punjab"
-              }
-            ]
-          },
-          "father": {
-            "text": "Sajjad Hussain Qureshi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sajjad Hussain Qureshi"
-              }
-            ]
-          },
-          "relatives": {
-            "text": "Zain Hussain Qureshi (son)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Zain Hussain Qureshi"
-              }
-            ]
-          },
-          "footnotes": {
-            "text": "Other offices\n\nIncumbent since December 2011: Vice chairman of Pakistan Tehreek-e-Insaf\n\n2000–2002: Mayor of Multan",
-            "formatting": {
-              "bold": [
-                "Other offices"
-              ]
-            }
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Shah Mahmood Qureshi",
+  "honorific-prefix": "Makhdoom",
+  "image": "Shah Mehmood Qureshi - 2011 (cropped).jpg",
+  "office": "29th Minister of Foreign Affairs",
+  "president": "Mamnoon Hussain\nArif Alvi",
+  "primeminister": "Imran Khan",
+  "term_start": "20 August 2018",
+  "predecessor": "Abdullah Hussain Haroon (caretaker)",
+  "term_start1": "31 March 2008",
+  "term_end1": "9 February 2011",
+  "primeminister1": "Yousaf Raza Gillani",
+  "president1": "Pervez Musharraf\nAsif Ali Zardari",
+  "predecessor1": "Inam-ul-Haq (caretaker)",
+  "successor1": "Hina Rabbani Khar",
+  "office2": "Mayor of Multan",
+  "term_start2": "28 March 2000",
+  "term_end2": "05 January 2002",
+  "president2": "Pervaiz Musharraf",
+  "primeminister2": "Zafarullah Khan Jamali",
+  "office3": "Minister of State for Parliamentary Affairs",
+  "term_start3": "20 December 1994",
+  "term_end3": "5 November 1996",
+  "president3": "Farooq Leghari",
+  "primeminister3": "Benazir Bhutto",
+  "office4": "Provincial Minister for Finance of Punjab",
+  "term_start4": "1990",
+  "term_end4": "1993",
+  "governor4": "Mian Muhammad Azhar\nChaudhry Altaf Hussain",
+  "1blankname5": "Chief Minister",
+  "1namedata5": "Ghulam Haider Wyne",
+  "term_start6": "1988",
+  "term_end6": "1990",
+  "governor6": "Tikka Khan",
+  "1blankname6": "Chief Minister",
+  "1namedata6": "Mian Muhammad Nawaz Sharif",
+  "office7": "Provincial Minister of Punjab for Planning and Development",
+  "term_start7": "1988",
+  "term_end7": "1990",
+  "governor7": "Tikka Khan",
+  "1blankname7": "Chief Minister",
+  "1namedata7": "Mian Muhammad Nawaz Sharif",
+  "office8": "Member of the National Assembly of Pakistan",
+  "term_start8": "25 July 2018",
+  "constituency8": "NA156 Multan-III",
+  "term_start9": "2013",
+  "term_end9": "2018",
+  "constituency9": "NA150 Multan-III",
+  "term_start10": "2008",
+  "term_end10": "November 2011",
+  "constituency10": "NA148 Multan-I",
+  "term_start11": "2002",
+  "term_end11": "2007",
+  "constituency11": "NA148 Multan-I",
+  "term_start12": "1993",
+  "term_end12": "1996",
+  "constituency12": "NA120 Multan-cum-Khanewal",
+  "office13": "Member of the Provincial Assembly of Punjab",
+  "term_start13": "1990",
+  "term_end13": "1993",
+  "constituency13": "PP166 Multan",
+  "term_start14": "1988",
+  "term_end14": "1990",
+  "constituency14": "PP166 Multan",
+  "term_start15": "12 March 1985",
+  "term_end15": "30 May 1988",
+  "constituency15": "PP164 Multan",
+  "birth_name": "Makhdoom Shah Mahmood Hussain Qureshi",
+  "birth_date": "June 22, 1956",
+  "birth_place": "Multan, West Pakistan, Pakistan",
+  "party": "Pakistan Movement for Justice (2011–present)",
+  "otherparty": "Pakistan Peoples Party (1993–2011)\nIslamic Democratic Alliance (1988–1993)",
+  "alma_mater": "Aitchison College\nForman Christian College\nUniversity of Cambridge\nUniversity of Punjab",
+  "father": "Sajjad Hussain Qureshi",
+  "relatives": "Zain Hussain Qureshi (son)",
+  "footnotes": "Other offices\n\nIncumbent since December 2011: Vice chairman of Pakistan Tehreek-e-Insaf\n\n2000–2002: Mayor of Multan"
 }

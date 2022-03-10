@@ -1,254 +1,27 @@
 {
-  "title": "Moonis Elahi",
-  "pageID": 23612132,
-  "categories": [
-    "Chaudhry family",
-    "Living people",
-    "1976 births",
-    "Chaudhry family",
-    "Punjabi people",
-    "Politicians from Gujrat, Pakistan",
-    "Pakistan Muslim League (Q) MNAs",
-    "Pakistani MNAs 2018–2023",
-    "Punjab MPAs 2008–2013",
-    "Punjab MPAs 2013–2018",
-    "Wharton School of the University of Pennsylvania alumni",
-    "People named in the Panama Papers",
-    "Pakistan Muslim League (Q) MPAs (Punjab)",
-    "Pakistani prisoners and detainees",
-    "Pakistanis named in the Pandora Papers"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Chaudhry Moonis Elahi (born 12 April 1976) is a Pakistani politician who has been a Member of the National Assembly of Pakistan since October 2018.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Pakistani"
-                },
-                {
-                  "type": "internal",
-                  "page": "National Assembly of Pakistan"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Chaudhry Moonis Elahi"
-                ]
-              }
-            },
-            {
-              "text": "He is Minister for Water Resources (Pakistan).",
-              "links": [
-                {
-                  "text": "Minister for Water Resources (Pakistan)",
-                  "type": "internal",
-                  "page": "Ministry of Water Resources (Pakistan)"
-                }
-              ]
-            },
-            {
-              "text": "Previously, he was a member of the Provincial Assembly of the Punjab from 2008 to May 2018.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Provincial Assembly of the Punjab"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Pakistani politician",
-          "bot": "PearBOT 5",
-          "template": "short description"
-        },
-        {
-          "date": "October 2021",
-          "template": "use pakistani english"
-        },
-        {
-          "date": "July 2021",
-          "template": "advert"
-        },
-        {
-          "date": "July 2013",
-          "template": "use dmy dates"
-        },
-        {
-          "list": [
-            "مونس الٰہی"
-          ],
-          "template": "nq"
-        },
-        {
-          "year": "1976",
-          "month": "4",
-          "day": "12",
-          "df": "y",
-          "template": "birth date and age"
-        },
-        {
-          "list": [
-            "چوہدری مونس الٰہی"
-          ],
-          "template": "nastaliq"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Moonis Elahi"
-          },
-          "image": {
-            "text": "Moonis Elahi in KBD Seminar (cropped).jpg"
-          },
-          "caption": {
-            "text": "Elahi in November 2014"
-          },
-          "office": {
-            "text": "Federal Minister for Water Resources",
-            "links": [
-              {
-                "text": "Federal Minister for Water Resources",
-                "type": "internal",
-                "page": "Ministry of Water Resources (Pakistan)"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "13 July 2021"
-          },
-          "president": {
-            "text": "Arif Alvi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Arif Alvi"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Imran Khan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Imran Khan"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Faisal Vawda",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Faisal Vawda"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Member of the National Assembly of Pakistan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "National Assembly of Pakistan"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "29 October 2018"
-          },
-          "constituency1": {
-            "text": "NA-69(Gujrat-II)"
-          },
-          "office2": {
-            "text": "Member of the Provincial Assembly of the Punjab",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Provincial Assembly of the Punjab"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "2013",
-            "number": 2013
-          },
-          "term_end2": {
-            "text": "31 May 2018"
-          },
-          "constituency2": {
-            "text": "PP-110 (Gujrat-III)"
-          },
-          "term_start3": {
-            "text": "2008",
-            "number": 2008
-          },
-          "term_end3": {
-            "text": "2013",
-            "number": 2013
-          },
-          "constituency3": {
-            "text": "PP-110 (Gujrat-III)"
-          },
-          "birth_date": {
-            "text": "April 12, 1976"
-          },
-          "birth_place": {
-            "text": "Lahore, Pakistan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Lahore"
-              },
-              {
-                "type": "internal",
-                "page": "Pakistan"
-              }
-            ]
-          },
-          "party": {
-            "text": "Pakistan Muslim League (Q)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Pakistan Muslim League (Q)"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "Pakistani"
-          },
-          "parents": {
-            "text": "Chaudhry Pervaiz Elahi (father)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Chaudhry Pervaiz Elahi"
-              }
-            ]
-          },
-          "relatives": {
-            "text": "",
-            "formatting": {
-              "italic": [
-                ""
-              ]
-            }
-          },
-          "website": {
-            "text": "http://mooniselahi.org"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Moonis Elahi",
+  "image": "Moonis Elahi in KBD Seminar (cropped).jpg",
+  "caption": "Elahi in November 2014",
+  "office": "Federal Minister for Water Resources",
+  "term_start": "13 July 2021",
+  "president": "Arif Alvi",
+  "primeminister": "Imran Khan",
+  "predecessor": "Faisal Vawda",
+  "office1": "Member of the National Assembly of Pakistan",
+  "term_start1": "29 October 2018",
+  "constituency1": "NA-69(Gujrat-II)",
+  "office2": "Member of the Provincial Assembly of the Punjab",
+  "term_start2": "2013",
+  "term_end2": "31 May 2018",
+  "constituency2": "PP-110 (Gujrat-III)",
+  "term_start3": "2008",
+  "term_end3": "2013",
+  "constituency3": "PP-110 (Gujrat-III)",
+  "birth_date": "April 12, 1976",
+  "birth_place": "Lahore, Pakistan",
+  "party": "Pakistan Muslim League (Q)",
+  "nationality": "Pakistani",
+  "parents": "Chaudhry Pervaiz Elahi (father)",
+  "relatives": "",
+  "website": "http://mooniselahi.org"
 }

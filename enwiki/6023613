@@ -1,549 +1,63 @@
 {
-  "title": "Khusro Bakhtiar",
-  "pageID": 6023613,
-  "categories": [
-    "Living people",
-    "1969 births",
-    "Pakistani barristers",
-    "Pakistani MNAs 2013–2018",
-    "Pakistani MNAs 2002–2007",
-    "Pakistan Muslim League (Q) MNAs",
-    "Pakistan Muslim League (N) MNAs",
-    "Pakistan Tehreek-e-Insaf MNAs",
-    "University of the Punjab alumni",
-    "Ministers of State for Foreign Affairs of Pakistan",
-    "Alumni of the London School of Economics",
-    "Punjab MPAs 1997–1999",
-    "Pakistani MNAs 2018–2023"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Makhdum Khusro Bakhtyar (born 7 July 1969) is a Pakistani politician who is currently serving as Pakistan's Federal Minister for Industries & Production. Previously, he has served as Federal Minister of Economic Affairs, Federal Minister of National Food Security and Research and Federal Minister for Planning, Development and Reforms in the PTI Government under the leadership of Prime Minister Imran Khan.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Pakistani"
-                },
-                {
-                  "text": "Federal Minister for Industries & Production.",
-                  "type": "internal",
-                  "page": "Ministry of Industries and Production (Pakistan)"
-                },
-                {
-                  "text": "Federal Minister of Economic Affairs",
-                  "type": "internal",
-                  "page": "Ministry of Finance and Revenue"
-                },
-                {
-                  "text": "Federal Minister of National Food Security and Research",
-                  "type": "internal",
-                  "page": "Ministry of National Food Security and Research"
-                },
-                {
-                  "text": "Federal Minister for Planning, Development and Reforms",
-                  "type": "internal",
-                  "page": "Ministry of Planning Development & Special Initiatives"
-                },
-                {
-                  "text": "PTI Government",
-                  "type": "internal",
-                  "page": "Imran Khan ministry"
-                },
-                {
-                  "type": "internal",
-                  "page": "Imran Khan"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Makhdum Khusro Bakhtyar"
-                ]
-              }
-            },
-            {
-              "text": "He has been a member of the National Assembly of Pakistan from 2002 to 2008, 2013 to 2018 and 2018 till date.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "National Assembly of Pakistan"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Previously, he was a member of the Provincial Assembly of the Punjab from 1997 to 1999 and served as provincial advisor to the Chief Minister of Punjab.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Provincial Assembly of the Punjab"
-                },
-                {
-                  "text": "Chief Minister of Punjab",
-                  "type": "internal",
-                  "page": "Chief Minister of Punjab, Pakistan"
-                }
-              ]
-            },
-            {
-              "text": "During his first tenure as Member of the National Assembly, he served as Minister of State for Foreign Affairs from September 2004 to November 2007 in the Federal Cabinet of Prime Minister Shaukat Aziz.",
-              "links": [
-                {
-                  "text": "Minister of State for Foreign Affairs",
-                  "type": "internal",
-                  "page": "Minister of State for Foreign Affairs (Pakistan)"
-                },
-                {
-                  "type": "internal",
-                  "page": "Shaukat Aziz"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Pakistani politician",
-          "bot": "PearBOT 5",
-          "template": "short description"
-        },
-        {
-          "date": "October 2021",
-          "template": "use dmy dates"
-        },
-        {
-          "df": "yes",
-          "year": "1969",
-          "month": "7",
-          "day": "7",
-          "template": "birth date and age"
-        },
-        {
-          "list": [
-            "Flag of the Pakistan Tehreek-e-Insaf.svg"
-          ],
-          "template": "flagicon image"
-        },
-        {
-          "list": [
-            "مخدوم خسرو بختیار"
-          ],
-          "template": "nastaliq"
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific-prefix": {
-            "text": "Makhdum",
-            "links": [
-              {
-                "text": "Makhdum",
-                "type": "internal",
-                "page": "Makhdoom"
-              }
-            ]
-          },
-          "name": {
-            "text": "Khusro Bakhtyar"
-          },
-          "image": {
-            "text": "Khusro Bakhtiar speech.jpg"
-          },
-          "office": {
-            "text": "Federal Minister for Industries & Production",
-            "links": [
-              {
-                "text": "Federal Minister for Industries & Production",
-                "type": "internal",
-                "page": "Ministry of Industries and Production (Pakistan)"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "17 April 2021"
-          },
-          "primeminister": {
-            "text": "Imran Khan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Imran Khan"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Hammad Azhar",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Hammad Azhar"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Federal Minister for Economic Affairs",
-            "links": [
-              {
-                "text": "Federal Minister for Economic Affairs",
-                "type": "internal",
-                "page": "Ministry of Finance and Revenue"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "6 April 2020"
-          },
-          "term_end1": {
-            "text": "17 April 2021"
-          },
-          "president1": {
-            "text": "Arif Alvi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Arif Alvi"
-              }
-            ]
-          },
-          "primeminister1": {
-            "text": "Imran Khan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Imran Khan"
-              }
-            ]
-          },
-          "predecessor1": {
-            "text": "Hammad Azhar",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Hammad Azhar"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Omar Ayub Khan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Omar Ayub Khan"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Federal Minister for National Food Security and Research",
-            "links": [
-              {
-                "text": "Federal Minister for National Food Security and Research",
-                "type": "internal",
-                "page": "Ministry of National Food Security and Research"
-              }
-            ]
-          },
-          "president2": {
-            "text": "Arif Alvi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Arif Alvi"
-              }
-            ]
-          },
-          "primeminister2": {
-            "text": "Imran Khan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Imran Khan"
-              }
-            ]
-          },
-          "predecessor2": {
-            "text": "Sahabzada Mehboob Sultan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sahabzada Mehboob Sultan"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Syed Fakhar Imam",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Syed Fakhar Imam"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "19 November 2019"
-          },
-          "term_end2": {
-            "text": "6 April 2020"
-          },
-          "office3": {
-            "text": "Federal Minister for Planning Development & Reform",
-            "links": [
-              {
-                "text": "Federal Minister for Planning Development & Reform",
-                "type": "internal",
-                "page": "Ministry of Planning Development & Reform"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "20 August 2018"
-          },
-          "term_end3": {
-            "text": "18 November 2019"
-          },
-          "primeminister3": {
-            "text": "Imran Khan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Imran Khan"
-              }
-            ]
-          },
-          "predecessor3": {
-            "text": "Shamshad Akhtar (caretaker)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Shamshad Akhtar"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Asad Umar",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Asad Umar"
-              }
-            ]
-          },
-          "office4": {
-            "text": "Chairman Standing Committee on Foreign Affairs"
-          },
-          "term_start4": {
-            "text": "28 September 2017"
-          },
-          "term_end4": {
-            "text": "31 May 2018"
-          },
-          "president4": {
-            "text": "Mamnoon Hussain",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mamnoon Hussain"
-              }
-            ]
-          },
-          "primeminister4": {
-            "text": "Shahid Khaqan Abbasi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Shahid Khaqan Abbasi"
-              }
-            ]
-          },
-          "office5": {
-            "text": "Federal Minister of State for Foreign Affairs (MSFA)",
-            "links": [
-              {
-                "text": "Federal Minister of State for Foreign Affairs",
-                "type": "internal",
-                "page": "Ministry of Foreign Affairs (Pakistan)"
-              },
-              {
-                "text": "(MSFA)",
-                "type": "internal",
-                "page": "Minister of State for Foreign Affairs (Pakistan)"
-              }
-            ]
-          },
-          "term_start5": {
-            "text": "4 September 2004"
-          },
-          "term_end5": {
-            "text": "15 November 2007"
-          },
-          "president5": {
-            "text": "Pervez Musharraf",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Pervez Musharraf"
-              }
-            ]
-          },
-          "primeminister5": {
-            "text": "Shaukat Aziz",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Shaukat Aziz"
-              }
-            ]
-          },
-          "minister5": {
-            "text": "Khurshid Mahmood Kasuri",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Khurshid Mahmood Kasuri"
-              }
-            ]
-          },
-          "office6": {
-            "text": "Advisor to Chief Minister of Punjab (Provincial Minister of Punjab)",
-            "links": [
-              {
-                "text": "Advisor to Chief Minister of Punjab",
-                "type": "internal",
-                "page": "List of Chief Ministers of Punjab (Pakistan)"
-              }
-            ]
-          },
-          "term_start6": {
-            "text": "1997",
-            "number": 1997
-          },
-          "term_end6": {
-            "text": "1999",
-            "number": 1999
-          },
-          "1blankname5": {
-            "text": "Chief Minister"
-          },
-          "1namedata5": {
-            "text": "Shahbaz Sharif",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Shahbaz Sharif"
-              }
-            ]
-          },
-          "office7": {
-            "text": "Member of the National Assembly of Pakistan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "National Assembly of Pakistan"
-              }
-            ]
-          },
-          "term_start7": {
-            "text": "13 August 2018"
-          },
-          "constituency6": {
-            "text": "NA-177 (Rahimyarkhan-III)"
-          },
-          "term_start8": {
-            "text": "1 June 2013"
-          },
-          "term_end8": {
-            "text": "31 May 2018"
-          },
-          "constituency7": {
-            "text": "NA-194 (Rahimyarkhan-III)"
-          },
-          "term_start9": {
-            "text": "10 October 2002"
-          },
-          "term_end9": {
-            "text": "15 February 2008"
-          },
-          "constituency8": {
-            "text": "NA-194 (Rahimyarkhan-III)"
-          },
-          "office10": {
-            "text": "Member of the Provincial Assembly of Punjab",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Provincial Assembly of Punjab"
-              }
-            ]
-          },
-          "term_start10": {
-            "text": "1997",
-            "number": 1997
-          },
-          "term_end10": {
-            "text": "1999",
-            "number": 1999
-          },
-          "constituency10": {
-            "text": "PP-236 (Rahimyarkhan-V)"
-          },
-          "birth_date": {
-            "text": "July 7, 1969"
-          },
-          "party": {
-            "text": "Pakistan Tehreek-e-Insaf",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Pakistan Tehreek-e-Insaf"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "🇵🇰 Pakistan",
-            "links": [
-              {
-                "text": "Pakistan",
-                "type": "internal",
-                "page": "pakistan"
-              }
-            ]
-          },
-          "relatives": {
-            "text": "Makhdoom Hashim Jawan Bakht (Brother) \nMakhdum Omar Shehryar (Brother)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Makhdoom Hashim Jawan Bakht"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "University of Punjab, London School of Economics,    Lincoln's Inn",
-            "links": [
-              {
-                "type": "internal",
-                "page": "University of Punjab"
-              },
-              {
-                "type": "internal",
-                "page": "London School of Economics"
-              },
-              {
-                "type": "internal",
-                "page": "Lincoln's Inn"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "honorific-prefix": "Makhdum",
+  "name": "Khusro Bakhtyar",
+  "image": "Khusro Bakhtiar speech.jpg",
+  "office": "Federal Minister for Industries & Production",
+  "term_start": "17 April 2021",
+  "primeminister": "Imran Khan",
+  "predecessor": "Hammad Azhar",
+  "office1": "Federal Minister for Economic Affairs",
+  "term_start1": "6 April 2020",
+  "term_end1": "17 April 2021",
+  "president1": "Arif Alvi",
+  "primeminister1": "Imran Khan",
+  "predecessor1": "Hammad Azhar",
+  "successor1": "Omar Ayub Khan",
+  "office2": "Federal Minister for National Food Security and Research",
+  "president2": "Arif Alvi",
+  "primeminister2": "Imran Khan",
+  "predecessor2": "Sahabzada Mehboob Sultan",
+  "successor2": "Syed Fakhar Imam",
+  "term_start2": "19 November 2019",
+  "term_end2": "6 April 2020",
+  "office3": "Federal Minister for Planning Development & Reform",
+  "term_start3": "20 August 2018",
+  "term_end3": "18 November 2019",
+  "primeminister3": "Imran Khan",
+  "predecessor3": "Shamshad Akhtar (caretaker)",
+  "successor3": "Asad Umar",
+  "office4": "Chairman Standing Committee on Foreign Affairs",
+  "term_start4": "28 September 2017",
+  "term_end4": "31 May 2018",
+  "president4": "Mamnoon Hussain",
+  "primeminister4": "Shahid Khaqan Abbasi",
+  "office5": "Federal Minister of State for Foreign Affairs (MSFA)",
+  "term_start5": "4 September 2004",
+  "term_end5": "15 November 2007",
+  "president5": "Pervez Musharraf",
+  "primeminister5": "Shaukat Aziz",
+  "minister5": "Khurshid Mahmood Kasuri",
+  "office6": "Advisor to Chief Minister of Punjab (Provincial Minister of Punjab)",
+  "term_start6": "1997",
+  "term_end6": "1999",
+  "1blankname5": "Chief Minister",
+  "1namedata5": "Shahbaz Sharif",
+  "office7": "Member of the National Assembly of Pakistan",
+  "term_start7": "13 August 2018",
+  "constituency6": "NA-177 (Rahimyarkhan-III)",
+  "term_start8": "1 June 2013",
+  "term_end8": "31 May 2018",
+  "constituency7": "NA-194 (Rahimyarkhan-III)",
+  "term_start9": "10 October 2002",
+  "term_end9": "15 February 2008",
+  "constituency8": "NA-194 (Rahimyarkhan-III)",
+  "office10": "Member of the Provincial Assembly of Punjab",
+  "term_start10": "1997",
+  "term_end10": "1999",
+  "constituency10": "PP-236 (Rahimyarkhan-V)",
+  "birth_date": "July 7, 1969",
+  "party": "Pakistan Tehreek-e-Insaf",
+  "nationality": "🇵🇰 Pakistan",
+  "relatives": "Makhdoom Hashim Jawan Bakht (Brother) \nMakhdum Omar Shehryar (Brother)",
+  "alma_mater": "University of Punjab, London School of Economics,    Lincoln's Inn"
 }

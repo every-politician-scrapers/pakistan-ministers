@@ -1,476 +1,65 @@
 {
-  "title": "Ghulam Sarwar Khan",
-  "pageID": 28377892,
-  "categories": [
-    "Living people",
-    "1955 births",
-    "Punjabi people",
-    "Punjab MPAs 1985–1988",
-    "Punjab MPAs 1988–1990",
-    "Punjab MPAs 1990–1993",
-    "Punjab MPAs 1993–1996",
-    "Pakistani MNAs 2002–2007",
-    "Pakistani MNAs 2013–2018",
-    "Pakistani MNAs 2018–2023",
-    "Pakistan Peoples Party MPAs (Punjab)",
-    "Pakistan Muslim League (Q) MNAs",
-    "Pakistan Tehreek-e-Insaf MNAs",
-    "Politicians from Rawalpindi",
-    "University of the Punjab alumni"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Mian Ghulam Sarwar Khan (born 13 October 1955) is a Pakistani politician who is the current Federal Minister for Aviation, in office since 24 May 2019.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Pakistani"
-                },
-                {
-                  "text": "Federal Minister for Aviation",
-                  "type": "internal",
-                  "page": "Aviation Division (Pakistan)"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Mian Ghulam Sarwar Khan"
-                ]
-              }
-            },
-            {
-              "text": "Prior to this position, he was appointed as Federal Minister for Petroleum on 20 August 2018, but he was shifted to the Aviation Ministry.",
-              "links": [
-                {
-                  "text": "Federal Minister for Petroleum",
-                  "type": "internal",
-                  "page": "Ministry of Energy (Petroleum Division)"
-                }
-              ]
-            },
-            {
-              "text": "He has been a member of the National Assembly of Pakistan, since August 2018.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "National Assembly of Pakistan"
-                }
-              ]
-            },
-            {
-              "text": "Previously, he was a member of the National Assembly from 2002 to 2007 and again from June 2013 to May 2018."
-            },
-            {
-              "text": "He remained a member of the Provincial Assembly of the Punjab from 1985 to 1996.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Provincial Assembly of the Punjab"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Pakistani politician",
-          "template": "short description"
-        },
-        {
-          "date": "September 2014",
-          "template": "use dmy dates"
-        },
-        {
-          "year": "1955",
-          "month": "10",
-          "day": "13",
-          "df": "y",
-          "template": "birth date and age"
-        },
-        {
-          "list": [
-            "غلام سرور خان"
-          ],
-          "template": "nastaliq"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Ghulam Sarwar Khan"
-          },
-          "office": {
-            "text": "Federal Minister for Aviation",
-            "links": [
-              {
-                "text": "Federal Minister for Aviation",
-                "type": "internal",
-                "page": "Aviation Division (Pakistan)"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "18 April 2019"
-          },
-          "president": {
-            "text": "Arif Alvi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Arif Alvi"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Imran Khan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Imran Khan"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Federal Minister for Petroleum",
-            "links": [
-              {
-                "text": "Federal Minister for Petroleum",
-                "type": "internal",
-                "page": "MPNR"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "20 August 2018"
-          },
-          "term_end1": {
-            "text": "18 April 2019"
-          },
-          "president1": {
-            "text": "Mamnoon Hussain\nArif Alvi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mamnoon Hussain"
-              },
-              {
-                "type": "internal",
-                "page": "Arif Alvi"
-              }
-            ]
-          },
-          "primeminister1": {
-            "text": "Imran Khan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Imran Khan"
-              }
-            ]
-          },
-          "predecessor1": {
-            "text": "Syed Ali Zafar (caretaker)"
-          },
-          "successor1": {
-            "text": "Omar Ayub Khan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Omar Ayub Khan"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Federal Minister for Labour and Manpower",
-            "links": [
-              {
-                "text": "Federal Minister for Labour and Manpower",
-                "type": "internal",
-                "page": "Ministry of Overseas Pakistanis and Human Resource Development"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "31 August 2004"
-          },
-          "term_end2": {
-            "text": "15 November 2007"
-          },
-          "president2": {
-            "text": "Pervez Musharraf",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Pervez Musharraf"
-              }
-            ]
-          },
-          "primeminister2": {
-            "text": "Shaukat Aziz",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Shaukat Aziz"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Member of the National Assembly of Pakistan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "National Assembly of Pakistan"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "13 August 2018"
-          },
-          "constituency3": {
-            "text": "NA-59 (Rawalpindi-III)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "NA-59 (Rawalpindi-III)"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "1 June 2013"
-          },
-          "term_end4": {
-            "text": "31 May 2018"
-          },
-          "constituency4": {
-            "text": "NA-53 (Rawalpindi)",
-            "links": [
-              {
-                "text": "NA-53 (Rawalpindi)",
-                "type": "internal",
-                "page": "Constituency NA-53"
-              }
-            ]
-          },
-          "term_start5": {
-            "text": "23 November 2002"
-          },
-          "term_end5": {
-            "text": "15 November 2007"
-          },
-          "constituency5": {
-            "text": "NA-53 (Rawalpindi)",
-            "links": [
-              {
-                "text": "NA-53 (Rawalpindi)",
-                "type": "internal",
-                "page": "Constituency NA-53"
-              }
-            ]
-          },
-          "office6": {
-            "text": "Provincial Minister Punjab for Zakat and Ushr",
-            "links": [
-              {
-                "text": "Provincial Minister Punjab for Zakat and Ushr",
-                "type": "internal",
-                "page": "Zakat Council"
-              }
-            ]
-          },
-          "term_start6": {
-            "text": "October 1993"
-          },
-          "term_end6": {
-            "text": "November 1996"
-          },
-          "1blankname6": {
-            "text": "Chief Minister"
-          },
-          "1namedata6": {
-            "text": "Manzoor Wattoo, Arif Nakai",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Manzoor Wattoo"
-              },
-              {
-                "type": "internal",
-                "page": "Arif Nakai"
-              }
-            ]
-          },
-          "office7": {
-            "text": "Provincial Minister Punjab for Mineral Development"
-          },
-          "term_start7": {
-            "text": "October 1993"
-          },
-          "term_end7": {
-            "text": "November 1996"
-          },
-          "1blankname7": {
-            "text": "Chief Minister"
-          },
-          "1namedata7": {
-            "text": "Manzoor Wattoo, Arif Nakai",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Manzoor Wattoo"
-              },
-              {
-                "type": "internal",
-                "page": "Arif Nakai"
-              }
-            ]
-          },
-          "office8": {
-            "text": "Provincial Minister Punjab for Fisheries",
-            "links": [
-              {
-                "text": "Provincial Minister Punjab for Fisheries",
-                "type": "internal",
-                "page": "Forestry, Wildlife and Fisheries department, Punjab"
-              }
-            ]
-          },
-          "term_start8": {
-            "text": "October 1993"
-          },
-          "term_end8": {
-            "text": "November 1996"
-          },
-          "1blankname8": {
-            "text": "Chief Minister"
-          },
-          "1namedata8": {
-            "text": "Manzoor Wattoo, Arif Nakai",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Manzoor Wattoo"
-              },
-              {
-                "type": "internal",
-                "page": "Arif Nakai"
-              }
-            ]
-          },
-          "office9": {
-            "text": "Provincial Minister Punjab for Health",
-            "links": [
-              {
-                "text": "Provincial Minister Punjab for Health",
-                "type": "internal",
-                "page": "Punjab Health Department"
-              }
-            ]
-          },
-          "term_start9": {
-            "text": "1994",
-            "number": 1994
-          },
-          "term_end9": {
-            "text": "November 1996"
-          },
-          "1blankname9": {
-            "text": "Chief Minister"
-          },
-          "1namedata9": {
-            "text": "Manzoor Wattoo, Arif Nakai",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Manzoor Wattoo"
-              },
-              {
-                "type": "internal",
-                "page": "Arif Nakai"
-              }
-            ]
-          },
-          "office10": {
-            "text": "Member of the Provincial Assembly of the Punjab",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Provincial Assembly of the Punjab"
-              }
-            ]
-          },
-          "term_start10": {
-            "text": "12 March 1985"
-          },
-          "term_end10": {
-            "text": "30 May 1988"
-          },
-          "constituency10": {
-            "text": "PP-5 (Rawalpindi-V)"
-          },
-          "term_start11": {
-            "text": "30 November 1988"
-          },
-          "term_end11": {
-            "text": "06 August 1990"
-          },
-          "constituency11": {
-            "text": "PP-5 (Rawalpindi-V)"
-          },
-          "term_start12": {
-            "text": "05 November 1990"
-          },
-          "term_end12": {
-            "text": "28 June 1993"
-          },
-          "constituency12": {
-            "text": "PP-5 (Rawalpindi-V)"
-          },
-          "term_start13": {
-            "text": "18 October 1993"
-          },
-          "term_end13": {
-            "text": "17 November 1996"
-          },
-          "constituency13": {
-            "text": "PP-5 (Rawalpindi-V)"
-          },
-          "birth_date": {
-            "text": "October 13, 1955"
-          },
-          "nationality": {
-            "text": "Pakistani"
-          },
-          "relations": {
-            "text": "Mansoor Hayat Khan (son), Ammar Siddique Khan (nephew)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mansoor Hayat Khan"
-              },
-              {
-                "type": "internal",
-                "page": "Ammar Siddique Khan"
-              }
-            ]
-          },
-          "party": {
-            "text": "Pakistan Tehreek-e-Insaf",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Pakistan Tehreek-e-Insaf"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Ghulam Sarwar Khan",
+  "office": "Federal Minister for Aviation",
+  "term_start": "18 April 2019",
+  "president": "Arif Alvi",
+  "primeminister": "Imran Khan",
+  "office1": "Federal Minister for Petroleum",
+  "term_start1": "20 August 2018",
+  "term_end1": "18 April 2019",
+  "president1": "Mamnoon Hussain\nArif Alvi",
+  "primeminister1": "Imran Khan",
+  "predecessor1": "Syed Ali Zafar (caretaker)",
+  "successor1": "Omar Ayub Khan",
+  "office2": "Federal Minister for Labour and Manpower",
+  "term_start2": "31 August 2004",
+  "term_end2": "15 November 2007",
+  "president2": "Pervez Musharraf",
+  "primeminister2": "Shaukat Aziz",
+  "office3": "Member of the National Assembly of Pakistan",
+  "term_start3": "13 August 2018",
+  "constituency3": "NA-59 (Rawalpindi-III)",
+  "term_start4": "1 June 2013",
+  "term_end4": "31 May 2018",
+  "constituency4": "NA-53 (Rawalpindi)",
+  "term_start5": "23 November 2002",
+  "term_end5": "15 November 2007",
+  "constituency5": "NA-53 (Rawalpindi)",
+  "office6": "Provincial Minister Punjab for Zakat and Ushr",
+  "term_start6": "October 1993",
+  "term_end6": "November 1996",
+  "1blankname6": "Chief Minister",
+  "1namedata6": "Manzoor Wattoo, Arif Nakai",
+  "office7": "Provincial Minister Punjab for Mineral Development",
+  "term_start7": "October 1993",
+  "term_end7": "November 1996",
+  "1blankname7": "Chief Minister",
+  "1namedata7": "Manzoor Wattoo, Arif Nakai",
+  "office8": "Provincial Minister Punjab for Fisheries",
+  "term_start8": "October 1993",
+  "term_end8": "November 1996",
+  "1blankname8": "Chief Minister",
+  "1namedata8": "Manzoor Wattoo, Arif Nakai",
+  "office9": "Provincial Minister Punjab for Health",
+  "term_start9": "1994",
+  "term_end9": "November 1996",
+  "1blankname9": "Chief Minister",
+  "1namedata9": "Manzoor Wattoo, Arif Nakai",
+  "office10": "Member of the Provincial Assembly of the Punjab",
+  "term_start10": "12 March 1985",
+  "term_end10": "30 May 1988",
+  "constituency10": "PP-5 (Rawalpindi-V)",
+  "term_start11": "30 November 1988",
+  "term_end11": "06 August 1990",
+  "constituency11": "PP-5 (Rawalpindi-V)",
+  "term_start12": "05 November 1990",
+  "term_end12": "28 June 1993",
+  "constituency12": "PP-5 (Rawalpindi-V)",
+  "term_start13": "18 October 1993",
+  "term_end13": "17 November 1996",
+  "constituency13": "PP-5 (Rawalpindi-V)",
+  "birth_date": "October 13, 1955",
+  "nationality": "Pakistani",
+  "relations": "Mansoor Hayat Khan (son), Ammar Siddique Khan (nephew)",
+  "party": "Pakistan Tehreek-e-Insaf"
 }

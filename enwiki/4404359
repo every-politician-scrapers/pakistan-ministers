@@ -1,715 +1,89 @@
 {
-  "title": "Sheikh Rasheed Ahmad",
-  "pageID": 4404359,
-  "categories": [
-    "Living people",
-    "Punjabi people",
-    "1950 births",
-    "Pakistani political party founders",
-    "Pakistani prisoners and detainees",
-    "Minister of Railways (Pakistan)",
-    "Pakistani people of Kashmiri descent",
-    "Pakistani MNAs 1985–1988",
-    "Pakistani MNAs 1988–1990",
-    "Pakistani MNAs 1990–1993",
-    "Pakistani MNAs 1993–1996",
-    "Pakistani MNAs 1997–1999",
-    "Pakistani MNAs 2002–2007",
-    "Pakistani MNAs 2013–2018",
-    "Pakistani MNAs 2018–2023",
-    "People from Rawalpindi District",
-    "Government of Shaukat Aziz",
-    "Government Gordon College alumni",
-    "Politicians from Rawalpindi",
-    "Information Ministers of Pakistan",
-    "University of the Punjab alumni"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Sheikh Rasheed Ahmad (born 6 November 1950) is a Pakistani politician who is serving as the Interior Minister of Pakistan since 11 December 2020.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Pakistani"
-                },
-                {
-                  "text": "Interior Minister of Pakistan",
-                  "type": "internal",
-                  "page": "Ministry of Interior (Pakistan)"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Sheikh Rasheed Ahmad"
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Pakistani politician",
-          "template": "short description"
-        },
-        {
-          "date": "August 2014",
-          "template": "engvarb"
-        },
-        {
-          "date": "November 2021",
-          "template": "use dmy dates"
-        },
-        {
-          "year": "1950",
-          "month": "11",
-          "day": "6",
-          "df": "y",
-          "template": "birth date and age"
-        },
-        {
-          "list": [
-            "شیخ رشید احمد"
-          ],
-          "template": "nastaliq"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Sheikh Rasheed"
-          },
-          "image": {
-            "text": "Rashid Ahmed.jpg"
-          },
-          "caption": {
-            "text": "Sheikh Rasheed Ahmed in 2018."
-          },
-          "office": {
-            "text": "38th Minister of Interior",
-            "links": [
-              {
-                "text": "Minister of Interior",
-                "type": "internal",
-                "page": "Ministry of Interior (Pakistan)"
-              }
-            ]
-          },
-          "president": {
-            "text": "Arif Alvi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Arif Alvi"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Imran Khan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Imran Khan"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "11 December 2020"
-          },
-          "predecessor": {
-            "text": "Ijaz Shah",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ijaz Shah"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "18 August 2018"
-          },
-          "term_end1": {
-            "text": "11 December 2020"
-          },
-          "president1": {
-            "text": "Mamnoon Hussain Arif Alvi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mamnoon Hussain"
-              },
-              {
-                "type": "internal",
-                "page": "Arif Alvi"
-              }
-            ]
-          },
-          "primeminister1": {
-            "text": "Imran Khan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Imran Khan"
-              }
-            ]
-          },
-          "predecessor1": {
-            "text": "Roshan Khursheed Bharucha (caretaker)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Roshan Khursheed Bharucha"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Azam Khan Swati",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Azam Khan Swati"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "18 August 2018"
-          },
-          "term_end2": {
-            "text": "11 December 2020"
-          },
-          "office3": {
-            "text": "Federal Minister for Information and Broadcasting",
-            "links": [
-              {
-                "text": "Federal Minister for Information and Broadcasting",
-                "type": "internal",
-                "page": "Minister of Information and Broadcasting (Pakistan)"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "2 September 2004"
-          },
-          "term_end3": {
-            "text": "25 April 2006"
-          },
-          "president3": {
-            "text": "Pervez Musharraf",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Pervez Musharraf"
-              }
-            ]
-          },
-          "primeminister3": {
-            "text": "Shaukat Aziz",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Shaukat Aziz"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Muhammad Ali Durrani",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Muhammad Ali Durrani"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "30 June 2004"
-          },
-          "term_end4": {
-            "text": "25 August 2004"
-          },
-          "president4": {
-            "text": "Pervez Musharraf",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Pervez Musharraf"
-              }
-            ]
-          },
-          "primeminister4": {
-            "text": "Shujat Hussain",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Shujat Hussain"
-              }
-            ]
-          },
-          "term_start5": {
-            "text": "21 November 2002"
-          },
-          "term_end5": {
-            "text": "26 June 2004"
-          },
-          "president5": {
-            "text": "Pervez Musharraf",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Pervez Musharraf"
-              }
-            ]
-          },
-          "primeminister5": {
-            "text": "Mir Zafarullah Khan Jamali",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mir Zafarullah Khan Jamali"
-              }
-            ]
-          },
-          "office6": {
-            "text": "Federal Minister for Labour and Manpower",
-            "links": [
-              {
-                "text": "Federal Minister for Labour and Manpower",
-                "type": "internal",
-                "page": "Ministry of Labour (Pakistan)"
-              }
-            ]
-          },
-          "term_start6": {
-            "text": "11 July 1997"
-          },
-          "term_end6": {
-            "text": "12 October 1999"
-          },
-          "primeminister6": {
-            "text": "Nawaz Sharif",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nawaz Sharif"
-              }
-            ]
-          },
-          "president6": {
-            "text": "Farooq Leghari Wasim Sajjad Muhammad Rafiq Tarar",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Farooq Leghari"
-              },
-              {
-                "type": "internal",
-                "page": "Wasim Sajjad"
-              },
-              {
-                "type": "internal",
-                "page": "Muhammad Rafiq Tarar"
-              }
-            ]
-          },
-          "office7": {
-            "text": "Federal Minister for Overseas Pakistanis",
-            "links": [
-              {
-                "text": "Federal Minister for Overseas Pakistanis",
-                "type": "internal",
-                "page": "Ministry of Overseas Pakistanis and Human Resource Development"
-              }
-            ]
-          },
-          "term_start7": {
-            "text": "11 July 1997"
-          },
-          "term_end7": {
-            "text": "12 October 1999"
-          },
-          "primeminister7": {
-            "text": "Nawaz Sharif",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nawaz Sharif"
-              }
-            ]
-          },
-          "president7": {
-            "text": "Farooq Leghari Wasim Sajjad Muhammad Rafiq Tarar",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Farooq Leghari"
-              },
-              {
-                "type": "internal",
-                "page": "Wasim Sajjad"
-              },
-              {
-                "type": "internal",
-                "page": "Muhammad Rafiq Tarar"
-              }
-            ]
-          },
-          "office8": {
-            "text": "Federal Minister for Youth Affairs"
-          },
-          "term_start8": {
-            "text": "11 July 1997"
-          },
-          "term_end8": {
-            "text": "6 August 1998"
-          },
-          "primeminister8": {
-            "text": "Nawaz Sharif",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nawaz Sharif"
-              }
-            ]
-          },
-          "president8": {
-            "text": "Farooq Leghari Wasim Sajjad Muhammad Rafiq Tarar",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Farooq Leghari"
-              },
-              {
-                "type": "internal",
-                "page": "Wasim Sajjad"
-              },
-              {
-                "type": "internal",
-                "page": "Muhammad Rafiq Tarar"
-              }
-            ]
-          },
-          "office9": {
-            "text": "Federal Minister for Tourism",
-            "links": [
-              {
-                "text": "Federal Minister for Tourism",
-                "type": "internal",
-                "page": "Ministry of Tourism (Pakistan)"
-              }
-            ]
-          },
-          "term_start9": {
-            "text": "11 July 1997"
-          },
-          "term_end9": {
-            "text": "6 August 1998"
-          },
-          "primeminister9": {
-            "text": "Nawaz Sharif",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nawaz Sharif"
-              }
-            ]
-          },
-          "president9": {
-            "text": "Farooq Leghari Wasim Sajjad Muhammad Rafiq Tarar",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Farooq Leghari"
-              },
-              {
-                "type": "internal",
-                "page": "Wasim Sajjad"
-              },
-              {
-                "type": "internal",
-                "page": "Muhammad Rafiq Tarar"
-              }
-            ]
-          },
-          "office10": {
-            "text": "President Awami Muslim League",
-            "links": [
-              {
-                "text": "President Awami Muslim League",
-                "type": "internal",
-                "page": "Awami Muslim League (Pakistan)"
-              }
-            ]
-          },
-          "term_start10": {
-            "text": "June 2008"
-          },
-          "office11": {
-            "text": "Federal Minister for Culture"
-          },
-          "term_start11": {
-            "text": "11 July 1997"
-          },
-          "term_end11": {
-            "text": "6 August 1998"
-          },
-          "primeminister11": {
-            "text": "Nawaz Sharif",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nawaz Sharif"
-              }
-            ]
-          },
-          "president11": {
-            "text": "Farooq Leghari Wasim Sajjad Muhammad Rafiq Tarar",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Farooq Leghari"
-              },
-              {
-                "type": "internal",
-                "page": "Wasim Sajjad"
-              },
-              {
-                "type": "internal",
-                "page": "Muhammad Rafiq Tarar"
-              }
-            ]
-          },
-          "term_start12": {
-            "text": "10 September 1991"
-          },
-          "term_end12": {
-            "text": "18 July 1993"
-          },
-          "primeminister12": {
-            "text": "Nawaz Sharif",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nawaz Sharif"
-              }
-            ]
-          },
-          "president12": {
-            "text": "Ghulam Ishaq Khan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ghulam Ishaq Khan"
-              }
-            ]
-          },
-          "office13": {
-            "text": "Federal Minister for Industries",
-            "links": [
-              {
-                "text": "Federal Minister for Industries",
-                "type": "internal",
-                "page": "Ministry of Industries and Production (Pakistan)"
-              }
-            ]
-          },
-          "term_start13": {
-            "text": "10 September 1991"
-          },
-          "term_end13": {
-            "text": "18 July 1993"
-          },
-          "primeminister13": {
-            "text": "Nawaz Sharif",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nawaz Sharif"
-              }
-            ]
-          },
-          "president13": {
-            "text": "Ghulam Ishaq Khan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ghulam Ishaq Khan"
-              }
-            ]
-          },
-          "office14": {
-            "text": "Member of the National Assembly of Pakistan",
-            "links": [
-              {
-                "text": "Member of the National Assembly of Pakistan",
-                "type": "internal",
-                "page": "National Assembly of Pakistan"
-              }
-            ]
-          },
-          "term_start14": {
-            "text": "1 June 2013 \n(2 consecutive terms from 1 June 2013-31 May 2018, 13 August 2018- till date)"
-          },
-          "constituency14": {
-            "text": "NA-62 (Rawalpindi-VI) for 2018, NA-55 (Rawalpindi-VI) for 2013-2018",
-            "links": [
-              {
-                "text": "NA-62 (Rawalpindi-VI)",
-                "type": "internal",
-                "page": "Constituency NA-55"
-              },
-              {
-                "text": "NA-55 (Rawalpindi-VI)",
-                "type": "internal",
-                "page": "Constituency NA-55"
-              }
-            ]
-          },
-          "term_start15": {
-            "text": "16 November 2002"
-          },
-          "term_end15": {
-            "text": "15 November 2007"
-          },
-          "constituency15": {
-            "text": "NA-55 (Rawalpindi-VI)",
-            "links": [
-              {
-                "text": "NA-55 (Rawalpindi-VI)",
-                "type": "internal",
-                "page": "Constituency NA-55"
-              }
-            ]
-          },
-          "term_start16": {
-            "text": "21 March 1985"
-          },
-          "term_end16": {
-            "text": "12 October 1999 (5 consecutive terms from 1985-1988, 1988-1990, 1990-1993, 1993-1997, 1997-1999)"
-          },
-          "constituency16": {
-            "text": "NA-38 Rawalpindi-III",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Rawalpindi"
-              }
-            ]
-          },
-          "birth_place": {
-            "text": "Rawalpindi, Punjab, Pakistan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Rawalpindi"
-              },
-              {
-                "text": "Punjab",
-                "type": "internal",
-                "page": "West Punjab"
-              },
-              {
-                "text": "Pakistan",
-                "type": "internal",
-                "page": "Dominion of Pakistan"
-              }
-            ]
-          },
-          "party": {
-            "text": "Awami Muslim League",
-            "links": [
-              {
-                "text": "Awami Muslim League",
-                "type": "internal",
-                "page": "Awami Muslim League (Pakistan)"
-              }
-            ]
-          },
-          "otherparty": {
-            "text": "Islami Jamhoori Ittehad (before 1993) Pakistan Muslim League (N) (till 2002) Pakistan Muslim League (Q) (till 2008)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Islami Jamhoori Ittehad"
-              },
-              {
-                "type": "internal",
-                "page": "Pakistan Muslim League (N)"
-              },
-              {
-                "type": "internal",
-                "page": "Pakistan Muslim League (Q)"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "Government Gordon College University of Punjab",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Government Gordon College"
-              },
-              {
-                "type": "internal",
-                "page": "University of Punjab"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Minister of Railways",
-            "links": [
-              {
-                "text": "Minister of Railways",
-                "type": "internal",
-                "page": "Ministry of Railways (Pakistan)"
-              }
-            ]
-          },
-          "termend2": {
-            "text": "15 November 2007"
-          },
-          "termstart2": {
-            "text": "25 April 2006"
-          },
-          "president2": {
-            "text": "Pervez Musharraf",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Pervez Musharraf"
-              }
-            ]
-          },
-          "primeminister2": {
-            "text": "Shaukat Aziz",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Shaukat Aziz"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Ghulam Ahmed Bilour",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ghulam Ahmed Bilour"
-              }
-            ]
-          },
-          "predecessor2": {
-            "text": "Saleemur Rahman Akhoond"
-          },
-          "birth_date": {
-            "text": "November 6, 1950"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Sheikh Rasheed",
+  "image": "Rashid Ahmed.jpg",
+  "caption": "Sheikh Rasheed Ahmed in 2018.",
+  "office": "38th Minister of Interior",
+  "president": "Arif Alvi",
+  "primeminister": "Imran Khan",
+  "term_start": "11 December 2020",
+  "predecessor": "Ijaz Shah",
+  "term_start1": "18 August 2018",
+  "term_end1": "11 December 2020",
+  "president1": "Mamnoon Hussain Arif Alvi",
+  "primeminister1": "Imran Khan",
+  "predecessor1": "Roshan Khursheed Bharucha (caretaker)",
+  "successor1": "Azam Khan Swati",
+  "term_start2": "18 August 2018",
+  "term_end2": "11 December 2020",
+  "office3": "Federal Minister for Information and Broadcasting",
+  "term_start3": "2 September 2004",
+  "term_end3": "25 April 2006",
+  "president3": "Pervez Musharraf",
+  "primeminister3": "Shaukat Aziz",
+  "successor3": "Muhammad Ali Durrani",
+  "term_start4": "30 June 2004",
+  "term_end4": "25 August 2004",
+  "president4": "Pervez Musharraf",
+  "primeminister4": "Shujat Hussain",
+  "term_start5": "21 November 2002",
+  "term_end5": "26 June 2004",
+  "president5": "Pervez Musharraf",
+  "primeminister5": "Mir Zafarullah Khan Jamali",
+  "office6": "Federal Minister for Labour and Manpower",
+  "term_start6": "11 July 1997",
+  "term_end6": "12 October 1999",
+  "primeminister6": "Nawaz Sharif",
+  "president6": "Farooq Leghari Wasim Sajjad Muhammad Rafiq Tarar",
+  "office7": "Federal Minister for Overseas Pakistanis",
+  "term_start7": "11 July 1997",
+  "term_end7": "12 October 1999",
+  "primeminister7": "Nawaz Sharif",
+  "president7": "Farooq Leghari Wasim Sajjad Muhammad Rafiq Tarar",
+  "office8": "Federal Minister for Youth Affairs",
+  "term_start8": "11 July 1997",
+  "term_end8": "6 August 1998",
+  "primeminister8": "Nawaz Sharif",
+  "president8": "Farooq Leghari Wasim Sajjad Muhammad Rafiq Tarar",
+  "office9": "Federal Minister for Tourism",
+  "term_start9": "11 July 1997",
+  "term_end9": "6 August 1998",
+  "primeminister9": "Nawaz Sharif",
+  "president9": "Farooq Leghari Wasim Sajjad Muhammad Rafiq Tarar",
+  "office10": "President Awami Muslim League",
+  "term_start10": "June 2008",
+  "office11": "Federal Minister for Culture",
+  "term_start11": "11 July 1997",
+  "term_end11": "6 August 1998",
+  "primeminister11": "Nawaz Sharif",
+  "president11": "Farooq Leghari Wasim Sajjad Muhammad Rafiq Tarar",
+  "term_start12": "10 September 1991",
+  "term_end12": "18 July 1993",
+  "primeminister12": "Nawaz Sharif",
+  "president12": "Ghulam Ishaq Khan",
+  "office13": "Federal Minister for Industries",
+  "term_start13": "10 September 1991",
+  "term_end13": "18 July 1993",
+  "primeminister13": "Nawaz Sharif",
+  "president13": "Ghulam Ishaq Khan",
+  "office14": "Member of the National Assembly of Pakistan",
+  "term_start14": "1 June 2013 \n(2 consecutive terms from 1 June 2013-31 May 2018, 13 August 2018- till date)",
+  "constituency14": "NA-62 (Rawalpindi-VI) for 2018, NA-55 (Rawalpindi-VI) for 2013-2018",
+  "term_start15": "16 November 2002",
+  "term_end15": "15 November 2007",
+  "constituency15": "NA-55 (Rawalpindi-VI)",
+  "term_start16": "21 March 1985",
+  "term_end16": "12 October 1999 (5 consecutive terms from 1985-1988, 1988-1990, 1990-1993, 1993-1997, 1997-1999)",
+  "constituency16": "NA-38 Rawalpindi-III",
+  "birth_place": "Rawalpindi, Punjab, Pakistan",
+  "party": "Awami Muslim League",
+  "otherparty": "Islami Jamhoori Ittehad (before 1993) Pakistan Muslim League (N) (till 2002) Pakistan Muslim League (Q) (till 2008)",
+  "alma_mater": "Government Gordon College University of Punjab",
+  "office1": "Minister of Railways",
+  "termend2": "15 November 2007",
+  "termstart2": "25 April 2006",
+  "president2": "Pervez Musharraf",
+  "primeminister2": "Shaukat Aziz",
+  "successor2": "Ghulam Ahmed Bilour",
+  "predecessor2": "Saleemur Rahman Akhoond",
+  "birth_date": "November 6, 1950"
 }

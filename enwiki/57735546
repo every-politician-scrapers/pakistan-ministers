@@ -1,109 +1,11 @@
 {
-  "title": "Khalid Jawed Khan",
-  "pageID": 57735546,
-  "categories": [
-    "Living people",
-    "Lawyers from Karachi",
-    "Harvard Law School alumni",
-    "Attorneys General of Pakistan",
-    "Alumni of Queen Mary University of London",
-    "Year of birth missing (living people)",
-    "Alumni of Hertford College, Oxford"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Khalid Jawed Khan is a Pakistani lawyer who is currently serving as the 35th Attorney General of Pakistan.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Attorney General of Pakistan"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Khalid Jawed Khan"
-                ]
-              }
-            },
-            {
-              "text": "Khan is a Barrister at Law and Advocate of Supreme Court and has been practicing law since 1996."
-            },
-            {
-              "text": "He specializes in Constitutional Law, Taxation, Service and Civil matters."
-            }
-          ]
-        }
-      ],
-      "images": [
-        {
-          "file": "File:Supreme Court of Pakistan, Islamabad by Usman Ghani.jpg",
-          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Supreme_Court_of_Pakistan%2C_Islamabad_by_Usman_Ghani.jpg?width=300",
-          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Supreme_Court_of_Pakistan%2C_Islamabad_by_Usman_Ghani.jpg",
-          "caption": "The Supreme Court Building where office of Attorney General for Pakistan is situated",
-          "links": []
-        }
-      ],
-      "templates": [
-        {
-          "description": "Pakistani politician",
-          "template": "short description"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Khalid Jawed Khan"
-          },
-          "parents": {
-            "text": "Professor ND Khan, Mrs. Shamim N D. Khan"
-          },
-          "office": {
-            "text": "35th Attorney-General for Pakistan",
-            "links": [
-              {
-                "text": "35th",
-                "type": "internal",
-                "page": "Attorney-General for Pakistan",
-                "anchor": "List of Attorneys-General for Pakistan"
-              },
-              {
-                "type": "internal",
-                "page": "Attorney-General for Pakistan"
-              }
-            ]
-          },
-          "president": {
-            "text": "Arif Alvi"
-          },
-          "term_start": {
-            "text": "21 February 2020"
-          },
-          "term_end": {
-            "text": "Present"
-          },
-          "predecessor": {
-            "text": "Anwar Mansoor Khan"
-          },
-          "birth_place": {
-            "text": "Karachi"
-          },
-          "occupation": {
-            "text": "Lawyer",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Lawyer"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Khalid Jawed Khan",
+  "parents": "Professor ND Khan, Mrs. Shamim N D. Khan",
+  "office": "35th Attorney-General for Pakistan",
+  "president": "Arif Alvi",
+  "term_start": "21 February 2020",
+  "term_end": "Present",
+  "predecessor": "Anwar Mansoor Khan",
+  "birth_place": "Karachi",
+  "occupation": "Lawyer"
 }

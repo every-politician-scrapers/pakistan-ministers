@@ -1,216 +1,24 @@
 {
-  "title": "Shah Farman",
-  "pageID": 41304334,
-  "categories": [
-    "Living people",
-    "Khyber Pakhtunkhwa MPAs 2013–2018",
-    "Pakistan Tehreek-e-Insaf MPAs (Khyber Pakhtunkhwa)",
-    "Governors of Khyber Pakhtunkhwa",
-    "Year of birth missing (living people)"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Shah Farman is a Pakistani politician who is the 32nd and current Governor of Khyber Pakhtunkhwa, in office since 5 September 2018.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Pakistani"
-                },
-                {
-                  "type": "internal",
-                  "page": "Governor of Khyber Pakhtunkhwa"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Shah Farman"
-                ]
-              }
-            },
-            {
-              "text": "Previously, he was a member of the Khyber Pakhtunkhwa Assembly from May 2013 to May 2018, and again from August 2018 to September 2018.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Khyber Pakhtunkhwa Assembly"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Pakistani politician",
-          "bot": "PearBOT 5",
-          "template": "short description"
-        },
-        {
-          "date": "July 2015",
-          "template": "use pakistani english"
-        },
-        {
-          "date": "July 2015",
-          "template": "use dmy dates"
-        },
-        {
-          "list": [
-            "شاہ فرمان"
-          ],
-          "template": "nq"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Shah Farman"
-          },
-          "office": {
-            "text": "Governor of Khyber Pakhtunkhwa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Governor of Khyber Pakhtunkhwa"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "5 September 2018"
-          },
-          "predecessor": {
-            "text": "Iqbal Zafar Jhagra\nMushtaq Ahmed Ghani (Acting)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Iqbal Zafar Jhagra"
-              },
-              {
-                "type": "internal",
-                "page": "Mushtaq Ahmed Ghani"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Member of the Provincial Assembly of Khyber Pakhtunkhwa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Provincial Assembly of Khyber Pakhtunkhwa"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "17 August 2018"
-          },
-          "term_end2": {
-            "text": "4 September 2018"
-          },
-          "constituency2": {
-            "text": "PK 71 Peshawar-VI"
-          },
-          "successor2": {
-            "text": "Salahuddin Mohammad"
-          },
-          "term_start3": {
-            "text": "31 May 2013"
-          },
-          "term_end3": {
-            "text": "28 May 2018"
-          },
-          "constituency3": {
-            "text": "PK 10 Peshawar-X",
-            "links": [
-              {
-                "text": "PK 10 Peshawar-X",
-                "type": "internal",
-                "page": "Constituency PK-10 (Peshawar-X)"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Minister for Public Health Engineering and Information of Khyber Pakhtunkhwa",
-            "links": [
-              {
-                "text": "Minister for Public Health Engineering and Information of Khyber Pakhtunkhwa",
-                "type": "internal",
-                "page": "Government of Khyber Pakhtunkhwa"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "21 July 2014"
-          },
-          "term_end1": {
-            "text": "28 May 2018"
-          },
-          "governor1": {
-            "text": "Shaukatullah Khan\nMehtab Ahmed Khan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Shaukatullah Khan"
-              },
-              {
-                "text": "Mehtab Ahmed Khan",
-                "type": "internal",
-                "page": "Mehtab Ahmed Khan Abbasi"
-              }
-            ]
-          },
-          "1blankname1": {
-            "text": "Chief Minister"
-          },
-          "1namedata1": {
-            "text": "Pervez Khattak",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Pervez Khattak"
-              }
-            ]
-          },
-          "predecessor1": {
-            "text": "Mushtaq Ahmed Ghani",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mushtaq Ahmed Ghani"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "Pakistani"
-          },
-          "party": {
-            "text": "Pakistan Tehreek-e-Insaf",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Pakistan Tehreek-e-Insaf"
-              }
-            ]
-          },
-          "president": {
-            "text": "Mamnoon Hussain\nArif Alvi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mamnoon Hussain"
-              },
-              {
-                "type": "internal",
-                "page": "Arif Alvi"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Shah Farman",
+  "office": "Governor of Khyber Pakhtunkhwa",
+  "term_start": "5 September 2018",
+  "predecessor": "Iqbal Zafar Jhagra\nMushtaq Ahmed Ghani (Acting)",
+  "office2": "Member of the Provincial Assembly of Khyber Pakhtunkhwa",
+  "term_start2": "17 August 2018",
+  "term_end2": "4 September 2018",
+  "constituency2": "PK 71 Peshawar-VI",
+  "successor2": "Salahuddin Mohammad",
+  "term_start3": "31 May 2013",
+  "term_end3": "28 May 2018",
+  "constituency3": "PK 10 Peshawar-X",
+  "office1": "Minister for Public Health Engineering and Information of Khyber Pakhtunkhwa",
+  "term_start1": "21 July 2014",
+  "term_end1": "28 May 2018",
+  "governor1": "Shaukatullah Khan\nMehtab Ahmed Khan",
+  "1blankname1": "Chief Minister",
+  "1namedata1": "Pervez Khattak",
+  "predecessor1": "Mushtaq Ahmed Ghani",
+  "nationality": "Pakistani",
+  "party": "Pakistan Tehreek-e-Insaf",
+  "president": "Mamnoon Hussain\nArif Alvi"
 }

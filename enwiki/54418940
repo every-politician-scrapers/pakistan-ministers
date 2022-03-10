@@ -1,213 +1,25 @@
 {
-  "title": "Sahabzada Mehboob Sultan",
-  "pageID": 54418940,
-  "categories": [
-    "Living people",
-    "Pakistani MNAs 2008–2013",
-    "Pakistani MNAs 2002–2007",
-    "Pakistan Muslim League (Q) MNAs",
-    "Pakistan Tehreek-e-Insaf MNAs",
-    "Pakistani MNAs 2018–2023",
-    "1971 births"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Sahabzada Muhammad Mehboob Sultan is a Pakistani politician who had been the Federal Minister for National Food Security and Research, in office from 5 October 2018 to 18 November 2019.",
-              "links": [
-                {
-                  "text": "Federal Minister for National Food Security and Research",
-                  "type": "internal",
-                  "page": "Ministry of National Food Security and Research"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Sahabzada Muhammad Mehboob Sultan"
-                ]
-              }
-            },
-            {
-              "text": "He has been a member of the National Assembly of Pakistan since August 2018.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "National Assembly of Pakistan"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Previously, he was member of the National Assembly from 2002 to 2013."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Pakistani politician",
-          "template": "short description"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Sahabzada Mehboob Sultan"
-          },
-          "office": {
-            "text": "Minister for States and Frontier Regions",
-            "links": [
-              {
-                "text": "Minister for States and Frontier Regions",
-                "type": "internal",
-                "page": "Ministry of States and Frontier Regions (Pakistan)"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "19 November 2019"
-          },
-          "president": {
-            "text": "Arif Alvi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Arif Alvi"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Imran Khan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Imran Khan"
-              }
-            ]
-          },
-          "deputy": {
-            "text": "Shehryar Khan Afridi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Shehryar Khan Afridi"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Minister for National Food Security and Research",
-            "links": [
-              {
-                "text": "Minister for National Food Security and Research",
-                "type": "internal",
-                "page": "Ministry of National Food Security and Research"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "5 October 2018"
-          },
-          "term_end1": {
-            "text": "18 November 2019"
-          },
-          "president1": {
-            "text": "Arif Alvi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Arif Alvi"
-              }
-            ]
-          },
-          "primeminister1": {
-            "text": "Imran Khan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Imran Khan"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Khusro Bakhtiar",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Khusro Bakhtiar"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Member of the National Assembly of Pakistan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "National Assembly of Pakistan"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "15 August 2018"
-          },
-          "constituency2": {
-            "text": "NA-114 (Jhang-I)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "NA-114 (Jhang-I)"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "2002",
-            "number": 2002
-          },
-          "term_end3": {
-            "text": "2013",
-            "number": 2013
-          },
-          "constituency3": {
-            "text": "NA-91 (Jhang-VI)",
-            "links": [
-              {
-                "text": "NA-91 (Jhang-VI)",
-                "type": "internal",
-                "page": "Constituency NA-91"
-              }
-            ]
-          },
-          "party": {
-            "text": "Pakistan Tehreek-e-Insaf",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Pakistan Tehreek-e-Insaf"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "Pakistani"
-          },
-          "date of birth": {
-            "text": "30 September 1971"
-          },
-          "children": {
-            "text": "1",
-            "number": 1
-          },
-          "residence": {
-            "text": "Cantt, Lahore"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Sahabzada Mehboob Sultan",
+  "office": "Minister for States and Frontier Regions",
+  "term_start": "19 November 2019",
+  "president": "Arif Alvi",
+  "primeminister": "Imran Khan",
+  "deputy": "Shehryar Khan Afridi",
+  "office1": "Minister for National Food Security and Research",
+  "term_start1": "5 October 2018",
+  "term_end1": "18 November 2019",
+  "president1": "Arif Alvi",
+  "primeminister1": "Imran Khan",
+  "successor1": "Khusro Bakhtiar",
+  "office2": "Member of the National Assembly of Pakistan",
+  "term_start2": "15 August 2018",
+  "constituency2": "NA-114 (Jhang-I)",
+  "term_start3": "2002",
+  "term_end3": "2013",
+  "constituency3": "NA-91 (Jhang-VI)",
+  "party": "Pakistan Tehreek-e-Insaf",
+  "nationality": "Pakistani",
+  "date of birth": "30 September 1971",
+  "children": "1",
+  "residence": "Cantt, Lahore"
 }
