@@ -1,148 +1,148 @@
 id,name,relationship,relative,relativename
-Q10970911,Mahmood Khan Achakzai,father,Q4665715,Abdul Samad Khan Achakzai
-Q10970911,Mahmood Khan Achakzai,sibling,Q15983327,Hamid Khan Achakzai
-Q10970911,Mahmood Khan Achakzai,sibling,Q16319320,Muhammad Khan Achakzai
-Q134068,Nawaz Sharif,child,Q33083237,Hassan Nawaz
-Q134068,Nawaz Sharif,child,Q33083238,Hussain Nawaz
-Q134068,Nawaz Sharif,child,Q6781082,Maryam Safdar
-Q134068,Nawaz Sharif,father,Q1951867,Muhammad Sharif
-Q134068,Nawaz Sharif,sibling,Q2096387,Shehbaz Sharif
-Q134068,Nawaz Sharif,sibling,Q28974227,Abbas Sharif
-Q134068,Nawaz Sharif,spouse,Q15982559,Kulsoom Nawaz
-Q13579848,Pervez Khattak,relative,Q3336226,Nasrullah Khan Khattak
-Q1521977,Ghulam Noor Rabbani Khar,child,Q254122,Hina Rabbani Khar
-Q1521977,Ghulam Noor Rabbani Khar,sibling,Q1955551,Ghulam Mustafa Khar
-Q15240778,Raheel Sharif,sibling,Q3694413,Shabbir Sharif
-Q1543422,Makhdoom Shah Mahmood Hussain Qureshi,father,Q6799374,Sajjad Hussain Qureshi
-Q155164,Imran Khan,child,Q75540680,Sulaiman Isa Khan
-Q155164,Imran Khan,child,Q75540682,Kasim Khan
-Q155164,Imran Khan,father,Q56772613,Ikramullah Khan Niazi
-Q155164,Imran Khan,mother,Q56773177,Shaukat Khanum
-Q155164,Imran Khan,partner,Q21457945,Emma Sergeant
-Q155164,Imran Khan,partner,Q49202747,Sita White
-Q155164,Imran Khan,spouse,Q16225960,Reham Khan
-Q155164,Imran Khan,spouse,Q468577,Jemima Goldsmith
-Q155164,Imran Khan,spouse,Q49201649,Bushra Bibi
-Q15715800,Ayesha Gulalai Wazir,sibling,Q6761637,Maria Toorpakay
-Q15982559,Kulsoom Nawaz,child,Q33083237,Hassan Nawaz
-Q15982559,Kulsoom Nawaz,child,Q33083238,Hussain Nawaz
-Q15982559,Kulsoom Nawaz,child,Q6781082,Maryam Safdar
-Q15982559,Kulsoom Nawaz,spouse,Q134068,Nawaz Sharif
-Q16145751,Shaykh Muhammad Amin al-Hasanat Shah,father,Q6932566,Muhammad Karam Shah al-Azhari
-Q16207405,Shahzada Iftikhar Uddin,father,Q16104976,Shahzada Mohiuddin
-Q16319320,Muhammad Khan Achakzai,father,Q4665715,Abdul Samad Khan Achakzai
-Q16319320,Muhammad Khan Achakzai,sibling,Q10970911,Mahmood Khan Achakzai
-Q16319320,Muhammad Khan Achakzai,sibling,Q15983327,Hamid Khan Achakzai
-Q16442103,Maryam Aurangzaib,mother,Q19517992,Tahira Aurangzeb
-Q18764145,Isphanyar M. Bhandara,father,Q6868929,Minocher Bhandara
-Q18815877,Syed Mustafa Mahmud,father,Q2164946,Makhdoom Ahmed Mehmood
-Q18815895,Tahir Bashir Cheema,sibling,Q18815900,Chaudhary Tariq Bashir Cheema
-Q18815900,Chaudhary Tariq Bashir Cheema,sibling,Q18815895,Tahir Bashir Cheema
-Q18816116,Rajab Ali Khan,spouse,Q56065183,Aysha Rajab Ali
-Q18816140,Malik Ihtebar Khan,father,Q6743564,Malik Allahyar Khan
-Q19517992,Tahira Aurangzeb,child,Q16442103,Maryam Aurangzaib
-Q19662586,Syed Shibli Faraz,father,Q379507,Ahmad Faraz
-Q20819559,Hasnain Ali Mirza,father,Q228805,Zulfiqar Mirza
-Q20819559,Hasnain Ali Mirza,mother,Q2371076,Dr. Fahmida Mirza
-Q2096387,Shehbaz Sharif,child,Q5646510,Muhammad Hamza Shahbaz Sharif
-Q2096387,Shehbaz Sharif,father,Q1951867,Muhammad Sharif
-Q2096387,Shehbaz Sharif,sibling,Q134068,Nawaz Sharif
-Q2096387,Shehbaz Sharif,spouse,Q2400398,Tehmina Durrani
-Q21229212,Jahangir Khanzada,father,Q20824189,Shuja Khanzada
-Q22278582,Khalid Mehmood Soomro,child,Q58440573,Maulana Rashid Mahmood Soomro
-Q2371076,Dr. Fahmida Mirza,child,Q20819559,Hasnain Ali Mirza
-Q2371076,Dr. Fahmida Mirza,father,Q7267272,Qazi Abdul Majeed Abid
-Q2371076,Dr. Fahmida Mirza,sibling,Q6381086,Kazi Asad Abid
-Q2371076,Dr. Fahmida Mirza,spouse,Q228805,Zulfiqar Mirza
-Q244338,Bilawal Bhutto Zardari,father,Q57373,Asif Ali Zardari
-Q244338,Bilawal Bhutto Zardari,mother,Q34413,Benazir Bhutto
-Q244338,Bilawal Bhutto Zardari,sibling,Q20643235,Bakhtawar Zardari Bhutto
-Q254122,Hina Rabbani Khar,father,Q1521977,Ghulam Noor Rabbani Khar
-Q254122,Hina Rabbani Khar,sibling,Q55956354,Raza Rabbani Khar
-Q254122,Hina Rabbani Khar,spouse,Q96953192,Firoze Gulzar
-Q26132883,Murad Ali Shah,father,Q27995800,Syed Abdullah Ali Shah
-Q2621352,Muhammad Ijaz-ul-Haq,father,Q200499,Muhammad Zia-ul-Haq
-Q2827449,Ahmad Mukhtar,sibling,Q4695453,Saeed Ahmad
-Q2842534,Amir Haider Azam Khan,father,Q6677741,Azam Khan Hoti
-Q2866576,Ashraf Qazi,mother,Q4308284,Jennifer Musa
-Q3067725,Fazal-ur-Rehman,child,Q55761296,Asad Mehmood
-Q3067725,Fazal-ur-Rehman,child,Q75008447,Asjad Mahmood
-Q3067725,Fazal-ur-Rehman,father,Q6932040,Mufti Mahmud
-Q3067725,Fazal-ur-Rehman,sibling,Q42722724,Latuf Ur Rehman
-Q3067725,Fazal-ur-Rehman,sibling,Q6792420,Atta ur Rehman
-Q3067725,Fazal-ur-Rehman,sibling,Q97707758,Zia ur Rehman
-Q314787,Tariq Ali,father,Q6798491,Mazhar Ali Khan
-Q314787,Tariq Ali,mother,Q19800538,Tahira Mazhar Ali
-Q316987,Faryal Talpur,sibling,Q57373,Asif Ali Zardari
-Q31704762,Sardar Hussain,relative,Q72889092,Muhammad Karim Babak
-Q31704762,Sardar Hussain,sibling,Q73516279,Shamim Shahid
-Q334072,Mohammad Sarwar,child,Q478812,Anas Sarwar
-Q337984,Marvi Memon,spouse,Q3155254,Ishaq Dar
-Q35525609,Tariq Bajwa,sibling,Q4806900,Asif Bajwa
-Q39086669,Saadia Abbasi,father,Q33832562,Khaqan Abbasi
-Q39086669,Saadia Abbasi,sibling,Q7461686,Shahid Khaqan Abbasi
-Q40495,Pervez Musharraf,spouse,Q56153213,Sehba Musharraf
-Q42722724,Latuf Ur Rehman,father,Q6932040,Mufti Mahmud
-Q42722724,Latuf Ur Rehman,sibling,Q3067725,Fazal-ur-Rehman
-Q42722724,Latuf Ur Rehman,sibling,Q6792420,Atta ur Rehman
-Q42722724,Latuf Ur Rehman,sibling,Q97707758,Zia ur Rehman
-Q4695453,Saeed Ahmad,sibling,Q2827449,Ahmad Mukhtar
-Q4790529,Arif Alvi,spouse,Q56460153,Samina Alvi
-Q4832891,Azra Fazal Pechuho,father,Q16019270,Hakim Ali Zardari
-Q4832891,Azra Fazal Pechuho,sibling,Q316987,Faryal Talpur
-Q4832891,Azra Fazal Pechuho,sibling,Q57373,Asif Ali Zardari
-Q49201649,Bushra Bibi,spouse,Q155164,Imran Khan
-Q49201649,Bushra Bibi,spouse,Q56151449,Khawar Farid Maneka
-Q50325889,Tahia Noon,spouse,Q6743557,Malik Adnan Hayat Noon
-Q5431517,Syed Fakhar Imam,spouse,Q4667588,Abida Hussain
-Q55761206,Makhdoom Zain Hussain Qureshi,father,Q1543422,Makhdoom Shah Mahmood Hussain Qureshi
-Q55761296,Asad Mehmood,father,Q3067725,Fazal-ur-Rehman
-Q55761296,Asad Mehmood,relative,Q42722724,Latuf Ur Rehman
-Q55761296,Asad Mehmood,relative,Q6792420,Atta ur Rehman
-Q55761296,Asad Mehmood,relative,Q6932040,Mufti Mahmud
-Q55761296,Asad Mehmood,sibling,Q75008447,Asjad Mahmood
-Q55767505,Rai Muhammad Murtaza Iqbal,relative,Q7283666,Rai Hassan Nawaz
-Q55825094,Usman Buzdar,father,Q56159482,Sardar Fateh Muhammad Buzdar
-Q55825237,Muhammad Moavia,father,Q4832175,Azam Tariq
-Q55956354,Raza Rabbani Khar,sibling,Q254122,Hina Rabbani Khar
-Q56065183,Aysha Rajab Ali,spouse,Q18816116,Rajab Ali Khan
-Q56153243,Nusrat Parvaiz Ashraf,spouse,Q57811,Raja Pervaiz Ashraf
-Q5646510,Muhammad Hamza Shahbaz Sharif,father,Q2096387,Shehbaz Sharif
-Q5679141,Hasil Bizenjo,father,Q5555949,Ghaus Bakhsh Bizenjo
-Q57373,Asif Ali Zardari,child,Q20643235,Bakhtawar Zardari Bhutto
-Q57373,Asif Ali Zardari,child,Q244338,Bilawal Bhutto Zardari
-Q57373,Asif Ali Zardari,sibling,Q316987,Faryal Talpur
-Q57373,Asif Ali Zardari,sibling,Q4832891,Azra Fazal Pechuho
-Q57373,Asif Ali Zardari,spouse,Q34413,Benazir Bhutto
-Q57811,Raja Pervaiz Ashraf,spouse,Q56153243,Nusrat Parvaiz Ashraf
-Q58203414,Hamid Ul Haq,father,Q7409411,Sami ul Haq
-Q58203414,Hamid Ul Haq,relative,Q92061595,Anwar-ul-Haq Haqqani
-Q6001594,Muhammad Ilyas,father,Q7559596,Maulana Manzoor Ahmad Chinioti
-Q6304918,Jugnu Mohsin,child,Q20744696,Mira Sethi
-Q6304918,Jugnu Mohsin,child,Q20979380,Ali Sethi
-Q6304918,Jugnu Mohsin,sibling,Q6899849,Moni Mohsin
-Q6304918,Jugnu Mohsin,spouse,Q6959916,Najam Sethi
-Q6663766,Asif Saeed Khan Khosa,sibling,Q54614220,Nasir Mahmood Khosa
-Q6792420,Atta ur Rehman,father,Q6932040,Mufti Mahmud
-Q6792420,Atta ur Rehman,relative,Q55761296,Asad Mehmood
-Q6792420,Atta ur Rehman,sibling,Q3067725,Fazal-ur-Rehman
-Q6792420,Atta ur Rehman,sibling,Q42722724,Latuf Ur Rehman
-Q6792420,Atta ur Rehman,sibling,Q97707758,Zia ur Rehman
-Q6958182,Nafisa Shah,father,Q3412401,Syed Qaim Ali Shah
-Q6959916,Najam Sethi,child,Q20744696,Mira Sethi
-Q6959916,Najam Sethi,child,Q20979380,Ali Sethi
-Q6959916,Najam Sethi,spouse,Q6304918,Jugnu Mohsin
-Q707883,Khurshid Mahmud Kasuri,father,Q28357306,Mahmud Ali Kasuri
-Q7089644,Omar Ayub Khan,father,Q4059060,Gohar Ayub Khan
-Q72889092,Muhammad Karim Babak,relative,Q31704762,Sardar Hussain
-Q72889092,Muhammad Karim Babak,relative,Q73516279,Shamim Shahid
-Q7409411,Sami ul Haq,child,Q58203414,Hamid Ul Haq
-Q7409411,Sami ul Haq,father,Q4665405,Abdul Haq
-Q7409411,Sami ul Haq,sibling,Q92061595,Anwar-ul-Haq Haqqani
-Q7409411,Sami ul Haq,sibling,Q95600971,Izhar ul Haq Haqqani
-Q7461686,Shahid Khaqan Abbasi,father,Q33832562,Khaqan Abbasi
-Q7461686,Shahid Khaqan Abbasi,sibling,Q39086669,Saadia Abbasi
-Q7461686,Shahid Khaqan Abbasi,spouse,Q56151718,Samina Khaqan Abbasi
-Q8071909,Zille Huma,child,Q4695744,Ahmed Ali Butt
-Q8071909,Zille Huma,father,Q7490762,Shaukat Hussain Rizvi
-Q8071909,Zille Huma,mother,Q466955,Noor Jehan
+Q10970911,Mahmood Khan Achakzai,father,Q4665715,
+Q10970911,Mahmood Khan Achakzai,sibling,Q15983327,
+Q10970911,Mahmood Khan Achakzai,sibling,Q16319320,
+Q134068,Nawaz Sharif,child,Q33083237,
+Q134068,Nawaz Sharif,child,Q33083238,
+Q134068,Nawaz Sharif,child,Q6781082,
+Q134068,Nawaz Sharif,father,Q1951867,
+Q134068,Nawaz Sharif,sibling,Q2096387,
+Q134068,Nawaz Sharif,sibling,Q28974227,
+Q134068,Nawaz Sharif,spouse,Q15982559,
+Q13579848,Pervez Khattak,relative,Q3336226,
+Q1521977,Ghulam Noor Rabbani Khar,child,Q254122,
+Q1521977,Ghulam Noor Rabbani Khar,sibling,Q1955551,
+Q15240778,Raheel Sharif,sibling,Q3694413,
+Q1543422,Makhdoom Shah Mahmood Hussain Qureshi,father,Q6799374,
+Q155164,Imran Khan,child,Q75540680,
+Q155164,Imran Khan,child,Q75540682,
+Q155164,Imran Khan,father,Q56772613,
+Q155164,Imran Khan,mother,Q56773177,
+Q155164,Imran Khan,partner,Q21457945,
+Q155164,Imran Khan,partner,Q49202747,
+Q155164,Imran Khan,spouse,Q16225960,
+Q155164,Imran Khan,spouse,Q468577,
+Q155164,Imran Khan,spouse,Q49201649,
+Q15715800,Ayesha Gulalai Wazir,sibling,Q6761637,
+Q15982559,Kulsoom Nawaz,child,Q33083237,
+Q15982559,Kulsoom Nawaz,child,Q33083238,
+Q15982559,Kulsoom Nawaz,child,Q6781082,
+Q15982559,Kulsoom Nawaz,spouse,Q134068,
+Q16145751,Shaykh Muhammad Amin al-Hasanat Shah,father,Q6932566,
+Q16207405,Shahzada Iftikhar Uddin,father,Q16104976,
+Q16319320,Muhammad Khan Achakzai,father,Q4665715,
+Q16319320,Muhammad Khan Achakzai,sibling,Q10970911,
+Q16319320,Muhammad Khan Achakzai,sibling,Q15983327,
+Q16442103,Maryam Aurangzaib,mother,Q19517992,
+Q18764145,Isphanyar M. Bhandara,father,Q6868929,
+Q18815877,Syed Mustafa Mahmud,father,Q2164946,
+Q18815895,Tahir Bashir Cheema,sibling,Q18815900,
+Q18815900,Chaudhary Tariq Bashir Cheema,sibling,Q18815895,
+Q18816116,Rajab Ali Khan,spouse,Q56065183,
+Q18816140,Malik Ihtebar Khan,father,Q6743564,
+Q19517992,Tahira Aurangzeb,child,Q16442103,
+Q19662586,Syed Shibli Faraz,father,Q379507,
+Q20819559,Hasnain Ali Mirza,father,Q228805,
+Q20819559,Hasnain Ali Mirza,mother,Q2371076,
+Q2096387,Shehbaz Sharif,child,Q5646510,
+Q2096387,Shehbaz Sharif,father,Q1951867,
+Q2096387,Shehbaz Sharif,sibling,Q134068,
+Q2096387,Shehbaz Sharif,spouse,Q2400398,
+Q21229212,Jahangir Khanzada,father,Q20824189,
+Q22278582,Khalid Mehmood Soomro,child,Q58440573,
+Q2371076,Dr. Fahmida Mirza,child,Q20819559,
+Q2371076,Dr. Fahmida Mirza,father,Q7267272,
+Q2371076,Dr. Fahmida Mirza,sibling,Q6381086,
+Q2371076,Dr. Fahmida Mirza,spouse,Q228805,
+Q244338,Bilawal Bhutto Zardari,father,Q57373,
+Q244338,Bilawal Bhutto Zardari,mother,Q34413,
+Q244338,Bilawal Bhutto Zardari,sibling,Q20643235,
+Q254122,Hina Rabbani Khar,father,Q1521977,
+Q254122,Hina Rabbani Khar,sibling,Q55956354,
+Q254122,Hina Rabbani Khar,spouse,Q96953192,
+Q26132883,Murad Ali Shah,father,Q27995800,
+Q2621352,Muhammad Ijaz-ul-Haq,father,Q200499,
+Q2827449,Ahmad Mukhtar,sibling,Q4695453,
+Q2842534,Amir Haider Azam Khan,father,Q6677741,
+Q2866576,Ashraf Qazi,mother,Q4308284,
+Q3067725,Fazal-ur-Rehman,child,Q55761296,
+Q3067725,Fazal-ur-Rehman,child,Q75008447,
+Q3067725,Fazal-ur-Rehman,father,Q6932040,
+Q3067725,Fazal-ur-Rehman,sibling,Q42722724,
+Q3067725,Fazal-ur-Rehman,sibling,Q6792420,
+Q3067725,Fazal-ur-Rehman,sibling,Q97707758,
+Q314787,Tariq Ali,father,Q6798491,
+Q314787,Tariq Ali,mother,Q19800538,
+Q316987,Faryal Talpur,sibling,Q57373,
+Q31704762,Sardar Hussain,relative,Q72889092,
+Q31704762,Sardar Hussain,sibling,Q73516279,
+Q334072,Mohammad Sarwar,child,Q478812,
+Q337984,Marvi Memon,spouse,Q3155254,
+Q35525609,Tariq Bajwa,sibling,Q4806900,
+Q39086669,Saadia Abbasi,father,Q33832562,
+Q39086669,Saadia Abbasi,sibling,Q7461686,
+Q40495,Pervez Musharraf,spouse,Q56153213,
+Q42722724,Latuf Ur Rehman,father,Q6932040,
+Q42722724,Latuf Ur Rehman,sibling,Q3067725,
+Q42722724,Latuf Ur Rehman,sibling,Q6792420,
+Q42722724,Latuf Ur Rehman,sibling,Q97707758,
+Q4695453,Saeed Ahmad,sibling,Q2827449,
+Q4790529,Arif Alvi,spouse,Q56460153,
+Q4832891,Azra Fazal Pechuho,father,Q16019270,
+Q4832891,Azra Fazal Pechuho,sibling,Q316987,
+Q4832891,Azra Fazal Pechuho,sibling,Q57373,
+Q49201649,Bushra Bibi,spouse,Q155164,
+Q49201649,Bushra Bibi,spouse,Q56151449,
+Q50325889,Tahia Noon,spouse,Q6743557,
+Q5431517,Syed Fakhar Imam,spouse,Q4667588,
+Q55761206,Makhdoom Zain Hussain Qureshi,father,Q1543422,
+Q55761296,Asad Mehmood,father,Q3067725,
+Q55761296,Asad Mehmood,relative,Q42722724,
+Q55761296,Asad Mehmood,relative,Q6792420,
+Q55761296,Asad Mehmood,relative,Q6932040,
+Q55761296,Asad Mehmood,sibling,Q75008447,
+Q55767505,Rai Muhammad Murtaza Iqbal,relative,Q7283666,
+Q55825094,Usman Buzdar,father,Q56159482,
+Q55825237,Muhammad Moavia,father,Q4832175,
+Q55956354,Raza Rabbani Khar,sibling,Q254122,
+Q56065183,Aysha Rajab Ali,spouse,Q18816116,
+Q56153243,Nusrat Parvaiz Ashraf,spouse,Q57811,
+Q5646510,Muhammad Hamza Shahbaz Sharif,father,Q2096387,
+Q5679141,Hasil Bizenjo,father,Q5555949,
+Q57373,Asif Ali Zardari,child,Q20643235,
+Q57373,Asif Ali Zardari,child,Q244338,
+Q57373,Asif Ali Zardari,sibling,Q316987,
+Q57373,Asif Ali Zardari,sibling,Q4832891,
+Q57373,Asif Ali Zardari,spouse,Q34413,
+Q57811,Raja Pervaiz Ashraf,spouse,Q56153243,
+Q58203414,Hamid Ul Haq,father,Q7409411,
+Q58203414,Hamid Ul Haq,relative,Q92061595,
+Q6001594,Muhammad Ilyas,father,Q7559596,
+Q6304918,Jugnu Mohsin,child,Q20744696,
+Q6304918,Jugnu Mohsin,child,Q20979380,
+Q6304918,Jugnu Mohsin,sibling,Q6899849,
+Q6304918,Jugnu Mohsin,spouse,Q6959916,
+Q6663766,Asif Saeed Khan Khosa,sibling,Q54614220,
+Q6792420,Atta ur Rehman,father,Q6932040,
+Q6792420,Atta ur Rehman,relative,Q55761296,
+Q6792420,Atta ur Rehman,sibling,Q3067725,
+Q6792420,Atta ur Rehman,sibling,Q42722724,
+Q6792420,Atta ur Rehman,sibling,Q97707758,
+Q6958182,Nafisa Shah,father,Q3412401,
+Q6959916,Najam Sethi,child,Q20744696,
+Q6959916,Najam Sethi,child,Q20979380,
+Q6959916,Najam Sethi,spouse,Q6304918,
+Q707883,Khurshid Mahmud Kasuri,father,Q28357306,
+Q7089644,Omar Ayub Khan,father,Q4059060,
+Q72889092,Muhammad Karim Babak,relative,Q31704762,
+Q72889092,Muhammad Karim Babak,relative,Q73516279,
+Q7409411,Sami ul Haq,child,Q58203414,
+Q7409411,Sami ul Haq,father,Q4665405,
+Q7409411,Sami ul Haq,sibling,Q92061595,
+Q7409411,Sami ul Haq,sibling,Q95600971,
+Q7461686,Shahid Khaqan Abbasi,father,Q33832562,
+Q7461686,Shahid Khaqan Abbasi,sibling,Q39086669,
+Q7461686,Shahid Khaqan Abbasi,spouse,Q56151718,
+Q8071909,Zille Huma,child,Q4695744,
+Q8071909,Zille Huma,father,Q7490762,
+Q8071909,Zille Huma,mother,Q466955,
