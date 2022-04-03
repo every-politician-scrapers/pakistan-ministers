@@ -53,6 +53,7 @@ Q2096387,Shehbaz Sharif,father,Q1951867,Muhammad Sharif
 Q2096387,Shehbaz Sharif,sibling,Q134068,Nawaz Sharif
 Q2096387,Shehbaz Sharif,spouse,Q2400398,Tehmina Durrani
 Q21229212,Jahangir Khanzada,father,Q20824189,Shuja Khanzada
+Q2164946,Makhdoom Ahmed Mehmood,child,Q18815877,Syed Mustafa Mahmud
 Q22278582,Khalid Mehmood Soomro,child,Q58440573,Maulana Rashid Mahmood Soomro
 Q2371076,Dr. Fahmida Mirza,child,Q20819559,Hasnain Ali Mirza
 Q2371076,Dr. Fahmida Mirza,father,Q7267272,Qazi Abdul Majeed Abid
@@ -75,12 +76,19 @@ Q3067725,Fazal-ur-Rehman,father,Q6932040,Mufti Mahmud
 Q3067725,Fazal-ur-Rehman,sibling,Q42722724,Latuf Ur Rehman
 Q3067725,Fazal-ur-Rehman,sibling,Q6792420,Atta ur Rehman
 Q3067725,Fazal-ur-Rehman,sibling,Q97707758,Zia ur Rehman
+Q314774,Salmaan Taseer,child,Q21872679,Shehrbano Taseer
+Q314774,Salmaan Taseer,child,Q24088593,Shahbaz Taseer
+Q314774,Salmaan Taseer,child,Q4662784,Aatish Taseer
+Q314774,Salmaan Taseer,father,Q6837171,M. D. Taseer
+Q314774,Salmaan Taseer,mother,Q23012863,Bilqees Taseer
+Q314774,Salmaan Taseer,spouse,Q23012872,Aamna Taseer
 Q314787,Tariq Ali,father,Q6798491,Mazhar Ali Khan
 Q314787,Tariq Ali,mother,Q19800538,Tahira Mazhar Ali
 Q316987,Faryal Talpur,sibling,Q57373,Asif Ali Zardari
 Q31704762,Sardar Hussain,relative,Q72889092,Muhammad Karim Babak
 Q31704762,Sardar Hussain,sibling,Q73516279,Shamim Shahid
 Q334072,Mohammad Sarwar,child,Q478812,Anas Sarwar
+Q334072,Mohammad Sarwar,spouse,Q111467804,Perveen Sarwar
 Q337984,Marvi Memon,spouse,Q3155254,Ishaq Dar
 Q35525609,Tariq Bajwa,sibling,Q4806900,Asif Bajwa
 Q39086669,Saadia Abbasi,father,Q33832562,Khaqan Abbasi
