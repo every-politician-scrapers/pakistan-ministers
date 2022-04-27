@@ -23,11 +23,11 @@ class OfficeholderList < OfficeholderListBase
     end
 
     def raw_start
-      start_cell.children.map(&:text).join(' ').gsub(/\(.*?\)/, '').tidy
+      start_cell.children.map(&:text).join(' ').gsub(/\(.*?\)/, '').gsub('Yet to take oath', '').tidy
     end
 
     def raw_end
-      end_cell.children.map(&:text).join(' ').gsub(/\(.*?\)/, '').tidy
+      end_cell.children.map(&:text).join(' ').gsub(/\(.*?\)/, '').gsub('Todate', 'Incumbent').tidy
     end
   end
 end
