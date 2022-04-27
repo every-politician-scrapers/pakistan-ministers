@@ -3,7 +3,8 @@ Q473984,President of Pakistan,Q843,Q843,,Q13512886,1956-03-02,,,,President of Pa
 Q735575,Prime Minister of Pakistan,Q843,Q843,,Q13410992,1947-08-15,,,,Prime Minister of Pakistan
 Q5261070,Deputy Prime Minister of Pakistan,Q843,,,,,,,,Deputy Prime Minister of Pakistan
 Q109748427,Federal Minister for Aviation,Q843,Q843,,,,,,,
-Q5152430,Commerce Minister of Pakistan,Q843,,,,,,,,Commerce Minister of Pakistan
+Q111736775,Federal Minister of Climate Change,Q843,Q843,,,,,,,
+Q5152430,Commerce Minister of Pakistan,Q843,Q843,,,,,,,Commerce Minister of Pakistan
 Q109748501,Federal Minister of Communications,Q843,Q843,,,,,,,
 Q5251233,Defence Minister of Pakistan,Q843,Q843,,,1947-08-14,,,,Minister of Defence (Pakistan)
 Q109748534,Minister of Defence Production,Q843,Q843,,,,,,,
@@ -25,11 +26,15 @@ Q6503056,Law Minister of Pakistan,Q843,,,,,,,,Minister for Law and Justice (Paki
 Q109748884,Federal Minister for Maritime Affairs,Q843,Q843,,,,,,,
 Q109748941,Federal Minister for Narcotics Control,Q843,Q843,,,,,,,
 Q109748900,Federal Minister for National Food Security and Research,Q843,Q843,,,,,,,
-Q56160171,Federal Minister for National Health Regulations and Services,Q843,,,,,,,,
+Q56160171,Federal Minister for National Health Regulations and Services,Q843,Q843,,,,,,,
 Q109748832,Federal Minister of National Heritage and Culture,Q843,Q843,,,,,,,
+Q111736790,Federal Minister of Overseas Pakistanis and Human Resource Development,Q843,Q843,,,,,,,
+Q111736831,Federal Minister of Parliamentary Affairs,Q843,Q843,,,,,,,
 Q23766516,Minister of Petroleum and Natural Resources,Q843,,,,,,,,
 Q109748920,"Federal Minister for Planning, Development and Special Initiatives",Q843,Q843,,,,,,,
 Q56160268,Federal Minister of Population Welfare,Q843,,,,,,,,
+Q111736785,Federal Minister of Poverty Alleviation and Social Safety,Q843,Q843,,,,,,,
+Q111736836,Federal Minister of Power,Q843,Q843,,,,,,,
 Q109748932,Federal Minister for Privatization,Q843,Q843,,,,,,,
 Q57650391,Federal Minister for Railways,,Q843,,,,,,,
 Q56232386,Federal Minister for Religious Affairs,Q843,,,,,,,,
