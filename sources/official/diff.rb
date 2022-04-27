@@ -5,7 +5,7 @@ require 'every_politician_scraper/comparison'
 
 # Not listed on the site
 SKIP = [
-  ['---', 'Imran Khan', 'Prime Minister of Pakistan']
+  ['---', 'Shehbaz Sharif', 'Prime Minister of Pakistan']
 ].freeze
 
 diff = EveryPoliticianScraper::NulllessComparison.new('wikidata.csv', 'scraped.csv').diff

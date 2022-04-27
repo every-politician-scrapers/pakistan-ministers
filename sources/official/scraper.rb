@@ -11,7 +11,7 @@ class MemberList
     end
 
     def position
-      tds[2].text.tidy
+      tds[2].text.tidy.split('&').map(&:tidy)
     end
 
     private
