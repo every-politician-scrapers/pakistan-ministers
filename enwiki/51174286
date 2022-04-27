@@ -1,11 +1,9 @@
 {
   "name": "Syed Murad Ali Shah",
-  "image": "Karachi Zoo Visit (cropped).jpg",
-  "caption": "Murad Ali Shah",
   "party": "Pakistan People's Party",
   "governor1": "Muhammad Zubair",
   "order": "29th Chief Minister of Sindh",
-  "preceded1": "Qaim Ali Shah",
+  "predecessor1": "Qaim Ali Shah",
   "birth_date": "November 8, 1962",
   "birth_place": "Karachi, Sindh, Pakistan",
   "citizenship": "🇵🇰 Pakistan",
@@ -16,6 +14,6 @@
   "term_end1": "28 May 2018",
   "successor1": "Fazal-ur-Rehman (caretaker)",
   "term_start": "18 August 2018",
-  "preceded": "Fazal-ur-Rehman (caretaker)",
+  "predecessor": "Fazal-ur-Rehman (caretaker)",
   "governor": "Muhammad Zubair Imran Ismail"
 }

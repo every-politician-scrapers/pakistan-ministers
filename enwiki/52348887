@@ -1,8 +1,6 @@
 {
   "honorific_prefix": "General",
   "name": "Qamar Javed Bajwa",
-  "image": "General Qamar Javed Bajwa.jpg",
-  "caption": "Official portrait, 2017",
   "office1": "10th Chief of Army Staff",
   "predecessor2": "General Raheel Sharif",
   "term_start2": "29 November 2016",
@@ -14,7 +12,7 @@
   "unit": "Baloch 1h1.jpgh Regiment",
   "commands": "Chief of Army Staff (since November 2016)\n\nIns-Gen. (Training and Evaluation 2015–2016)\n\nX Corps Rawalpindi (2013–2015)\n\nGOC Force Command North Gilgit (2009)",
   "battles": "War in Afghanistan\n\nWar in North-West Pakistan\n\nZarb-e-Azb\n\n2014 Indo-Pakistani tensions\n\nKargil War\n\nRadd-ul-Fasaad\n\nKhyber–1\n\n2019 India–Pakistan standoff",
-  "awards": "Order of Excellence Nishan-e-Imtiaz.pngn-e-Imtiaz (Military)\n\nCrescent of Excellence Hilal-e-Imtiaz.png-i-Imtiaz (Military)\n\nOrder of the Merit of Turkey.svgn of Merit of Turkey\n\nThe Khalifiyyeh Order of Bahrain, 1st class.png Order of Bahrain (First Class)\n\nOrder of Military Gallantry (Jordan).png \nGUSP_medal_For_Merit_ribbon.png GUSP Medal For Merit (Russia)",
   "parents": "Muhammad Iqbal Bajwa",
-  "honorific_suffix": "NI(M) HI(M)"
+  "honorific_suffix": "NI(M) HI(M)",
+  "mawards": "Nishan-e-Imtiaz.pngn-e-Imtiaz (Military)\n\nHilal-e-Imtiaz.png-i-Imtiaz (Military)\n\nTurkish Armed Forces Medal of Merit.pngn of Merit (Turkey)\n\nOrder of Bahrain, 1st class.png Order of Bahrain (1st Class)\n\nMedal of Merit (Jordan).png \nGUSP medal For Merit (Russia).png Medal For Merit (Russia)"
 }
