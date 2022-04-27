@@ -1,7 +1,7 @@
 region,regionLabel,position,positionLabel,person,personLabel,start,psid
 Q200130,Azad Kashmir,Q69593,President of Azad Kashmir,Q7636704,Sultan Mehmood Chaudhry,2021-08-25,Q7636704-B81E5B00-0D78-43CC-8679-B1B4E596A95C
-Q163239,Balochistan,Q3694903,Governor of Balochistan,Q107453141,Syed Zahoor Ahmad Agha,2021-07-07,Q107453141-57d32a7d-4d90-04a9-a289-0fa03d65b7e3
-Q200697,Gilgit-Baltistan,Q5589654,Governor of Gilgit–Baltistan,Q56855989,Raja Jalal Hussain Maqpoon,2018-09-30,Q56855989-25F53913-6B59-4BE8-9F6E-0C353B58B402
-Q183314,Khyber Pakhtunkhwa,Q3695560,Governor of Khyber Pakhtunkhwa,Q17018713,Shah Farman,2018-09-05,Q17018713-FE257E78-AF0F-4D44-8053-33CB0D2DD7D0
-Q4478,Punjab,Q3695540,"Governor of Punjab, Pakistan",Q334072,Mohammad Sarwar,2018-09-05,Q334072-07a65935-4a26-93b9-697f-0c1a911282bf
-Q37211,Sindh,Q3695002,Governor of Sindh,Q55819245,Imran Ismail,2018-08-27,Q55819245-43D3561C-9FA4-44F4-995A-D3559B32CBEF
+Q163239,Balochistan,Q3694903,Governor of Balochistan,,,,
+Q200697,Gilgit-Baltistan,Q5589654,Governor of Gilgit–Baltistan,,,,
+Q183314,Khyber Pakhtunkhwa,Q3695560,Governor of Khyber Pakhtunkhwa,,,,
+Q4478,Punjab,Q3695540,"Governor of Punjab, Pakistan",Q111469204,Omar Sarfaraz Cheema,2022-04-03,Q111469204-2FB5A984-5351-4398-9E21-45ACB97657CC
+Q37211,Sindh,Q3695002,Governor of Sindh,,,,
