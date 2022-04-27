@@ -12,5 +12,5 @@ class Comparison < EveryPoliticianScraper::Comparison
   end
 end
 
-diff = Comparison.new('wikidata/results/chief-ministers.csv', 'data/chief-ministers-wikipedia.csv').diff
+diff = Comparison.new('wikidata.csv', 'scraped.csv').diff
 puts diff.sort_by { |r| [r.first.to_s, r[1].to_s] }.reverse.map(&:to_csv)
