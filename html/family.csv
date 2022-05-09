@@ -16,7 +16,7 @@ Q13579848,Pervez Khattak,sibling,Q57585035,Liaquat Khan
 Q1521977,Ghulam Noor Rabbani Khar,child,Q254122,Hina Rabbani Khar
 Q1521977,Ghulam Noor Rabbani Khar,sibling,Q1955551,Ghulam Mustafa Khar
 Q15240778,Raheel Sharif,sibling,Q3694413,Shabbir Sharif
-Q1543422,Makhdoom Shah Mahmood Hussain Qureshi,father,Q6799374,Sajjad Hussain Qureshi
+Q1543422,Makhdoom Shah Mahmood Hussain Qureshi,father,Q6799374,Sajjad Alshtait
 Q155164,Imran Khan,child,Q75540680,Sulaiman Isa Khan
 Q155164,Imran Khan,child,Q75540682,Kasim Khan
 Q155164,Imran Khan,father,Q56772613,Ikramullah Khan Niazi
@@ -61,6 +61,7 @@ Q2371076,Dr. Fahmida Mirza,sibling,Q6381086,Kazi Asad Abid
 Q2371076,Dr. Fahmida Mirza,spouse,Q228805,Zulfiqar Mirza
 Q244338,Bilawal Bhutto Zardari,father,Q57373,Asif Ali Zardari
 Q244338,Bilawal Bhutto Zardari,mother,Q34413,Benazir Bhutto
+Q244338,Bilawal Bhutto Zardari,sibling,Q104381933,Aseefa Bhutto Zardari
 Q244338,Bilawal Bhutto Zardari,sibling,Q20643235,Bakhtawar Zardari Bhutto
 Q254122,Hina Rabbani Khar,father,Q1521977,Ghulam Noor Rabbani Khar
 Q254122,Hina Rabbani Khar,sibling,Q55956354,Raza Rabbani Khar
