@@ -1,6 +1,2 @@
-@@,itemlabel,item,startdate,enddate
-->,Mohammad Ali Jinnah->Muhammad Ali Jinnah,Q160554,1947-08-11,1948-09-11
-->,Zulfiqar Ali Bhutto->Zulfikar Ali Bhutto,Q131355,1972-04-14,1972-08-15
-->,Fazal Ilahi Chaudhry->Fazal Ilahi,Q888063,1972-08-15,1973-08-13->1973-08-09
-->,Syed Fakhar Imam->Fakhar Imam,Q5431517,1985-03-22,1986-03-25->1986-05-26
-->,Dr. Fahmida Mirza->Fahmida Mirza,Q2371076,2008-03-19,2013-06-03
+@@,item,itemlabel,startdate,enddate
+->,Q2371076,Dr. Fahmida Mirza->Fahmida Mirza,2008-03-19,2013-06-03
