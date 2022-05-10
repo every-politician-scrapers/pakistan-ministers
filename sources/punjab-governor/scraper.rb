@@ -29,6 +29,10 @@ class OfficeholderList < OfficeholderListBase
     def raw_end
       end_cell.children.map(&:text).join(' ').gsub(/\(.*?\)/, '').tidy
     end
+
+    def ignore_before
+      1999
+    end
   end
 end
 
