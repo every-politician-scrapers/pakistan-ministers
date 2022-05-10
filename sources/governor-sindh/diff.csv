@@ -1,8 +1,5 @@
-@@,itemlabel,item,startdate,enddate
-->,Mumtaz Bhutto,Q6935507,1971-12-22->1971-12-24,1972-04-20
-->,Ra'ana Liaquat Ali Khan->Begum Ra'ana Liaquat Ali Khan,Q1951764,1973-02-15,1976-02-28
-->,Hakim Said->Hakeem Saeed,Q3695522,1993-07-19,1994-01-23
----,Agha Siraj Khan Durrani,Q26258459,2017-01-11,2017-02-02
-->,Mohammad Zubair,Q28584498,2017-02-02->2017-02-08,2018-08-03->2018-07-29
----,Agha Siraj Khan Durrani,Q26258459,2018-08-03,2018-08-27
-->,Imran Ismail,Q55819245,2018-08-27,2022-04-11->2022-04-10
+@@,item,itemlabel,startdate,enddate
+---,Q26258459,Agha Siraj Khan Durrani,2017-01-11,2017-02-02
+->,Q28584498,Mohammad Zubair,2017-02-02->2017-02-08,2018-08-03->2018-07-29
+---,Q26258459,Agha Siraj Khan Durrani,2018-08-03,2018-08-27
+->,Q55819245,Imran Ismail,2018-08-27,2022-04-11->2022-04-10
