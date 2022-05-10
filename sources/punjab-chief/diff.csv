@@ -1,19 +1,10 @@
-@@,itemlabel,item,startdate,enddate
-->,Iftikhar Hussain Khan->Iftikhar Hussain Khan Mamdot,Q21192234,1947-08-15,1949-01-25
-->,Mumtaz Daultana->Mian Mumtaz Daultana,Q6935509,1951-04-15,1953-04-03
-->,Firoz Khan Nun->Sir Feroz Khan Noon,Q1561693,1953-04-03,1955-05-21
-->,Shahbaz->Hanif Ramay,Q3695065,1974-03-15,1975-07-15
-->,Nawaz Sharif,Q134068,1985-04-09,1990-08-13->1990-08-06
-->,Manzoor Wattoo->Mian Manzoor Ahmad Wattoo,Q13139844,1993-04-25,1993-07-18
-->,Manzoor Wattoo->Mian Manzoor Ahmad Wattoo,Q13139844,1993-10-20,1995-09-13
----,Manzoor Wattoo,Q13139844,1996-11-03,1996-11-16
-->,Shehbaz Sharif->Shahbaz Sharif,Q2096387,1997-02-20,1999-10-12
-->,Parvez Elahi->Chaudhry Pervaiz Elahi,Q2961554,2002-11-29,2007-11-18
-->,Shehbaz Sharif->Shahbaz Sharif,Q2096387,2008-06-08,2013-03-26->2009-02-25
-+++,Shahbaz Sharif,Q2096387,2009-03-30,2013-03-26
-->,Najam Sethi,Q6959916,2013-03-27->2013-03-26,2013-06-06->2013-06-07
-+++,Shahbaz Sharif,Q2096387,2013-06-07,2018-06-07
----,Shehbaz Sharif,Q2096387,2013-06-08,2018-06-08
-->,Hasan Askari Rizvi,Q16208895,2018-06-08,2018-08-20->2018-08-19
-->,Usman Buzdar->Sardar Usman Buzdar,Q55825094,2018-08-20,2022-04-02->2022-04-30
-->,Muhammad Hamza Shahbaz Sharif->Hamza Shahbaz,Q5646510,2022-04-30,
+@@,item,itemlabel,startdate,enddate
+->,Q2961554,Parvez Elahi->Chaudhry Pervaiz Elahi,2002-11-29,2007-11-18
+->,Q2096387,Shehbaz Sharif->Shahbaz Sharif,2008-06-08,2013-03-26->2009-02-25
++++,Q2096387,Shahbaz Sharif,2009-03-30,2013-03-26
+->,Q6959916,Najam Sethi,2013-03-27->2013-03-26,2013-06-06->2013-06-07
++++,Q2096387,Shahbaz Sharif,2013-06-07,2018-06-07
+---,Q2096387,Shehbaz Sharif,2013-06-08,2018-06-08
+->,Q16208895,Hasan Askari Rizvi,2018-06-08,2018-08-20->2018-08-19
+->,Q55825094,Usman Buzdar->Sardar Usman Buzdar,2018-08-20,2022-04-02->2022-04-30
+->,Q5646510,Muhammad Hamza Shahbaz Sharif->Hamza Shahbaz,2022-04-30,
