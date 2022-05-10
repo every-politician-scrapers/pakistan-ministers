@@ -1,20 +1,13 @@
-@@,itemlabel,item,startdate,enddate
-->,Amjad Ali->Syed Amjad Ali,Q4747016,1955-10-17,1958-10-07
-->,Syed Mohammad Ahsan->Vice Admiral,Q4073168->Q214443,1969-04-05,1969-08-03
-->,Muzaffar Ali Khan Qizilbash->Nawab Muzaffar Ali Khan Qizilbash,Q14419276,1969-08-04,1971-02-22
-->,Mubashir Hassan->Mubashar Hassan,Q6930875,1971-12-24,1974-10-22
-->,Mahbub ul Haq,Q283367,1985-04-10,1988-01-28->1986-01-28
----,Nawaz Sharif,Q134068,1993-08-06,1998-11-07
-->,Syed Naveed Qamar->Naveed Qamar,Q2112316,1996-10-10,1996-11-05
-->,Shaukat Aziz,Q223555,1999-10-12->1999-11-06,2007-11-15
-->,Syed Naveed Qamar->Naveed Qamar,Q2112316,2008-05-12,2008-10-08
-->,Syed Naveed Qamar->Naveed Qamar,Q2112316,2010-02-22,2010-03-18
----,Mir Hazar Khan Khoso,Q8168180,2013-04-04,2013-06-04
-->,Rana Muhammad Afzal Khan->Rana Afzal Khan,Q18816107,2017-12,2018-05
-->,Asad Umer->Asad Umar,Q4803224,2018-08-20,2019-04-18
-->,Abdul Hafeez Shaikh,Q2821412,2020-12-11->2019-04-18,2021-03-29
-->,Hammad Azhar,Q55761250,2021-03-29,2021-04-17->2021-04-16
----,Shaukat Tarin,Q7490770,2021-04-16,2021-10-17
-+++,Shaukat Tarin,Q7490770,2021-04-17,2022-04-11
----,Shaukat Tarin,Q7490770,2021-12-27,2022-04-03
----,Miftah Ismail,Q28113056,2022-04-19,
+@@,item,itemlabel,startdate,enddate
+->,Q223555,Shaukat Aziz,1999-10-12->1999-11-06,2007-11-15
+->,Q2112316,Syed Naveed Qamar->Naveed Qamar,2008-05-12,2008-10-08
+->,Q2112316,Syed Naveed Qamar->Naveed Qamar,2010-02-22,2010-03-18
+---,Q8168180,Mir Hazar Khan Khoso,2013-04-04,2013-06-04
+->,Q18816107,Rana Muhammad Afzal Khan->Rana Afzal Khan,2017-12,2018-05
+->,Q4803224,Asad Umer->Asad Umar,2018-08-20,2019-04-18
+->,Q2821412,Abdul Hafeez Shaikh,2020-12-11->2019-04-18,2021-03-29
+->,Q55761250,Hammad Azhar,2021-03-29,2021-04-17->2021-04-16
+---,Q7490770,Shaukat Tarin,2021-04-16,2021-10-17
++++,Q7490770,Shaukat Tarin,2021-04-17,2022-04-11
+---,Q7490770,Shaukat Tarin,2021-12-27,2022-04-03
+---,Q28113056,Miftah Ismail,2022-04-19,
