@@ -1,5 +1,4 @@
 @@,itemlabel,item,startdate,enddate
-+++,Hamza Shahbaz,Q5646510,,
 ->,Iftikhar Hussain Khan->Iftikhar Hussain Khan Mamdot,Q21192234,1947-08-15,1949-01-25
 ->,Mumtaz Daultana->Mian Mumtaz Daultana,Q6935509,1951-04-15,1953-04-03
 ->,Firoz Khan Nun->Sir Feroz Khan Noon,Q1561693,1953-04-03,1955-05-21
@@ -16,4 +15,5 @@
 +++,Shahbaz Sharif,Q2096387,2013-06-07,2018-06-07
 ---,Shehbaz Sharif,Q2096387,2013-06-08,2018-06-08
 ->,Hasan Askari Rizvi,Q16208895,2018-06-08,2018-08-20->2018-08-19
-->,Usman Buzdar->Sardar Usman Buzdar,Q55825094,2018-08-20,2022-04-02
+->,Usman Buzdar->Sardar Usman Buzdar,Q55825094,2018-08-20,2022-04-02->2022-04-30
+->,Muhammad Hamza Shahbaz Sharif->Hamza Shahbaz,Q5646510,2022-04-30,
