@@ -12,7 +12,7 @@ module.exports = function () {
           ?held ps:P39 wd:${meta.position} .
           FILTER NOT EXISTS { ?held wikibase:rank wikibase:DeprecatedRank }
 
-          OPTIONAL {
+          {
             ?held pqv:P580 [ wikibase:timeValue ?startV ; wikibase:timePrecision ?startP ]
             BIND(COALESCE(
               IF(?startP = 11, SUBSTR(STR(?startV), 1, 10), 1/0),
@@ -22,6 +22,7 @@ module.exports = function () {
               ""
             ) AS ?startDate)
           }
+
           OPTIONAL {
             ?held pqv:P582 [ wikibase:timeValue ?endV ; wikibase:timePrecision ?endP ]
             BIND(COALESCE(
