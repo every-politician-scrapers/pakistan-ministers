@@ -5,6 +5,9 @@
   "president": "Arif Alvi",
   "primeminister": "Shehbaz Sharif",
   "party": "Pakistan Tehreek-e-Insaf",
-  "nationality": "Pakistani",
-  "predecessor": "Mohammad Sarwar"
+  "predecessor": "Mohammad Sarwar",
+  "birth_date": "July 24, 1969",
+  "birth_name": "Chouhdary Omer Sarfraz Cheema",
+  "birth_place": "Gujranwala, Punjab, Pakistan",
+  "nationality": "Pakistani"
 }
