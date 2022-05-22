@@ -3,7 +3,7 @@
   "term_start": "3 May 2021",
   "office1": "Leader of Opposition in Sindh Assembly",
   "term_start1": "2013",
-  "term_end1": "2014",
+  "term_end1": "22 April 2014",
   "name": "Syed Faisal Ali Subzwari",
   "birth_date": "August 4, 1975",
   "birth_place": "Karachi, Pakistan",
@@ -12,5 +12,9 @@
   "party": "Muttahida Qaumi Movement Pakistan",
   "spouse": "Amber Faisal\nMadiha Naqvi",
   "office2": "Federal Minister for Maritime Affairs",
-  "termstart2": "19 April 2022"
+  "termstart2": "19 April 2022",
+  "president2": "Arif Alvi",
+  "primeminister2": "Shahbaz Sharif",
+  "predecessor2": "Ali Haider Zaidi",
+  "successor1": "Muhammad Shaharyar Khan Mahar"
 }
