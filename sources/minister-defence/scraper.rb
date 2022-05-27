@@ -18,6 +18,10 @@ class OfficeholderList < OfficeholderListBase
       %w[no img name start end].freeze
     end
 
+    def ignore_before
+      1999
+    end
+
     def name_node
       name_cell.css('b a')
     end

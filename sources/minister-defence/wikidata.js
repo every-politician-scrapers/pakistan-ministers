@@ -44,5 +44,5 @@ module.exports = function () {
           BIND(COALESCE(?sourceName, ?wdLabel) AS ?itemLabel)
         }
         # ${new Date().toISOString()}
-        ORDER BY ?startDate ?itemLabel ?psid ?sourceDate`
+        ORDER BY ?sourceDate ?startDate ?itemLabel ?psid`
 }
