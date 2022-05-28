@@ -21,10 +21,6 @@ class OfficeholderList < OfficeholderListBase
     def raw_start
       start_cell.text.gsub(/\(.*/, '').gsub(/\-.*/, '').tidy
     end
-
-    def ignore_before
-      1999
-    end
   end
 end
 
