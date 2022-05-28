@@ -18,8 +18,8 @@ class OfficeholderList < OfficeholderListBase
       %w[no name start end].freeze
     end
 
-    def name_node
-      name_cell.css('b a')
+    def name_cell
+      super.css('b')
     end
   end
 end
