@@ -5,12 +5,12 @@
   "president": "Arif Alvi",
   "primeminister": "Shehbaz Sharif",
   "predecessor": "Omer Sarfraz Cheema",
-  "appointer": "Shehbaz Sharif",
+  "appointer": "Arif Alvi",
   "office1": "Minister of State for Federal Education and Professional Training",
   "term_start1": "7 June 2013",
   "term_end1": "28 July 2017",
   "president1": "Mamnoon Hussain",
-  "primeminister1": "Mian Muhammad Nawaz Sharif",
+  "primeminister1": "Nawaz Sharif",
   "office2": "Minister of State for Interior and Narcotics Control",
   "term_start2": "22 November 2013",
   "term_end2": "28 July 2017",
@@ -22,5 +22,6 @@
   "term_start3": "4 August 2017",
   "primeminister3": "Shahid Khaqan Abbasi",
   "president3": "Mamnoon Hussain",
-  "successor3": "Mohammad Yousuf Shaikh"
+  "successor3": "Mohammad Yousuf Shaikh",
+  "birth_place": "Bahawalpur, Pakistan"
 }
