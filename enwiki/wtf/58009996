@@ -1,0 +1,174 @@
+{
+  "title": "Muhammad Israr Tareen",
+  "pageID": 58009996,
+  "categories": [
+    "Living people",
+    "Pakistani MNAs 2018–2023",
+    "Balochistan Awami Party MNAs",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Sardar Muhammad Israr Tareen is a Pakistani politician who has been a member of the National Assembly of Pakistan since August 2018.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "National Assembly of Pakistan"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Sardar Muhammad Israr Tareen"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Pakistani politician",
+          "template": "short description"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Sardar Muhammad Israr Tareen"
+          },
+          "office": {
+            "text": "Member of the National Assembly of Pakistan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "National Assembly of Pakistan"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "13 August 2018"
+          },
+          "constituency": {
+            "text": "NA-258 (Loralai-cum-Musakhel-cum-Ziarat-cum-Duki-cum-Harnai)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "NA-258 (Loralai-cum-Musakhel-cum-Ziarat-cum-Duki-cum-Harnai)"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Pakistani"
+          },
+          "party": {
+            "text": "Balochistan Awami Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Balochistan Awami Party"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In March 2008, ran for the office of Speaker of the National Assembly of Pakistan but was unsuccessful and lost the office to Fehmida Mirza.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Speaker of the National Assembly of Pakistan"
+                },
+                {
+                  "type": "internal",
+                  "page": "Fehmida Mirza"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was elected to the National Assembly of Pakistan from Constituency NA-258 (Loralai-cum-Musakhel-cum-Ziarat-cum-Duki-cum-Harnai) as a candidate of Balochistan Awami Party in 2018 Pakistani general election.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "National Assembly of Pakistan"
+                },
+                {
+                  "type": "internal",
+                  "page": "NA-258 (Loralai-cum-Musakhel-cum-Ziarat-cum-Duki-cum-Harnai)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Balochistan Awami Party"
+                },
+                {
+                  "text": "2018 Pakistani general election",
+                  "type": "internal",
+                  "page": "2018 Pakistani general election"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "As of April 2021, he denounced Nintendo games for influencing Pakistani children into homosexuality."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "last1": "Asghar",
+          "first1": "Raja",
+          "title": "NA elects first woman speaker by two-thirds majority",
+          "url": "https://www.dawn.com/news/294575",
+          "accessdate": "1 September 2018",
+          "work": "DAWN.COM",
+          "date": "20 March 2008",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "LIVE UPDATES: PTI leads in election 2018 results",
+          "url": "https://www.pakistantoday.com.pk/2018/07/25/live-updates-polling-ends-counting-of-votes-begins/",
+          "accessdate": "4 August 2018",
+          "work": "www.pakistantoday.com.pk",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "list": [
+            "30em"
+          ],
+          "template": "reflist"
+        },
+        {
+          "template": "pakistan-mna-stub"
+        }
+      ]
+    }
+  ]
+}

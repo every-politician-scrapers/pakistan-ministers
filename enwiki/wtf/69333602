@@ -1,0 +1,231 @@
+{
+  "title": "Azam Nazeer Tarar",
+  "pageID": 69333602,
+  "categories": [
+    "Living people",
+    "Pakistani Senators 2021–2027",
+    "Pakistan Muslim League (N) politicians",
+    "Punjabi people",
+    "Vice Chairmen of the Pakistan Bar Council",
+    "Year of birth missing (living people)",
+    "Law Ministers of Pakistan"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Azam Nazeer Tarar (Punjabi, اعظم نذیر تارڑ) is a Pakistani politician who is currently serving as Federal Minister of Law and Justice, in office since 19 April 2022.",
+              "links": [
+                {
+                  "text": "Punjabi",
+                  "type": "internal",
+                  "page": "Punjabi language"
+                },
+                {
+                  "text": "Federal Minister of Law and Justice",
+                  "type": "internal",
+                  "page": "Minister for Law and Justice (Pakistan)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Azam Nazeer Tarar"
+                ]
+              }
+            },
+            {
+              "text": "He is a member of the Senate of Pakistan from the Punjab Province since March 2021.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Senate of Pakistan"
+                },
+                {
+                  "text": "Punjab Province",
+                  "type": "internal",
+                  "page": "Punjab Province (Pakistan)"
+                }
+              ]
+            },
+            {
+              "text": "He belongs to Pakistan Muslim League (N).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Pakistan Muslim League (N)"
+                }
+              ]
+            },
+            {
+              "text": "He also served as Vice Chairman of the Pakistan Bar Council.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Pakistan Bar Council"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Pakistani politician",
+          "template": "short description"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "Senator"
+          },
+          "name": {
+            "text": "Azam Nazeer Tarar"
+          },
+          "office": {
+            "text": "Federal Minister of Law and Justice",
+            "links": [
+              {
+                "text": "Federal Minister of Law and Justice",
+                "type": "internal",
+                "page": "Minister for Law and Justice (Pakistan)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "19 April 2022"
+          },
+          "office1": {
+            "text": "Member of the Senate of Pakistan",
+            "links": [
+              {
+                "text": "Member of the Senate of Pakistan",
+                "type": "internal",
+                "page": "Senate of Pakistan"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "March 2021"
+          },
+          "constituency1": {
+            "text": "Punjab Province",
+            "links": [
+              {
+                "text": "Punjab Province",
+                "type": "internal",
+                "page": "Punjab Province, Pakistan"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Pakistani"
+          },
+          "party": {
+            "text": "Pakistan Muslim League (N)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Pakistan Muslim League (N)"
+              }
+            ]
+          },
+          "termend2": {
+            "text": "2015",
+            "number": 2015
+          },
+          "termstart2": {
+            "text": "2010",
+            "number": 2010
+          },
+          "office2": {
+            "text": "Vice Chairman of the Pakistan Bar Council",
+            "links": [
+              {
+                "text": "Vice Chairman of the Pakistan Bar Council",
+                "type": "internal",
+                "page": "Pakistan Bar Council"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Fawad Chaudhry",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Fawad Chaudhry"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Shehbaz Sharif",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Shehbaz Sharif"
+              }
+            ]
+          },
+          "president": {
+            "text": "Arif Alvi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Arif Alvi"
+              }
+            ]
+          },
+          "office3": {
+            "text": "Secretary of Lahore High Court Bar Association",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lahore High Court Bar Association"
+              }
+            ]
+          },
+          "termstart3": {
+            "text": "2004",
+            "number": 2004
+          },
+          "termend3": {
+            "text": "2005",
+            "number": 2005
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://senate.gov.pk/en/profile.php?uid=950&catid=261&subcatid=2&cattitle=Members+of+Senate",
+          "title": "Senate of Pakistan",
+          "website": "senate.gov.pk",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.pakistanherald.com/profile/azam-nazeer-tarar-1661",
+          "title": "Azam Nazeer Tarar",
+          "website": "Pakistan Herald",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "pakistan-politician-stub"
+        }
+      ]
+    }
+  ]
+}

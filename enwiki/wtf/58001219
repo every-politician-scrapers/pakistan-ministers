@@ -1,0 +1,146 @@
+{
+  "title": "Agha Hassan Baloch",
+  "pageID": 58001219,
+  "categories": [
+    "Living people",
+    "Pakistani MNAs 2018–2023",
+    "Balochistan National Party (Mengal) MNAs",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Agha Hassan Baloch is a Pakistani politician who has been a member of the National Assembly of Pakistan since August 2018.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "National Assembly of Pakistan"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Agha Hassan Baloch"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Pakistani politician",
+          "bot": "PearBOT 5",
+          "template": "short description"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Agha Hassan Baloch"
+          },
+          "office": {
+            "text": "Member of the National Assembly of Pakistan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "National Assembly of Pakistan"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "13 August 2018"
+          },
+          "constituency": {
+            "text": "NA-266 (Quetta-III)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "NA-266 (Quetta-III)"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Pakistani"
+          },
+          "party": {
+            "text": "Balochistan National Party (Mengal)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Balochistan National Party (Mengal)"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "He was elected to the National Assembly of Pakistan from Constituency NA-266 (Quetta-III) as a candidate of Balochistan National Party (Mengal) in 2018 Pakistani general election.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "National Assembly of Pakistan"
+                },
+                {
+                  "type": "internal",
+                  "page": "NA-266 (Quetta-III)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Balochistan National Party (Mengal)"
+                },
+                {
+                  "text": "2018 Pakistani general election",
+                  "type": "internal",
+                  "page": "2018 Pakistani general election"
+                }
+              ]
+            },
+            {
+              "text": "now he is Federal Minister for Ministry of Science & Technology."
+            },
+            {
+              "text": "He had done Masters in Political Science with Law Graduate and practicing lawyer."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "LIVE UPDATES: PTI leads in election 2018 results",
+          "url": "https://www.pakistantoday.com.pk/2018/07/25/live-updates-polling-ends-counting-of-votes-begins/",
+          "accessdate": "4 August 2018",
+          "work": "www.pakistantoday.com.pk",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "list": [
+            "30em"
+          ],
+          "template": "reflist"
+        },
+        {
+          "template": "pakistan-mna-stub"
+        }
+      ]
+    }
+  ]
+}

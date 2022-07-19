@@ -1,0 +1,199 @@
+{
+  "title": "Abid Hussain Bhayo",
+  "pageID": 56309525,
+  "categories": [
+    "Living people",
+    "Sindh MPAs 2013–2018",
+    "Pakistan People's Party politicians",
+    "Pakistani MNAs 2018–2023",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Abid Hussain Bhayo is a Pakistani politician who has been a Member of the National Assembly of Pakistan since August 2018.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "National Assembly of Pakistan"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Abid Hussain Bhayo"
+                ]
+              }
+            },
+            {
+              "text": "Previously he was a member of the Provincial Assembly of Sindh, from August 2013 to May 2018.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Provincial Assembly of Sindh"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Pakistani politician",
+          "bot": "PearBOT 5",
+          "template": "short description"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Abid Hussain Bhayo"
+          },
+          "office": {
+            "text": "Member of the National Assembly of Pakistan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "National Assembly of Pakistan"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "13 August 2018"
+          },
+          "constituency": {
+            "text": "NA-198 (Shikarpur-I)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "NA-198 (Shikarpur-I)"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Member of the Provincial Assembly of Sindh",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Provincial Assembly of Sindh"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "August 2013"
+          },
+          "term_end1": {
+            "text": "28 May 2018"
+          },
+          "nationality": {
+            "text": "Pakistani"
+          },
+          "party": {
+            "text": "Pakistan Peoples Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Pakistan Peoples Party"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "He was elected to the Provincial Assembly of Sindh as a candidate of Pakistan Peoples Party (PPP) from Constituency PS-12 Shikarpur-II in by-polls held in August 2013.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Provincial Assembly of Sindh"
+                },
+                {
+                  "type": "internal",
+                  "page": "Pakistan Peoples Party"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was elected to the National Assembly of Pakistan as a candidate of PPP from Constituency NA-198 (Shikarpur-I) in 2018 Pakistani general election.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "National Assembly of Pakistan"
+                },
+                {
+                  "type": "internal",
+                  "page": "NA-198 (Shikarpur-I)"
+                },
+                {
+                  "text": "2018 Pakistani general election",
+                  "type": "internal",
+                  "page": "2018 Pakistani general election"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Welcome to the Website of Provincial Assembly of Sindh",
+          "url": "http://www.pas.gov.pk/index.php/members/profile/en/31/538",
+          "website": "www.pas.gov.pk",
+          "accessdate": "15 January 2018",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "ECP announces official by-election results",
+          "url": "https://www.dawn.com/news/1037796",
+          "accessdate": "28 January 2018",
+          "work": "DAWN.COM",
+          "date": "23 August 2013",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Abid Hussain Bhayo of PPPP wins NA-198 election",
+          "url": "https://www.app.com.pk/abid-hussain-bhayo-of-pppp-wins-na-198-election/",
+          "accessdate": "3 August 2018",
+          "work": "Associated Press Of Pakistan",
+          "date": "27 July 2018",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "list": [
+            "30em"
+          ],
+          "template": "reflist"
+        },
+        {
+          "template": "pakistan-mna-stub"
+        },
+        {
+          "template": "sindh-mpa-stub"
+        }
+      ]
+    }
+  ]
+}

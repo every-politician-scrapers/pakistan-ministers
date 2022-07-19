@@ -1,0 +1,149 @@
+{
+  "title": "Sardar Tanveer Ilyas",
+  "pageID": 70565826,
+  "categories": [
+    "Living people",
+    "Azad Kashmiri politicians",
+    "Pakistan Tehreek-e-Insaf politicians",
+    "Prime Ministers of Azad Kashmir",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Sardar Tanveer Ilyas Khan is a Kashmiri politician belonging to the Pakistan Tehreek-e-Insaf party.",
+              "links": [
+                {
+                  "text": "Kashmiri",
+                  "type": "internal",
+                  "page": "Kashmiris"
+                },
+                {
+                  "text": "politician",
+                  "type": "internal",
+                  "page": "politician"
+                },
+                {
+                  "type": "internal",
+                  "page": "Pakistan Tehreek-e-Insaf"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Sardar Tanveer Ilyas Khan"
+                ]
+              }
+            },
+            {
+              "text": "He belongs from Rawalakot Azad Kashmir, Pakistan."
+            },
+            {
+              "text": "He is the current Prime Minister of Azad Jammu and Kashmir since 18 April 2022.",
+              "links": [
+                {
+                  "text": "Prime Minister",
+                  "type": "internal",
+                  "page": "Prime Minister of Azad Jammu and Kashmir"
+                },
+                {
+                  "type": "internal",
+                  "page": "Azad Jammu and Kashmir"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "Flag of Azad Kashmir.svg"
+          ],
+          "template": "flagicon image"
+        },
+        {
+          "list": [
+            "Flag of the Pakistan Tehreek-e-Insaf.svg"
+          ],
+          "template": "flagicon image"
+        }
+      ],
+      "infoboxes": [
+        {
+          "nationality": {
+            "text": "Kashmiri",
+            "links": [
+              {
+                "text": "Kashmiri",
+                "type": "internal",
+                "page": "Kashmiris"
+              }
+            ]
+          },
+          "party": {
+            "text": "Pakistan Tehreek-e-Insaf",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Pakistan Tehreek-e-Insaf"
+              }
+            ]
+          },
+          "office": {
+            "text": "Prime Minister of Azad Kashmir"
+          },
+          "order": {
+            "text": "14th"
+          },
+          "predecessor": {
+            "text": "Abdul Qayyum Khan Niazi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Abdul Qayyum Khan Niazi"
+              }
+            ]
+          },
+          "termstart": {
+            "text": "18 April 2022"
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "PTI's Sardar Tanveer Ilyas elected new prime minister of AJK",
+          "url": "https://www.dawn.com/news/1685612/ptis-sardar-tanveer-ilyas-elected-new-prime-minister-of-ajk",
+          "work": "Dawn",
+          "date": "18 April 2022",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "PTI's Sardar Tanveer Ilyas elected as new AJK premier",
+          "url": "https://tribune.com.pk/story/2353146/ptis-sardar-tanveer-ilyas-elected-as-new-ajk-premier",
+          "work": "The Express Tribune",
+          "date": "18 April 2022",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "pakistan-bio-stub"
+        }
+      ]
+    }
+  ]
+}

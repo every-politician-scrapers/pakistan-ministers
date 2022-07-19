@@ -1,0 +1,179 @@
+{
+  "title": "Maulana Abdul Wasay",
+  "pageID": 57999080,
+  "categories": [
+    "Living people",
+    "Pakistani MNAs 2018–2023",
+    "Leaders of the Opposition in the Provincial Assembly of Balochistan",
+    "Muttahida Majlis-e-Amal MNAs",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Maulana Abdul Wasay is a Pakistani politician who has been a member of the National Assembly of Pakistan since August 2018.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "National Assembly of Pakistan"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Maulana Abdul Wasay"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Pakistani politician",
+          "template": "short description"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Maulana Abdul Wasay"
+          },
+          "office": {
+            "text": "Member of the National Assembly of Pakistan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "National Assembly of Pakistan"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "13 August 2018"
+          },
+          "constituency": {
+            "text": "NA-257 (Killa Saifullah-cum-Zhob-cum-Sherani)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "NA-257 (Killa Saifullah-cum-Zhob-cum-Sherani)"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Pakistani"
+          },
+          "party": {
+            "text": "Muttahida Majlis-e-Amal",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Muttahida Majlis-e-Amal"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Maulana Abdul Wasay",
+          "url": "https://www.geo.tv/latest/85388-maulana-abdul-wasay-notified-as-opposition-leader-in-balochistan-assembly",
+          "accessdate": "13 August 2018",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In March 2013, he became leader of the Opposition in Provincial Assembly of Balochistan.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Provincial Assembly of Balochistan"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was elected to the National Assembly of Pakistan from Constituency NA-257 (Killa Saifullah-cum-Zhob-cum-Sherani) as a candidate of Muttahida Majlis-e-Amal in 2018 Pakistani general election.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "National Assembly of Pakistan"
+                },
+                {
+                  "type": "internal",
+                  "page": "NA-257 (Killa Saifullah-cum-Zhob-cum-Sherani)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Muttahida Majlis-e-Amal"
+                },
+                {
+                  "text": "2018 Pakistani general election",
+                  "type": "internal",
+                  "page": "2018 Pakistani general election"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Maulana Abdul Wasay notified as opposition leader in Balochistan Assembly",
+          "url": "https://www.geo.tv/latest/85388-maulana-abdul-wasay-notified-as-opposition-leader-in-balochistan-assembly",
+          "accessdate": "13 August 2018",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Imran Khan's PTI on top as election results come in",
+          "url": "https://www.geo.tv/latest/204922-imran-khans-pti-on-top-as-election-results-come-in",
+          "accessdate": "26 July 2018",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "LIVE UPDATES: PTI leads in election 2018 results",
+          "url": "https://www.pakistantoday.com.pk/2018/07/25/live-updates-polling-ends-counting-of-votes-begins/",
+          "accessdate": "4 August 2018",
+          "work": "www.pakistantoday.com.pk",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "list": [
+            "30em"
+          ],
+          "template": "reflist"
+        },
+        {
+          "template": "pakistan-mna-stub"
+        },
+        {
+          "template": "balochistan-mpa-stub"
+        }
+      ]
+    }
+  ]
+}

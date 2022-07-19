@@ -1,0 +1,224 @@
+{
+  "title": "Mufti Abdul Shakoor",
+  "pageID": 57999526,
+  "categories": [
+    "Living people",
+    "Pakistani MNAs 2018–2023",
+    "Muttahida Majlis-e-Amal MNAs",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Mufti Abdul Shakoor is a Pakistani politician who is the current Federal Minister for Religious Affairs and Inter-faith Harmony, in office since 19 April 2022.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Pakistani"
+                },
+                {
+                  "text": "Federal Minister for Religious Affairs and Inter-faith Harmony",
+                  "type": "internal",
+                  "page": "Ministry of Religious Affairs and Inter-faith Harmony"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Mufti Abdul Shakoor"
+                ]
+              }
+            },
+            {
+              "text": "He has been a member of the National Assembly of Pakistan since August 2018.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "National Assembly of Pakistan"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Abdul Shakoor"
+          },
+          "honorific-prefix": {
+            "text": "Mufti",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mufti"
+              }
+            ]
+          },
+          "office": {
+            "text": "Minister for Religious Affairs and Inter-faith Harmony",
+            "links": [
+              {
+                "text": "Minister for Religious Affairs and Inter-faith Harmony",
+                "type": "internal",
+                "page": "Ministry of Religious Affairs and Inter-faith Harmony"
+              }
+            ]
+          },
+          "president": {
+            "text": "Arif Alvi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Arif Alvi"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Shahbaz Sharif",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Shahbaz Sharif"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "19 April 2022"
+          },
+          "predecessor": {
+            "text": "Noor-ul-Haq Qadri",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Noor-ul-Haq Qadri"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Member of the National Assembly of Pakistan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "National Assembly of Pakistan"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "13 August 2018"
+          },
+          "constituency1": {
+            "text": "NA-51 (Tribal Area-XII)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "NA-51 (Tribal Area-XII)"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Pakistani"
+          },
+          "party": {
+            "text": "Muttahida Majlis-e-Amal",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Muttahida Majlis-e-Amal"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.independenturdu.com/node/99611",
+          "title": "نئی کابینہ کی حلف برداری، کون کون شامل؟",
+          "date": "19 April 2022",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "He was elected to the National Assembly of Pakistan as a candidate of Muttahida Majlis-e-Amal (MMA) from Constituency NA-51 (Tribal Area-XII) in 2018 Pakistani general election.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "National Assembly of Pakistan"
+                },
+                {
+                  "type": "internal",
+                  "page": "Muttahida Majlis-e-Amal"
+                },
+                {
+                  "type": "internal",
+                  "page": "NA-51 (Tribal Area-XII)"
+                },
+                {
+                  "text": "2018 Pakistani general election",
+                  "type": "internal",
+                  "page": "2018 Pakistani general election"
+                }
+              ]
+            },
+            {
+              "text": "He received 21,896 votes and defeated Qaiser Jamal.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Qaiser Jamal"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Party-wise breakdown of NA seats as unofficial final results pour in",
+          "url": "https://www.geo.tv/latest/204914-party-wise-breakdown-of-na-seats-as-unofficial-final-results-pour-in",
+          "accessdate": "26 July 2018",
+          "work": "Geo",
+          "date": "26 July 2018",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "NA-51 Result - Election Results 2018 - Frontier Region Tribal Area 12 - NA-51 Candidates - NA-51 Constituency Details - thenews.com.pk",
+          "url": "https://www.thenews.com.pk/election/constituency/NA-51",
+          "website": "www.thenews.com.pk",
+          "accessdate": "1 August 2018",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "list": [
+            "30em"
+          ],
+          "template": "reflist"
+        },
+        {
+          "template": "pakistan-mna-stub"
+        }
+      ]
+    }
+  ]
+}

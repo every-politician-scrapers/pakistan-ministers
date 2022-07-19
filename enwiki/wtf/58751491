@@ -1,0 +1,222 @@
+{
+  "title": "Chaudhry Salik Hussain",
+  "pageID": 58751491,
+  "categories": [
+    "Chaudhry family",
+    "Living people",
+    "Pakistani MNAs 2018–2023",
+    "Punjabi people",
+    "Chaudhry family",
+    "Year of birth missing (living people)",
+    "Children of prime ministers of Pakistan"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Chaudhry Salik Hussain is a Pakistani politician who has been a member of the National Assembly of Pakistan since October 2018.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Pakistani"
+                },
+                {
+                  "type": "internal",
+                  "page": "National Assembly of Pakistan"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Chaudhry Salik Hussain"
+                ]
+              }
+            },
+            {
+              "text": "He is the son of former prime minister Chaudhry Shujaat Hussain.",
+              "links": [
+                {
+                  "text": " Chaudhry Shujaat Hussain",
+                  "type": "internal",
+                  "page": "Shujaat_Hussain "
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Pakistani politician",
+          "template": "short description"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Chaudhry Salik Hussain"
+          },
+          "office": {
+            "text": "Federal Minister of Board of Investment & Special Initiatives"
+          },
+          "term_start": {
+            "text": "May 2022"
+          },
+          "office1": {
+            "text": "Member of the National Assembly of Pakistan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "National Assembly of Pakistan"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "29 October 2018"
+          },
+          "constituency1": {
+            "text": "NA-65 (Chakwal-II)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "NA-65 (Chakwal-II)"
+              }
+            ]
+          },
+          "relatives": {
+            "text": "",
+            "formatting": {
+              "italic": [
+                ""
+              ]
+            }
+          },
+          "father": {
+            "text": "Shujaat Hussain",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Shujaat Hussain"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Pakistani"
+          },
+          "party": {
+            "text": "Pakistan Muslim League (Q)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Pakistan Muslim League (Q)"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "last1": "Dhakku",
+          "first1": "Nabeel Anwar",
+          "title": "PML-N candidate backs out of NA-65 by-poll",
+          "url": "https://www.dawn.com/news/1433323",
+          "accessdate": "14 October 2018",
+          "work": "DAWN.COM",
+          "date": "17 September 2018",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "He was elected to the National Assembly of Pakistan as a candidate of Pakistan Muslim League (Q) (PML-Q) from Constituency NA-65 (Chakwal-II) in by-election held on 14 October 2018.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "National Assembly of Pakistan"
+                },
+                {
+                  "type": "internal",
+                  "page": "Pakistan Muslim League (Q)"
+                },
+                {
+                  "type": "internal",
+                  "page": "NA-65 (Chakwal-II)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On April 22, 2022, he was appointed as Federal Minister without a portfolio in the federal cabinet of Shehbaz Sharif.",
+              "links": [
+                {
+                  "text": "federal cabinet of Shehbaz Sharif",
+                  "type": "internal",
+                  "page": "Shehbaz Sharif ministry (Pakistan)"
+                }
+              ]
+            },
+            {
+              "text": "On 12 May, he was given the portfolio as the Federal Minister of the Board of Investment and was made responsible for Chinese and other foreign direct investment and special measures."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "By-election 2018: Unofficial, partial results",
+          "url": "https://www.geo.tv/latest/214780-by-election-2018-unofficial-unverified-results",
+          "accessdate": "14 October 2018",
+          "work": "Geo News",
+          "date": "14 October 2018",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Chaudhry",
+          "first1": "Fahad",
+          "title": "ECP notifies victory of 22 candidates, withholds notices of 13 others for not disclosing campaign costs",
+          "url": "https://www.dawn.com/news/1439824/ecp-notifies-victory-of-22-candidates-withholds-notices-of-13-others-for-not-disclosing-campaign-costs",
+          "accessdate": "19 October 2018",
+          "work": "DAWN.COM",
+          "date": "18 October 2018",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://nation.com.pk/2022/05/12/chaudhry-salik-gets-portfolio-of-investment-board/",
+          "access-date": "25 June 2022",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "list": [
+            "30em"
+          ],
+          "template": "reflist"
+        },
+        {
+          "template": "pakistan-mna-stub"
+        }
+      ]
+    }
+  ]
+}
