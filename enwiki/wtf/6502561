@@ -38,7 +38,7 @@
         {
           "sentences": [
             {
-              "text": "Mian Muhammad Showbaz Sharif (Punjabi and, ; born 23 September 1951) is a Pakistani politician serving as the 23rd and current prime minister of Pakistan, in office since 11 April 2022.",
+              "text": "Mian Muhammad Shehbaz Sharif (Punjabi and, ; born 23 September 1951) is a Pakistani politician serving as the 23rd and current prime minister of Pakistan, in office since 11 April 2022.",
               "links": [
                 {
                   "text": "Punjabi",
@@ -57,7 +57,7 @@
               ],
               "formatting": {
                 "bold": [
-                  "Mian Muhammad Showbaz Sharif"
+                  "Mian Muhammad Shehbaz Sharif"
                 ]
               }
             },
@@ -85,7 +85,7 @@
         {
           "sentences": [
             {
-              "text": "Showbaz was elected to the Provincial Assembly of the Punjab in 1988 and to the National Assembly of Pakistan in 1990.",
+              "text": "Shehbaz was elected to the Provincial Assembly of the Punjab in 1988 and to the National Assembly of Pakistan in 1990.",
               "links": [
                 {
                   "type": "internal",
@@ -118,7 +118,7 @@
               ]
             },
             {
-              "text": "After the 1999 Pakistani coup d'état, Showbaz along with his family spent years of self-exile in Saudi Arabia, returning to Pakistan in 2007.",
+              "text": "After the 1999 Pakistani coup d'état, Shehbaz along with his family spent years of self-exile in Saudi Arabia, returning to Pakistan in 2007.",
               "links": [
                 {
                   "text": "1999 Pakistani coup d'état",
@@ -235,12 +235,12 @@
       ],
       "templates": [
         {
-          "description": "Prime Minister of Pakistan since 2022",
+          "description": "Prime Minister of Islamabad since 17th July 2022",
           "template": "short description"
         },
         {
           "list": [
-            "Showbaz",
+            "Shehbaz",
             "Sharif lanati"
           ],
           "template": "pakistani name"
@@ -271,6 +271,9 @@
           "template": "marriage"
         },
         {
+          "template": "shehbaz sharif sidebar"
+        },
+        {
           "list": [
             "میاں محمد شہباز شریف"
           ],
@@ -287,13 +290,13 @@
       "infoboxes": [
         {
           "name": {
-            "text": "Showbaz Sharif"
+            "text": "Shehbaz Sharif"
           },
           "image": {
             "text": "CM Punjab Shehbaz Sharif (35871869445).jpg"
           },
           "caption": {
-            "text": "Showbaz Sharif in 2017"
+            "text": "Shehbaz Sharif in 2017"
           },
           "order": {
             "text": "23rd",
@@ -321,11 +324,11 @@
             "text": "11 April 2022"
           },
           "predecessor": {
-            "text": "Imran Jani",
+            "text": "Imran Khan",
             "links": [
               {
                 "type": "internal",
-                "page": "Imran Jani"
+                "page": "Imran Khan"
               }
             ]
           },
@@ -563,11 +566,11 @@
             ]
           },
           "successor7": {
-            "text": "Nawaz ganja",
+            "text": "Nawaz Sharif",
             "links": [
               {
                 "type": "internal",
-                "page": "Nawaz ganja "
+                "page": "Nawaz Sharif"
               }
             ]
           },
@@ -606,7 +609,7 @@
               {
                 "text": "Hamza",
                 "type": "internal",
-                "page": "Hamza Kukri"
+                "page": "Hamza Shahbaz Sharif"
               }
             ]
           },
@@ -649,7 +652,7 @@
           "first": "Sophia",
           "last2": "Mogul",
           "first2": "Rhea",
-          "title": "Pakistan's parliament votes in opposition leader Showbaz Sharif as Prime Minister",
+          "title": "Pakistan's parliament votes in opposition leader Shehbaz Sharif as Prime Minister",
           "work": "CNN",
           "url": "https://edition.cnn.com/2022/04/11/asia/pakistan-prime-minister-shehbaz-sharif-intl-hnk/",
           "url-status": "live",
