@@ -56,7 +56,7 @@
         {
           "sentences": [
             {
-              "text": "Originally from Gakhar Mandi, Gen Bajwa was born into a Punjabi Jat family in Karachi Bajwa was educated at the F.G. Sir Syed College and Gordon College in Rawalpindi before joining the Pakistan Military Academy in 1978.",
+              "text": "Originally from Gakhar Mandi, Gen Bajwa was born into a Punjabi Jat family of Bajwa clan in Karachi Bajwa was educated at the F.G. Sir Syed College and Gordon College in Rawalpindi before joining the Pakistan Military Academy in 1978.",
               "links": [
                 {
                   "type": "internal",
@@ -71,6 +71,11 @@
                   "text": "Jat",
                   "type": "internal",
                   "page": "Jat people"
+                },
+                {
+                  "text": "Bajwa",
+                  "type": "internal",
+                  "page": "Bajwa "
                 },
                 {
                   "text": "F.G. Sir Syed College",
