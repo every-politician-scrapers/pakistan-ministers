@@ -378,7 +378,7 @@
           },
           {
             "col1": {
-              "text": ""
+              "text": "&ensp;&ensp;"
             },
             "col2": {
               "text": ""
@@ -843,7 +843,7 @@
                   "Qarardad-e-Pakistan Tamgha"
                 ],
                 "italic": [
-                  "Resolution Day"
+                  "(Resolution Day"
                 ]
               }
             },
@@ -879,7 +879,7 @@
                   "Tamgha-e-Salgirah Pakistan"
                 ],
                 "italic": [
-                  "Independence Day"
+                  "(Independence Day"
                 ]
               }
             },
@@ -989,14 +989,12 @@
       "templates": [
         {
           "number": "0",
-          "type": "award-star",
           "ribbon": "Surface Warfare Officer Insignia.png",
           "width": "200",
           "template": "ribbon devices"
         },
         {
           "number": "0",
-          "type": "award-star",
           "ribbon": "Pak Navy CaS.png",
           "width": "55",
           "template": "ribbon devices"
