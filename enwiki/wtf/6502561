@@ -604,12 +604,15 @@
             "text": "Begum Nusrat (m. 1973) Tehmina Durrani (m. 2003)"
           },
           "children": {
-            "text": "4, including Hamza",
+            "text": "4, including Hamza Shahbaz & Salman Shehbaz",
             "links": [
               {
-                "text": "Hamza",
                 "type": "internal",
-                "page": "Hamza Shahbaz Sharif"
+                "page": "Hamza Shahbaz"
+              },
+              {
+                "type": "internal",
+                "page": "Salman Shehbaz"
               }
             ]
           },
@@ -643,6 +646,59 @@
           },
           "signature": {
             "text": "Signature of Shehbaz Sharif.svg"
+          },
+          "parents": {
+            "text": "Mian Muhammad Sharif Father\nShamim Akhtar Mother",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mian Muhammad Sharif"
+              },
+              {
+                "type": "internal",
+                "page": "Shamim Akhtar"
+              }
+            ]
+          },
+          "residence": {
+            "text": "Lahore, Punjab, Pakistan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lahore, Punjab, Pakistan"
+              }
+            ]
+          },
+          "citizenship": {
+            "text": "Pakistan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Pakistan"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Pakistan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Pakistan"
+              }
+            ]
+          },
+          "relations": {
+            "text": "Nawaz Sharif Brother & Quaid\nMaryam Nawaz Sharif Niece",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nawaz Sharif"
+              },
+              {
+                "type": "internal",
+                "page": "Maryam Nawaz Sharif"
+              }
+            ]
           }
         }
       ],

@@ -176,15 +176,11 @@
             ]
           },
           "profession": {
-            "text": "Politician\nBarrister",
+            "text": "Politician",
             "links": [
               {
                 "type": "internal",
                 "page": "Politician"
-              },
-              {
-                "type": "internal",
-                "page": "Barrister"
               }
             ]
           },
@@ -266,13 +262,6 @@
                   "page": "Pakistan"
                 }
               ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "On"
             }
           ]
         }

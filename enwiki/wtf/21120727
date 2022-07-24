@@ -27,7 +27,7 @@
         {
           "sentences": [
             {
-              "text": "Arif-ur-Rehman Alvi  (born 29 August 1947) is a Pakistani politician serving as the 13th and the current president of Pakistan, in office since 9 September 2018.",
+              "text": "Arif-ur-Rehman Alvi  (born 29 August 1949) is a Pakistani politician serving as the 13th and the current president of Pakistan, in office since 9 September 2018.",
               "links": [
                 {
                   "text": "president of Pakistan",
@@ -85,7 +85,7 @@
           "template": "use dmy dates"
         },
         {
-          "year": "1947",
+          "year": "1949",
           "month": "08",
           "day": "29",
           "df": "yes",
@@ -216,7 +216,7 @@
             ]
           },
           "birth_date": {
-            "text": "August 29, 1947"
+            "text": "August 29, 1949"
           },
           "birth_place": {
             "text": "Karachi, Federal Capital Territory, Pakistan",
@@ -263,7 +263,7 @@
             "number": 4
           },
           "residence": {
-            "text": "Anum Empire Shahre-e-Faisal, Islamabad",
+            "text": "Anum Empire, Shahr-e-Faisal, Islamabad",
             "links": [
               {
                 "type": "internal",
