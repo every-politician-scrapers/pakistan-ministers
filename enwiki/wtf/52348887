@@ -239,16 +239,15 @@
             "text": "November 11, 1960"
           },
           "birth_place": {
-            "text": "Karachi, Federal Capital Territory, Pakistan",
+            "text": "Karachi, Sindh, Pakistan",
             "links": [
               {
                 "type": "internal",
                 "page": "Karachi"
               },
               {
-                "text": "Federal Capital Territory",
                 "type": "internal",
-                "page": "Federal Capital Territory (Pakistan)"
+                "page": "Sindh"
               },
               {
                 "type": "internal",

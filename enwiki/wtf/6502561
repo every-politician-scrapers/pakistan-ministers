@@ -239,6 +239,10 @@
           "template": "short description"
         },
         {
+          "small": "yes",
+          "template": "pp-30-500"
+        },
+        {
           "list": [
             "Shehbaz",
             "Sharif lanati"
@@ -402,7 +406,7 @@
             ]
           },
           "office3": {
-            "text": "Chief Minister of Punjab",
+            "text": "13th, 15th and 16th Chief Minister of Punjab",
             "links": [
               {
                 "text": "Chief Minister of Punjab",

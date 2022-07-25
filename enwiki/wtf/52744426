@@ -282,11 +282,15 @@
             "text": "July 23, 1965"
           },
           "birth_place": {
-            "text": "Karachi, Pakistan",
+            "text": "Karachi, Sindh, Pakistan",
             "links": [
               {
                 "type": "internal",
                 "page": "Karachi"
+              },
+              {
+                "type": "internal",
+                "page": "Sindh"
               },
               {
                 "type": "internal",

@@ -18,7 +18,7 @@
         {
           "sentences": [
             {
-              "text": "Chaudhry Salik Hussain is a Pakistani politician who has been a member of the National Assembly of Pakistan since October 2018.He won the election by the help of PTI supporters,and then he sold out the mandate of the voters to the Sharif and Zardari mafias.",
+              "text": "Chaudhry Salik Hussain is a Pakistani politician who has been a member of the National Assembly of Pakistan since October 2018.",
               "links": [
                 {
                   "type": "internal",
@@ -34,9 +34,6 @@
                   "Chaudhry Salik Hussain"
                 ]
               }
-            },
-            {
-              "text": "He has no vote personally."
             }
           ]
         }
