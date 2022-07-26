@@ -1,0 +1,75 @@
+[
+  {
+    "office": {
+      "links": [
+        "National Assembly of Pakistan"
+      ],
+      "stated_as": "Member of the National Assembly of Pakistan"
+    },
+    "P580": "2013-06-03",
+    "P582": "2018-05-31"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Information and Broadcasting (Pakistan)"
+      ],
+      "stated_as": "Minister of State for Information and Broadcasting, National History and Literary Heritage"
+    },
+    "P580": "2016-10-31",
+    "P582": "2017-07-28"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Information and Broadcasting (Pakistan)"
+      ],
+      "stated_as": "Minister of State for Information and Broadcasting, National History and Literary Heritage"
+    },
+    "P580": "2017-08-04",
+    "P582": "2018-04-27"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Information and Broadcasting (Pakistan)"
+      ],
+      "stated_as": "Federal Minister for Information and Broadcasting"
+    },
+    "P580": "2018-04-27",
+    "P582": "2018-05-31",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Syed Ali Zafar"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Pakistan Muslim League (N)"
+      ],
+      "stated_as": "Spokesperson of Pakistan Muslim League (N)"
+    },
+    "P580": "2018-06-02"
+  },
+  {
+    "office": {
+      "links": [
+        "National Assembly of Pakistan"
+      ],
+      "stated_as": "Member of the National Assembly of Pakistan"
+    },
+    "P580": "2018-08-13"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Information, Broadcasting and National Heritage (Pakistan)"
+      ],
+      "stated_as": "Minister for Information and Broadcasting"
+    },
+    "P580": "2022-04-18"
+  }
+]

@@ -1,0 +1,105 @@
+[
+  {
+    "office": {
+      "links": [
+        "National Assembly of Pakistan"
+      ],
+      "stated_as": "Member of the National Assembly of Pakistan"
+    },
+    "P580": "1990-11-03",
+    "P582": "1999-10-12"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Federal Minister for Education"
+    },
+    "P580": "1993",
+    "P582": "1996"
+  },
+  {
+    "office": {
+      "links": [
+        "National Assembly of Pakistan"
+      ],
+      "stated_as": "Member of the National Assembly of Pakistan"
+    },
+    "P580": "2002-11-18",
+    "P582": "2007-11-18"
+  },
+  {
+    "office": {
+      "links": [
+        "National Assembly of Pakistan"
+      ],
+      "stated_as": "Member of the National Assembly of Pakistan"
+    },
+    "P580": "2008-03-17",
+    "P582": "2018-05-31"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Federal Minister for Labour and Manpower"
+    },
+    "P580": "2008-03-31",
+    "P582": "2011-05"
+  },
+  {
+    "office": {
+      "links": [
+        "Leader of the Opposition (Pakistan)"
+      ],
+      "stated_as": "Leader of the Opposition"
+    },
+    "P580": "2010-12",
+    "P1365": {
+      "links": [
+        "Hamid Saeed Kazmi"
+      ],
+      "stated_as": "Hamid Saeed Kazmi"
+    },
+    "P582": "2013",
+    "P1366": {
+      "links": [
+        "Sardar Muhammad Yousuf"
+      ],
+      "stated_as": "Sardar Muhammad Yousuf"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Leader of the Opposition (Pakistan)"
+      ],
+      "stated_as": "Leader of the Opposition"
+    },
+    "P580": "2013-06-07",
+    "P1365": {
+      "links": [
+        "Nisar Ali Khan"
+      ],
+      "stated_as": "Nisar Ali Khan"
+    },
+    "P582": "2018-05-31",
+    "P1366": {
+      "links": [
+        "Shehbaz Sharif"
+      ],
+      "stated_as": "Shehbaz Sharif"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "National Assembly of Pakistan"
+      ],
+      "stated_as": "Member of the National Assembly of Pakistan"
+    },
+    "P580": "2018-08-13"
+  }
+]

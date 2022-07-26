@@ -1,0 +1,73 @@
+[
+  {
+    "office": {
+      "links": [
+        "Minister for Defence Production"
+      ],
+      "stated_as": "Minister for Defence Production"
+    },
+    "P580": "2008-03-31",
+    "P582": "2008-05-13"
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Defence Production"
+      ],
+      "stated_as": "Minister for Defence Production"
+    },
+    "P580": "2013-06-07",
+    "P582": "2017-07-28"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Science and Technology (Pakistan)"
+      ],
+      "stated_as": "Minister for Science and Technology"
+    },
+    "P580": "2014-12-17",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Bahadur Khan"
+    },
+    "P582": "2017-07-28"
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Defence Production"
+      ],
+      "stated_as": "Minister for Defence Production"
+    },
+    "P580": "2017-08-04",
+    "P582": "2018-05-03"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Science and Technology (Pakistan)"
+      ],
+      "stated_as": "Minister for Science and Technology"
+    },
+    "P580": "2017-11-24",
+    "P582": "2018-05-31"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Federal Education and Professional Training"
+      ],
+      "stated_as": "Minister of Federal Education & Professional Training"
+    },
+    "P580": "2022-04-19",
+    "P1365": {
+      "links": [
+        "Shafqat Mahmood"
+      ],
+      "stated_as": "Shafqat Mahmood"
+    }
+  }
+]

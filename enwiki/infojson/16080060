@@ -1,0 +1,71 @@
+[
+  {
+    "office": {
+      "links": [
+        "National Assembly of Pakistan"
+      ],
+      "stated_as": "Member of the National Assembly of Pakistan"
+    },
+    "P580": "2002"
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Water and Power (Pakistan)"
+      ],
+      "stated_as": "Minister for Water and Power"
+    },
+    "P580": "2008-03-31",
+    "P1365": {
+      "links": [
+        "Liaquat Ali Jatoi"
+      ],
+      "stated_as": "Liaquat Ali Jatoi"
+    },
+    "P582": "2011-02-09",
+    "P1366": {
+      "links": [
+        "Syed Naveed Qamar"
+      ],
+      "stated_as": "Syed Naveed Qamar"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Prime Minister of Pakistan"
+    },
+    "P1545": "19",
+    "P580": "2012-06-22",
+    "P1365": {
+      "links": [
+        "Yousaf Raza Gillani"
+      ],
+      "stated_as": "Yousaf Raza Gillani"
+    },
+    "P582": "2013-03-24",
+    "P1366": {
+      "links": [
+        "Mir Hazar Khan Khoso"
+      ],
+      "stated_as": "Mir Hazar Khan Khoso"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Speaker of the National Assembly of Pakistan"
+      ],
+      "stated_as": "21st Speaker of the National Assembly of Pakistan"
+    },
+    "P580": "2022-04-16",
+    "P1365": {
+      "links": [
+        "Asad Qaiser"
+      ],
+      "stated_as": "Asad Qaiser"
+    }
+  }
+]

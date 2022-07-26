@@ -1,0 +1,42 @@
+[
+  {
+    "office": {
+      "links": [
+        "Sindh Assembly"
+      ],
+      "stated_as": "Leader of Opposition in Sindh Assembly"
+    },
+    "P580": "2013",
+    "P582": "2014-04-22",
+    "P1366": {
+      "links": [
+        "Muhammad Shaharyar Khan Mahar"
+      ],
+      "stated_as": "Muhammad Shaharyar Khan Mahar"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Senate of Pakistan"
+      ],
+      "stated_as": "Member of Senate of Pakistan"
+    },
+    "P580": "2021-05-03"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Maritime Affairs (Pakistan)"
+      ],
+      "stated_as": "Federal Minister for Maritime Affairs"
+    },
+    "P580": "2022-04-19",
+    "P1365": {
+      "links": [
+        "Ali Haider Zaidi"
+      ],
+      "stated_as": "Ali Haider Zaidi"
+    }
+  }
+]

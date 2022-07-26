@@ -1,0 +1,33 @@
+[
+  {
+    "office": {
+      "links": [
+        "Prime Minister of Azad Jammu and Kashmir"
+      ],
+      "stated_as": "Prime Minister of Azad Jammu and Kashmir"
+    },
+    "P580": "1996-07-30",
+    "P1365": {
+      "links": [
+        "Muhammad Abdul Qayyum Khan"
+      ],
+      "stated_as": "Muhammad Abdul Qayyum Khan"
+    },
+    "P582": "2001-07-24",
+    "P1366": {
+      "links": [
+        "Sardar Sikandar Hayat Khan"
+      ],
+      "stated_as": "Sardar Sikandar Hayat Khan"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "President of Azad Jammu and Kashmir"
+      ],
+      "stated_as": "President of Azad Jammu and Kashmir"
+    },
+    "P580": "2021-08-25"
+  }
+]

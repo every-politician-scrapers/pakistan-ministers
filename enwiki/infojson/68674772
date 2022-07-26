@@ -1,0 +1,127 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Private Secretary to Chief of Army Staff, PS(C)"
+    },
+    "P580": "2013-12",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Brig (Now Lt Gen) Muhammad Saeed"
+    },
+    "P582": "2016-12",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Brig (Now Maj Gen) Iftikhar Hassan Chaudhry"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "12 Infantry Division (Pakistan)"
+      ],
+      "stated_as": "GOC 12 Infantry Division, Murree"
+    },
+    "P580": "2016-12",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Maj Gen Muhammad Kaleem Asif"
+    },
+    "P582": "2018-06",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Maj Gen Amer Ahsan Nawaz"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Commandant School of Infantry and Tactics, Quetta"
+    },
+    "P580": "2018-06",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Maj Gen Shahid Nazir"
+    },
+    "P582": "2019-04",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Maj Gen (Now Lt Gen) Salman Fayyaz Ghani"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "DG JS at JSHQ Chaklala, Rawalpindi"
+    },
+    "P580": "2019-04",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Lt Gen (r) Malik Zafar Iqbal"
+    },
+    "P582": "2019-09",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Lt Gen Muhammad Chiragh Haider Baloch"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "X Corps (Pakistan)"
+      ],
+      "stated_as": "Commander X Corps"
+    },
+    "P580": "2019-09",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Lt Gen (r) Bilal Akbar"
+    },
+    "P582": "2021-09",
+    "P1366": {
+      "links": [
+        "Sahir Shamshad Mirza"
+      ],
+      "stated_as": "Lt Gen Sahir Shamshad Mirza"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Chief of General Staff (Pakistan)"
+      ],
+      "stated_as": "36th Chief of General Staff"
+    },
+    "P580": "2021-09",
+    "P1365": {
+      "links": [
+        "Sahir Shamshad Mirza"
+      ],
+      "stated_as": "Lt Gen Sahir Shamshad Mirza"
+    }
+  }
+]

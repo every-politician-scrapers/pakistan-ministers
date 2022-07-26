@@ -1,0 +1,46 @@
+[
+  {
+    "office": {
+      "links": [
+        "Lahore High Court Bar Association"
+      ],
+      "stated_as": "Secretary of Lahore High Court Bar Association"
+    },
+    "P580": "2004",
+    "P582": "2005"
+  },
+  {
+    "office": {
+      "links": [
+        "Pakistan Bar Council"
+      ],
+      "stated_as": "Vice Chairman of the Pakistan Bar Council"
+    },
+    "P580": "2010",
+    "P582": "2015"
+  },
+  {
+    "office": {
+      "links": [
+        "Senate of Pakistan"
+      ],
+      "stated_as": "Member of the Senate of Pakistan"
+    },
+    "P580": "2021-03"
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Law and Justice (Pakistan)"
+      ],
+      "stated_as": "Federal Minister of Law and Justice"
+    },
+    "P580": "2022-04-19",
+    "P1365": {
+      "links": [
+        "Fawad Chaudhry"
+      ],
+      "stated_as": "Fawad Chaudhry"
+    }
+  }
+]

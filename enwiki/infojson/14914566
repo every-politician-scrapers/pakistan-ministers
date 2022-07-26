@@ -1,0 +1,41 @@
+[
+  {
+    "office": {
+      "links": [
+        "Pakistan Peoples Party"
+      ],
+      "stated_as": "Chairman of the Pakistan Peoples Party"
+    },
+    "P580": "2007-12-30",
+    "P1365": {
+      "links": [
+        "Benazir Bhutto"
+      ],
+      "stated_as": "Benazir Bhutto"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "National Assembly of Pakistan"
+      ],
+      "stated_as": "Member of the National Assembly"
+    },
+    "P580": "2018-08-13"
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Foreign Affairs (Pakistan)"
+      ],
+      "stated_as": "37th Minister of Foreign Affairs"
+    },
+    "P580": "2022-04-27",
+    "P1365": {
+      "links": [
+        "Shah Mahmood Qureshi"
+      ],
+      "stated_as": "Shah Mahmood Qureshi"
+    }
+  }
+]

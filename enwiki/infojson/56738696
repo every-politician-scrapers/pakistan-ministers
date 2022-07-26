@@ -1,0 +1,36 @@
+[
+  {
+    "office": {
+      "links": [
+        "Chairman of the Senate of Pakistan"
+      ],
+      "stated_as": "8th Chairman of the Senate of Pakistan"
+    },
+    "P580": "2018-03-12",
+    "P1365": {
+      "links": [
+        "Raza Rabbani"
+      ],
+      "stated_as": "Raza Rabbani"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Senate of Pakistan"
+      ],
+      "stated_as": "Member of the Senate of Pakistan"
+    },
+    "P580": "2018-03-12"
+  },
+  {
+    "office": {
+      "links": [
+        "President of Pakistan"
+      ],
+      "stated_as": "President of Pakistan (Acting)"
+    },
+    "P580": "2022-04-11",
+    "P582": "2022-04-11"
+  }
+]

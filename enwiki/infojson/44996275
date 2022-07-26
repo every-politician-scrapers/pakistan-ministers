@@ -1,0 +1,47 @@
+[
+  {
+    "office": {
+      "links": [
+        "National Assembly of Pakistan"
+      ],
+      "stated_as": "Member of the National Assembly of Pakistan"
+    },
+    "P580": "2002",
+    "P582": "2018-05-31"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Inter Provincial Coordination"
+    },
+    "P580": "2013-06-28",
+    "P582": "2017-04-28"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Inter Provincial Coordination"
+      ],
+      "stated_as": "Minister for Inter Provincial Coordination"
+    },
+    "P580": "2017-08-04",
+    "P582": "2018-05-31",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Muhammad Azam Khan"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "National Assembly of Pakistan"
+      ],
+      "stated_as": "Member of the National Assembly of Pakistan"
+    },
+    "P580": "2018-08-13"
+  }
+]

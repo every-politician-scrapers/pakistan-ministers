@@ -1,0 +1,43 @@
+[
+  {
+    "office": {
+      "links": [
+        "National Assembly of Pakistan"
+      ],
+      "stated_as": "Member of the National Assembly of Pakistan"
+    },
+    "P580": "2008-03-17",
+    "P582": "2018-05-31"
+  },
+  {
+    "office": {
+      "links": [
+        "Deputy Speaker of the National Assembly of Pakistan"
+      ],
+      "stated_as": "18th Deputy Speaker of the National Assembly of Pakistan"
+    },
+    "P580": "2013-06-03",
+    "P1365": {
+      "links": [
+        "Faisal Karim Kundi"
+      ],
+      "stated_as": "Faisal Karim Kundi"
+    },
+    "P582": "2018-05-31",
+    "P1366": {
+      "links": [
+        "Qasim Suri"
+      ],
+      "stated_as": "Qasim Suri"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "National Assembly of Pakistan"
+      ],
+      "stated_as": "Member of the National Assembly of Pakistan"
+    },
+    "P580": "2018-08-13"
+  }
+]

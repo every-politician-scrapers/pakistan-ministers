@@ -1,0 +1,25 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "State Bank of Pakistan"
+    },
+    "P1545": "20",
+    "P580": "2019-05-04",
+    "P1365": {
+      "links": [
+        "Tariq Bajwa"
+      ],
+      "stated_as": "Tariq Bajwa"
+    },
+    "P582": "2022-05-04",
+    "P1366": {
+      "links": [
+        "Murtaza Syed"
+      ],
+      "stated_as": "Murtaza Syed"
+    }
+  }
+]

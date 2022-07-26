@@ -1,0 +1,150 @@
+[
+  {
+    "office": {
+      "links": [
+        "National Assembly of Pakistan"
+      ],
+      "stated_as": "Member of the National Assembly of Pakistan"
+    },
+    "P580": "2002",
+    "P582": "2007"
+  },
+  {
+    "office": {
+      "links": [
+        "National Assembly of Pakistan"
+      ],
+      "stated_as": "Member of the National Assembly of Pakistan"
+    },
+    "P580": "2008-03-17",
+    "P582": "2011-11-23"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Information and Broadcasting (Pakistan)"
+      ],
+      "stated_as": "Federal Minister for Information and Broadcasting"
+    },
+    "P580": "2008-03-31",
+    "P1365": {
+      "links": [
+        "Nisar Memon"
+      ],
+      "stated_as": "Nisar Memon"
+    },
+    "P582": "2009-03-14",
+    "P1366": {
+      "links": [
+        "Qamar Zaman Kaira"
+      ],
+      "stated_as": "Qamar Zaman Kaira"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        null
+      ],
+      "stated_as": "Federal Minister for Women Development"
+    },
+    "P580": "2008-05-15",
+    "P1365": {
+      "links": [
+        "Nazar Muhammad Gondal"
+      ],
+      "stated_as": "Nazar Muhammad Gondal"
+    },
+    "P582": "2008-11-03",
+    "P1366": {
+      "links": [
+        "Aijaz Hussain Jakhrani"
+      ],
+      "stated_as": "Aijaz Hussain Jakhrani"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Information & Broadcasting (Pakistan)"
+      ],
+      "stated_as": "Federal Minister for Culture"
+    },
+    "P580": "2008-05-24",
+    "P1365": {
+      "links": [
+        "Khawaja Saad Rafique"
+      ],
+      "stated_as": "Khawaja Saad Rafique"
+    },
+    "P582": "2008-08-12"
+  },
+  {
+    "office": {
+      "links": [
+        "Pakistan Ambassador to the United States"
+      ],
+      "stated_as": "Pakistan Ambassador to the United States"
+    },
+    "P580": "2011-11-23",
+    "P1365": {
+      "links": [
+        "Husain Haqqani"
+      ],
+      "stated_as": "Husain Haqqani"
+    },
+    "P582": "2013-10-14",
+    "P1366": {
+      "links": [
+        "Jalil Abbas Jilani"
+      ],
+      "stated_as": "Jalil Abbas Jilani"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Senate of Pakistan"
+      ],
+      "stated_as": "Member of the Senate of Pakistan"
+    },
+    "P580": "2015-06-08"
+  },
+  {
+    "office": {
+      "links": [
+        "Senate"
+      ],
+      "stated_as": "Leader of the Opposition in the Senate of Pakistan"
+    },
+    "P580": "2018-03-22",
+    "P1365": {
+      "links": [
+        "Aitzaz Ahsan"
+      ],
+      "stated_as": "Aitzaz Ahsan"
+    },
+    "P582": "2018-08-26",
+    "P1366": {
+      "links": [
+        "Raja Zafar-ul-Haq"
+      ],
+      "stated_as": "Raja Zafar-ul-Haq"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Climate Change (Pakistan)"
+      ],
+      "stated_as": "Federal Minister of Climate Change"
+    },
+    "P580": "2022-04-19",
+    "P1365": {
+      "links": [
+        "Malik Amin Aslam"
+      ],
+      "stated_as": "Malik Amin Aslam"
+    }
+  }
+]

@@ -1,0 +1,157 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Provincial Minister of Sindh for Information"
+    },
+    "P580": "1988-11-19",
+    "P582": "1990-08-06"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Finance and Revenue"
+      ],
+      "stated_as": "Federal Minister for Finance, Revenue and Economic Affairs"
+    },
+    "P580": "1996-10-28",
+    "P1365": {
+      "links": [
+        "Makhdoom Shahabuddin"
+      ],
+      "stated_as": "Makhdoom Shahabuddin (Acting)"
+    },
+    "P582": "1996-11-05",
+    "P1366": {
+      "links": [
+        "Shahid Javed Burki"
+      ],
+      "stated_as": "Shahid Javed Burki (Acting)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Privatisation (Pakistan)"
+      ],
+      "stated_as": "Federal Minister for Privatization and Investment"
+    },
+    "P580": "1996-10-28",
+    "P582": "1996-11-05"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Maritime Affairs (Pakistan)"
+      ],
+      "stated_as": "Federal Minister for Ports and Shipping"
+    },
+    "P580": "2008-03-31",
+    "P582": "2008-05-14"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Privatisation (Pakistan)"
+      ],
+      "stated_as": "Federal Minister for Privatization and Investment"
+    },
+    "P580": "2008-03-31",
+    "P582": "2009-12-14"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Industries and Production (Pakistan)"
+      ],
+      "stated_as": "Federal Minister for Industries and Production"
+    },
+    "P580": "2008-04-11",
+    "P582": "2008-10-07"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Finance and Revenue"
+      ],
+      "stated_as": "Federal Minister for Finance, Revenue and Economic Affairs"
+    },
+    "P580": "2008-05-15",
+    "P1365": {
+      "links": [
+        "Ishaq Dar"
+      ],
+      "stated_as": "Ishaq Dar"
+    },
+    "P582": "2008-10-08",
+    "P1366": {
+      "links": [
+        "Shaukat Tarin"
+      ],
+      "stated_as": "Shaukat Tarin"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Maritime Affairs (Pakistan)"
+      ],
+      "stated_as": "Federal Minister for Ports and Shipping"
+    },
+    "P580": "2008-10-08",
+    "P582": "2008-11-03"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Energy (Petroleum Division)"
+      ],
+      "stated_as": "Federal Minister for Petroleum and Natural Resources"
+    },
+    "P580": "2009-08-07",
+    "P582": "2011-02-11"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Defence (Pakistan)"
+      ],
+      "stated_as": "Federal Minister for Defence"
+    },
+    "P580": "2012-06-04",
+    "P1365": {
+      "links": [
+        "Ahmad Mukhtar"
+      ],
+      "stated_as": "Ahmad Mukhtar"
+    },
+    "P582": "2013-03-16",
+    "P1366": {
+      "links": [
+        "Mir Hazar Khan Khoso"
+      ],
+      "stated_as": "Mir Hazar Khan Khoso (Caretaker)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Railways (Pakistan)"
+      ],
+      "stated_as": "Chairman Standing Committee on Railways"
+    },
+    "P580": "2013",
+    "P582": "2018"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Commerce (Pakistan)"
+      ],
+      "stated_as": "Chairman Standing Committee on Commerce"
+    },
+    "P580": "2018-09"
+  }
+]

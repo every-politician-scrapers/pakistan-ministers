@@ -1,59 +1,59 @@
-pageid,title
-2795155,Sherry Rehman
-4612797,Nasreen Jalil
-6502561,Shehbaz Sharif
-14914566,Bilawal Bhutto Zardari
-16056921,Sultan Mehmood Chaudhry
-16080060,Raja Pervaiz Ashraf
-16345137,Khawaja Muhammad Asif
-16676220,Ahsan Iqbal
-16716635,Khawaja Saad Rafique
-16731185,Naveed Qamar
-17210834,Rana Tanveer Hussain
-17702351,Ashtar Ausaf Ali
-18637915,Munir Akram
-19095990,Jan Mohammad Jamali
-21120727,Arif Alvi
-21945095,Faisal Subzwari
-24283065,Shazia Marri
-28330089,Rana Sanaullah
-30952973,Abdul Qadir Patel
-32451996,Hamza Shahbaz
-39068789,Muhammad Talha Mahmood
-39559255,Murtaza Javed Abbasi
-40779283,Syed Khurshid Ahmed Shah
-42470820,Marriyum Aurangzeb
-43016658,Khurram Dastgir Khan
-43149888,Muhammad Baligh Ur Rehman
-44993257,Sajid Hussain Turi
-44995904,Waseem Akhtar
-44996275,Riaz Hussain Pirzada
-44996283,Tariq Bashir Cheema
-45001407,Ehsan ur Rehman Mazari
-46178587,Sohail Aman
-51174286,Murad Ali Shah
-51433942,Tayyab Hussain
-52348887,Qamar Javed Bajwa
-52744426,Miftah Ismail
-56276197,Abdul Quddus Bizenjo
-56308021,Mahmood Khan
-56309525,Abid Hussain Bhayo
-56312974,Makhdoom Syed Murtaza Mehmood
-56738696,Sadiq Sanjrani
-57999080,Maulana Abdul Wasay
-57999526,Mufti Abdul Shakoor
-58000038,Asad Mehmood
-58001219,Agha Hassan Baloch
-58009992,Syed Aminul Haque
-58009996,Muhammad Israr Tareen
-58014751,Shahzain Bugti
-58511135,Gulzar Ahmed
-58511273,Ayesha A. Malik
-58751491,Chaudhry Salik Hussain
-60661947,Reza Baqir
-62364855,Nadeem Raza
-65717222,Amjad Khan Niazi
-65855219,Khalid Khurshid
-68674772,Azhar Abbas (general)
-69333602,Azam Nazeer Tarar
-70565826,Sardar Tanveer Ilyas
+pageid,title,wikidata,label
+2795155,Sherry Rehman,Q2985594,Sherry Rehman
+4612797,Nasreen Jalil,Q6967311,Nasreen Jalil
+6502561,Shehbaz Sharif,Q2096387,Shehbaz Sharif
+14914566,Bilawal Bhutto Zardari,Q244338,Bilawal Bhutto Zardari
+16056921,Sultan Mehmood Chaudhry,Q7636704,Sultan Mehmood Chaudhry
+16080060,Raja Pervaiz Ashraf,Q57811,Raja Pervaiz Ashraf
+16345137,Khawaja Muhammad Asif,Q6401038,Khawaja Muhammad Asif
+16676220,Ahsan Iqbal,Q3694886,Ahsan Iqbal Chaudhary
+16716635,Khawaja Saad Rafique,Q13139153,Khawaja Saad Rafique
+16731185,Naveed Qamar,Q2112316,Syed Naveed Qamar
+17210834,Rana Tanveer Hussain,Q7290664,Rana Tanveer Hussain
+17702351,Ashtar Ausaf Ali,Q4805948,Ashtar Ausaf Ali
+18637915,Munir Akram,Q6936649,Munir Akram
+19095990,Jan Mohammad Jamali,Q6149532,Mir Jan Muhammad Khan Jamali
+21120727,Arif Alvi,Q4790529,Arif Alvi
+21945095,Faisal Subzwari,Q5431077,Faisal Sabzwari
+24283065,Shazia Marri,Q7491742,Shazia Jannat Marri
+28330089,Rana Sanaullah,Q2130535,Rana Sana Ullah Khan
+30952973,Abdul Qadir Patel,Q4665601,Abdul Qadir Patel
+32451996,Hamza Shahbaz,Q5646510,Muhammad Hamza Shahbaz Sharif
+39068789,Muhammad Talha Mahmood,Q16194716,Muhammad Talha Mahmood
+39559255,Murtaza Javed Abbasi,Q15983338,Murtaza Javed Abbasi
+40779283,Syed Khurshid Ahmed Shah,Q17388811,Syed Khursheed Ahmad Shah
+42470820,Marriyum Aurangzeb,Q16442103,Maryam Aurangzaib
+43016658,Khurram Dastgir Khan,Q17198246,Khurram Dastagir Khan
+43149888,Muhammad Baligh Ur Rehman,Q12447376,Muhammad Baligh Ur Rehman
+44993257,Sajid Hussain Turi,Q15697388,Sajid Hussain Turi
+44995904,Waseem Akhtar,Q18816014,Waseem Akhtar
+44996275,Riaz Hussain Pirzada,Q18815902,Mian Riaz Hussain Pirzada
+44996283,Tariq Bashir Cheema,Q18815900,Chaudhary Tariq Bashir Cheema
+45001407,Ehsan ur Rehman Mazari,Q18763792,Ehsan-ur-Rehman Mazari
+46178587,Sohail Aman,Q19667565,Suhail Aman
+51174286,Murad Ali Shah,Q26132883,Murad Ali Shah
+51433942,Tayyab Hussain,Q26923271,Tayyab Hussain
+52348887,Qamar Javed Bajwa,Q27916451,Qamar Javed Bajwa
+52744426,Miftah Ismail,Q28113056,Miftah Ismail
+56276197,Abdul Quddus Bizenjo,Q47200338,Abdul Qudoos Jamil
+56308021,Mahmood Khan,Q47376718,Mahmood Khan
+56309525,Abid Hussain Bhayo,Q47387946,Abid Hussain Bhayo
+56312974,Makhdoom Syed Murtaza Mehmood,Q47405679,Syed Murtaza Mahmud
+56738696,Sadiq Sanjrani,Q50320579,Muhammad Sadiq Sanjrani
+57999080,Maulana Abdul Wasay,Q55761179,Abdul Wasay
+57999526,Mufti Abdul Shakoor,Q55955725,Abdul Shakoor
+58000038,Asad Mehmood,Q55761296,Asad Mehmood
+58001219,Agha Hassan Baloch,Q55761351,Agha Hassan Baloch
+58009992,Syed Aminul Haque,Q55819278,Syed Amin Haque
+58009996,Muhammad Israr Tareen,Q55819281,Muhammad Israr Tareen
+58014751,Shahzain Bugti,Q55819457,Nawabzada Shahzain Bugti
+58511135,Gulzar Ahmed,Q56651261,Gulzar Ahmed
+58511273,Ayesha A. Malik,Q56651268,Ayesha Malik
+58751491,Chaudhry Salik Hussain,Q57339316,Chaudhry Salik Hussain
+60661947,Reza Baqir,Q63464983,Reza Baqir
+62364855,Nadeem Raza,Q75217980,Nadeem Raza
+65717222,Amjad Khan Niazi,Q101071247,Muhammad Amjad Khan Niazi
+65855219,Khalid Khurshid,Q101989183,Khalid Khurshid
+68674772,Azhar Abbas (general),Q108593754,Azhar Abbas
+69333602,Azam Nazeer Tarar,Q109669818,Azam Nazeer Tarar
+70565826,Sardar Tanveer Ilyas,Q111494888,Tanveer Ilyas

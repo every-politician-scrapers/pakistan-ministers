@@ -1,0 +1,113 @@
+[
+  {
+    "office": {
+      "links": [
+        "Provincial Assembly of Punjab"
+      ],
+      "stated_as": "Member of Provincial Assembly of Punjab"
+    },
+    "P580": "1993",
+    "P582": "1996"
+  },
+  {
+    "office": {
+      "links": [
+        "Punjab Agriculture Department"
+      ],
+      "stated_as": "Provincial Minister of Punjab for Agriculture"
+    },
+    "P580": "1993",
+    "P582": "1996"
+  },
+  {
+    "office": {
+      "links": [
+        "Punjab Food Department (Pakistan)"
+      ],
+      "stated_as": "Provincial Minister of Punjab for Food"
+    },
+    "P580": "1993",
+    "P582": "1996"
+  },
+  {
+    "office": {
+      "links": [
+        "Bahawalpur"
+      ],
+      "stated_as": "Mayor of Bahawalpur"
+    },
+    "P580": "2001",
+    "P582": "2005"
+  },
+  {
+    "office": {
+      "links": [
+        "Bahawalpur"
+      ],
+      "stated_as": "Mayor of Bahawalpur"
+    },
+    "P580": "2005",
+    "P582": "2010"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Science and Technology (Pakistan)"
+      ],
+      "stated_as": "Chairman Standing Committee on Science and Technology"
+    },
+    "P580": "2013",
+    "P582": "2018"
+  },
+  {
+    "office": {
+      "links": [
+        "National Assembly of Pakistan"
+      ],
+      "stated_as": "Member of the National Assembly of Pakistan"
+    },
+    "P580": "2013-06-01",
+    "P582": "2018-05-31"
+  },
+  {
+    "office": {
+      "links": [
+        "National Assembly of Pakistan"
+      ],
+      "stated_as": "Member of the National Assembly of Pakistan"
+    },
+    "P580": "2018-08-13"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of States and Frontier Regions (Pakistan)"
+      ],
+      "stated_as": "Federal Minister for States and Frontier Regions"
+    },
+    "P580": "2018-08-20",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Roshan Khursheed Bharucha (caretaker)"
+    },
+    "P582": "2018-09-06",
+    "P1366": {
+      "links": [
+        "Shehryar Khan Afridi"
+      ],
+      "stated_as": "Shehryar Khan Afridi (Minister of State)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Housing and Works (Pakistan)"
+      ],
+      "stated_as": "Federal Minister for Housing and Works"
+    },
+    "P580": "2018-09-06",
+    "P582": "2022-03-28"
+  }
+]

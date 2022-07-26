@@ -1,0 +1,36 @@
+[
+  {
+    "office": {
+      "links": [
+        "Deputy mayor",
+        "Karachi"
+      ],
+      "stated_as": "Deputy mayor of Karachi"
+    },
+    "P580": "2005-10-17",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Tariq Hasan"
+    },
+    "P582": "2010-02-19",
+    "P1366": {
+      "links": [
+        "Arshad Vohra"
+      ],
+      "stated_as": "Dr. Arshad A Vohra"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Senate of Pakistan",
+        "Sindh"
+      ],
+      "stated_as": "Member of the Senate of Pakistan from Sindh"
+    },
+    "P580": "2012-03-02",
+    "P582": "2018-03"
+  }
+]

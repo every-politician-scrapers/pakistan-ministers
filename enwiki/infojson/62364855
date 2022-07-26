@@ -1,0 +1,49 @@
+[
+  {
+    "office": {
+      "links": [
+        "Commandant",
+        "Pakistan Military Academy"
+      ],
+      "stated_as": "Commandant of Pakistan Military Academy"
+    },
+    "P580": "2014-10",
+    "P582": "2016-12"
+  },
+  {
+    "office": {
+      "links": [
+        "X Corps (Pakistan)",
+        "Rawalpindi"
+      ],
+      "stated_as": "Commander X Corps, Rawalpindi"
+    },
+    "P580": "2016-12",
+    "P582": "2018-09"
+  },
+  {
+    "office": {
+      "links": [
+        "Chief of General Staff (Pakistan)"
+      ],
+      "stated_as": "Chief of General Staff"
+    },
+    "P580": "2018-09",
+    "P582": "2019-11"
+  },
+  {
+    "office": {
+      "links": [
+        "Chairman Joint Chiefs of Staff Committee"
+      ],
+      "stated_as": "17th Chairman Joint Chiefs of Staff Committee"
+    },
+    "P580": "2019-11-27",
+    "P1365": {
+      "links": [
+        "Zubair Mahmood Hayat"
+      ],
+      "stated_as": "Gen Zubair Mahmood Hayat"
+    }
+  }
+]
