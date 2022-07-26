@@ -42,6 +42,12 @@
         {
           "description": "Pakistani politician",
           "template": "short description"
+        },
+        {
+          "list": [
+            "چودھری سالک حسین"
+          ],
+          "template": "nq"
         }
       ],
       "infoboxes": [
