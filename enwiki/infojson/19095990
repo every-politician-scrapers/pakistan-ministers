@@ -1,0 +1,96 @@
+[
+  {
+    "office": {
+      "links": [
+        "Chief Minister of Balochistan, Pakistan"
+      ],
+      "stated_as": "Chief Minister of Balochistan"
+    },
+    "P580": "1998-06-15",
+    "P1365": {
+      "links": [
+        "Akhtar Mengal"
+      ],
+      "stated_as": "Akhtar Mengal"
+    },
+    "P582": "1999-10-12",
+    "P1366": {
+      "links": [
+        "Jam Mohammad Yousaf"
+      ],
+      "stated_as": "Jam Mohammad Yousaf"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Chairman of the Senate of Pakistan"
+      ],
+      "stated_as": "Chairman of the Senate\nActing"
+    },
+    "P580": "2007-11-16",
+    "P1365": {
+      "links": [
+        "Muhammad Mian Soomro"
+      ],
+      "stated_as": "Muhammad Mian Soomro"
+    },
+    "P582": "2008-03-25",
+    "P1366": {
+      "links": [
+        "Muhammad Mian Soomro"
+      ],
+      "stated_as": "Muhammad Mian Soomro"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Chairman of the Senate of Pakistan"
+      ],
+      "stated_as": "Chairman of the Senate\nActing"
+    },
+    "P580": "2008-08-18",
+    "P1365": {
+      "links": [
+        "Muhammad Mian Soomro"
+      ],
+      "stated_as": "Muhammad Mian Soomro"
+    },
+    "P582": "2008-09-09",
+    "P1366": {
+      "links": [
+        "Muhammad Mian Soomro"
+      ],
+      "stated_as": "Muhammad Mian Soomro"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Provincial Assembly of Balochistan"
+      ],
+      "stated_as": "Speaker of Provincial Assembly of Balochistan"
+    },
+    "P580": "2013-06-04",
+    "P582": "2015-05-02"
+  },
+  {
+    "office": {
+      "links": [
+        "Provincial Assembly of Balochistan"
+      ],
+      "stated_as": "Speaker of Provincial Assembly of Balochistan"
+    },
+    "P580": "2021-10-30"
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of Balochistan, Pakistan"
+      ],
+      "stated_as": "Governor of Balochistan (Acting)"
+    },
+    "P580": "2022-04-13"
+  }
+]

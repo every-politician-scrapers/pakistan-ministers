@@ -1,0 +1,62 @@
+[
+  {
+    "office": {
+      "links": [
+        "National Assembly of Pakistan"
+      ],
+      "stated_as": "Member of the National Assembly of Pakistan"
+    },
+    "P580": "2013-06-01",
+    "P1365": {
+      "links": [
+        "Khushbakht Shujaat"
+      ],
+      "stated_as": "Khushbakht Shujaat"
+    },
+    "P582": "2018-05-31",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Himself"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "National Assembly of Pakistan"
+      ],
+      "stated_as": "Member of the National Assembly of Pakistan"
+    },
+    "P580": "2018-08-13",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Himself"
+    },
+    "P582": "2018-09-06",
+    "P1366": {
+      "links": [
+        "Aftab Siddiqui"
+      ],
+      "stated_as": "Aftab Siddiqui"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of presidents of Pakistan",
+        "President of Pakistan"
+      ],
+      "stated_as": "13th President of Pakistan"
+    },
+    "P580": "2018-09-09",
+    "P1365": {
+      "links": [
+        "Mamnoon Hussain"
+      ],
+      "stated_as": "Mamnoon Hussain"
+    }
+  }
+]

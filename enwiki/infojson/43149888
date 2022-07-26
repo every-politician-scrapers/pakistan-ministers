@@ -1,0 +1,53 @@
+[
+  {
+    "office": {
+      "links": [
+        "Ministry of Federal Education and Professional Training (Pakistan)"
+      ],
+      "stated_as": "Minister of State for Federal Education and Professional Training"
+    },
+    "P580": "2013-06-07",
+    "P582": "2017-07-28"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Interior and Narcotics Control (Pakistan)"
+      ],
+      "stated_as": "Minister of State for Interior and Narcotics Control"
+    },
+    "P580": "2013-11-22",
+    "P582": "2017-07-28"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Federal Education and Professional Training (Pakistan)"
+      ],
+      "stated_as": "Federal Minister for Federal Education and Professional Training"
+    },
+    "P580": "2017-08-04",
+    "P582": "2018-05-31",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Mohammad Yousuf Shaikh"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of Punjab, Pakistan"
+      ],
+      "stated_as": "39th Governor of Punjab"
+    },
+    "P580": "2022-05-30",
+    "P1365": {
+      "links": [
+        "Omer Sarfraz Cheema"
+      ],
+      "stated_as": "Omer Sarfraz Cheema"
+    }
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "office": {
+      "links": [
+        "National Assembly of Pakistan",
+        "Constituency NA-219"
+      ],
+      "stated_as": "Pakistani Parliamentarian from NA-219 Hyderabad"
+    },
+    "P580": "2008-02-18",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Khalid Wahab"
+    },
+    "P582": "2013-05-12",
+    "P1366": {
+      "links": [
+        "Khalid Maqbool Siddiqui"
+      ],
+      "stated_as": "Khalid Maqbool Siddiqui"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Mayor of Hyderabad (Pakistan)"
+      ],
+      "stated_as": "6th Mayor of Hyderabad"
+    },
+    "P580": "2016-08-30",
+    "P1365": {
+      "links": [
+        "Kunwar Naveed Jamil"
+      ],
+      "stated_as": "Kunwar Naveed Jamil"
+    },
+    "P582": "2020-08-30"
+  }
+]

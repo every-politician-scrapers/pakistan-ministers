@@ -1,0 +1,26 @@
+[
+  {
+    "office": {
+      "links": [
+        "National Assembly of Pakistan"
+      ],
+      "stated_as": "Member of the National Assembly of Pakistan"
+    },
+    "P580": "2018-08-13"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Religious Affairs and Inter-faith Harmony"
+      ],
+      "stated_as": "Minister for Religious Affairs and Inter-faith Harmony"
+    },
+    "P580": "2022-04-19",
+    "P1365": {
+      "links": [
+        "Noor-ul-Haq Qadri"
+      ],
+      "stated_as": "Noor-ul-Haq Qadri"
+    }
+  }
+]

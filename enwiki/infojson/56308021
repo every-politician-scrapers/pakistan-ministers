@@ -1,0 +1,52 @@
+[
+  {
+    "office": {
+      "links": [
+        "Provincial Assembly of Khyber Pakhtunkhwa"
+      ],
+      "stated_as": "Member of the Provincial Assembly of Khyber Pakhtunkhwa"
+    },
+    "P580": "2013-05-29",
+    "P582": "2018-05-28"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Provincial Minister of Khyber Pakhtunkhwa for Sports, Culture, Tourism and Museums"
+    },
+    "P580": "2013-05-29",
+    "P582": "2018-05-28",
+    "P1366": {
+      "links": [
+        "Atif Khan"
+      ],
+      "stated_as": "Atif Khan"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Provincial Assembly of Khyber Pakhtunkhwa"
+      ],
+      "stated_as": "Member of the Provincial Assembly of Khyber Pakhtunkhwa"
+    },
+    "P580": "2018-08-13"
+  },
+  {
+    "office": {
+      "links": [
+        "Chief Minister of Khyber Pakhtunkhwa"
+      ],
+      "stated_as": "27th Chief Minister of Khyber Pakhtunkhwa"
+    },
+    "P580": "2018-08-17",
+    "P1365": {
+      "links": [
+        "Dost Muhammad Khan (judge)"
+      ],
+      "stated_as": "Dost Muhammad Khan (caretaker)"
+    }
+  }
+]

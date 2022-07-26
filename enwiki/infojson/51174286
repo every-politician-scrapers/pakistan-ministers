@@ -1,0 +1,40 @@
+[
+  {
+    "office": {
+      "links": [
+        "Chief Minister of Sindh"
+      ],
+      "stated_as": "29th Chief Minister of Sindh"
+    },
+    "P580": "2016-07-29",
+    "P1365": {
+      "links": [
+        "Qaim Ali Shah"
+      ],
+      "stated_as": "Qaim Ali Shah"
+    },
+    "P582": "2018-05-28",
+    "P1366": {
+      "links": [
+        "Fazlur Rehman (politician)"
+      ],
+      "stated_as": "Fazal-ur-Rehman (caretaker)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Chief Minister of Sindh"
+      ],
+      "stated_as": "29th Chief Minister of Sindh"
+    },
+    "P1545": "29",
+    "P580": "2018-08-18",
+    "P1365": {
+      "links": [
+        "Fazlur Rehman (politician)"
+      ],
+      "stated_as": "Fazal-ur-Rehman (caretaker)"
+    }
+  }
+]

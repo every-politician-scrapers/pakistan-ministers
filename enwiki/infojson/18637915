@@ -1,0 +1,62 @@
+[
+  {
+    "office": {
+      "links": [
+        "Permanent Representative of Pakistan to the United Nations"
+      ],
+      "stated_as": "Permanent Representative of Pakistan to the United Nations"
+    },
+    "P580": "2002-05-28",
+    "P1365": {
+      "links": [
+        "Shamshad Ahmad"
+      ],
+      "stated_as": "Shamshad Ahmad"
+    },
+    "P582": "2008-07-26",
+    "P1366": {
+      "links": [
+        "Hussain Haroon"
+      ],
+      "stated_as": "Hussain Haroon"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Permanent Representative of Pakistan to the United Nations"
+      ],
+      "stated_as": "Permanent Representative of Pakistan to the United Nations"
+    },
+    "P580": "2019-11-01",
+    "P1365": {
+      "links": [
+        "Maleeha Lodhi"
+      ],
+      "stated_as": "Maleeha Lodhi"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "President of the United Nations Economic and Social Council"
+    },
+    "P1545": "76",
+    "P580": "2020-07-23",
+    "P1365": {
+      "links": [
+        "Mona Juul"
+      ],
+      "stated_as": "Mona Juul"
+    },
+    "P582": "2021-07-23",
+    "P1366": {
+      "links": [
+        "Collen Vixen Kelapile"
+      ],
+      "stated_as": "Collen Vixen Kelapile"
+    }
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Provincial Minister of Balochistan for Livestock and Dairy Development"
+    },
+    "P580": "2002",
+    "P582": "2008"
+  },
+  {
+    "office": {
+      "links": [
+        "Provincial Assembly of Balochistan"
+      ],
+      "stated_as": "Member of the Provincial Assembly of Balochistan"
+    },
+    "P580": "2002-11",
+    "P582": "2008"
+  },
+  {
+    "office": {
+      "links": [
+        "Provincial Assembly of Balochistan"
+      ],
+      "stated_as": "Member of the Provincial Assembly of Balochistan"
+    },
+    "P580": "2008",
+    "P582": "2013"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Provincial Minister of Balochistan for Livestock and Dairy Development"
+    },
+    "P580": "2008",
+    "P582": "2013"
+  },
+  {
+    "office": {
+      "links": [
+        "Provincial Assembly of Balochistan"
+      ],
+      "stated_as": "Member of the Provincial Assembly of Balochistan"
+    },
+    "P580": "2013",
+    "P582": "2018-05-31"
+  },
+  {
+    "office": {
+      "links": [
+        "Provincial Assembly of Balochistan"
+      ],
+      "stated_as": "Deputy Speaker of the Provincial Assembly of Balochistan"
+    },
+    "P580": "2013-06",
+    "P582": "2015-12-02"
+  },
+  {
+    "office": {
+      "links": [
+        "Chief Minister of Balochistan"
+      ],
+      "stated_as": "Chief Minister of Balochistan"
+    },
+    "P580": "2018-01-13",
+    "P1365": {
+      "links": [
+        "Nawab Sanaullah Khan Zehri"
+      ],
+      "stated_as": "Nawab Sanaullah Khan Zehri"
+    },
+    "P582": "2018-06-07",
+    "P1366": {
+      "links": [
+        "Alauddin Marri"
+      ],
+      "stated_as": "Alauddin Marri (caretaker)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Provincial Assembly of Balochistan"
+      ],
+      "stated_as": "Member of the Provincial Assembly of Balochistan"
+    },
+    "P580": "2018-08-13"
+  },
+  {
+    "office": {
+      "links": [
+        "Provincial Assembly of Balochistan"
+      ],
+      "stated_as": "Speaker of the Provincial Assembly of Balochistan"
+    },
+    "P580": "2018-08-16",
+    "P1365": {
+      "links": [
+        "Rahila Durrani"
+      ],
+      "stated_as": "Rahila Durrani"
+    },
+    "P582": "2021-10-25",
+    "P1366": {
+      "links": [
+        "Jan Mohammad Jamali"
+      ],
+      "stated_as": "Jan Mohammad Jamali"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Chief Minister of Balochistan"
+      ],
+      "stated_as": "Chief Minister of Balochistan"
+    },
+    "P580": "2021-10-29",
+    "P1365": {
+      "links": [
+        "Jam Kamal Khan"
+      ],
+      "stated_as": "Jam Kamal Khan"
+    }
+  }
+]

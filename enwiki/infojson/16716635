@@ -1,0 +1,150 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Special Assistant to the Prime Minister for Youth Affairs"
+    },
+    "P580": "1997",
+    "P582": "1999-10-12"
+  },
+  {
+    "office": {
+      "links": [
+        "Provincial Assembly of Punjab"
+      ],
+      "stated_as": "Member of the Provincial Assembly of Punjab"
+    },
+    "P580": "1997-02-18",
+    "P582": "1999-10-12"
+  },
+  {
+    "office": {
+      "links": [
+        "National Assembly of Pakistan"
+      ],
+      "stated_as": "Member of the National Assembly of Pakistan"
+    },
+    "P580": "2002-10-10",
+    "P582": "2007"
+  },
+  {
+    "office": {
+      "links": [
+        "National Assembly of Pakistan"
+      ],
+      "stated_as": "Member of the National Assembly of Pakistan"
+    },
+    "P580": "2008-02-18",
+    "P582": "2013"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Federal Minister for Culture"
+    },
+    "P580": "2008-03-31",
+    "P582": "2008-05-13"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Federal Minister for Youth Affairs"
+    },
+    "P580": "2008-03-31",
+    "P582": "2008-05-13"
+  },
+  {
+    "office": {
+      "links": [
+        "National Assembly of Pakistan"
+      ],
+      "stated_as": "Member of the National Assembly of Pakistan"
+    },
+    "P580": "2013-05-11",
+    "P582": "2018"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Railways (Pakistan)"
+      ],
+      "stated_as": "Federal Minister for Railway"
+    },
+    "P580": "2013-06-07",
+    "P1365": {
+      "links": [
+        "Ghulam Ahmad Bilour"
+      ],
+      "stated_as": "Ghulam Ahmad Bilour"
+    },
+    "P582": "2017-07-28",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "(himself)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Railways (Pakistan)"
+      ],
+      "stated_as": "Federal Minister for Railway"
+    },
+    "P580": "2017-08-04",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "(himself)"
+    },
+    "P582": "2018-05-31",
+    "P1366": {
+      "links": [
+        "Roshan Khursheed Bharucha"
+      ],
+      "stated_as": "Roshan Khursheed Bharucha"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Provincial Assembly of Punjab"
+      ],
+      "stated_as": "Member of the Provincial Assembly of Punjab"
+    },
+    "P580": "2018-08-15",
+    "P582": "2018-10-14"
+  },
+  {
+    "office": {
+      "links": [
+        "National Assembly of Pakistan"
+      ],
+      "stated_as": "Member of the National Assembly of Pakistan"
+    },
+    "P580": "2018-10-14"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Railways (Pakistan)"
+      ],
+      "stated_as": "Federal Minister for Railway"
+    },
+    "P580": "2022-04-19",
+    "P1365": {
+      "links": [
+        "Azam Khan Swati"
+      ],
+      "stated_as": "Azam Khan Swati"
+    }
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "office": {
+      "links": [
+        "Provincial Assembly of Sindh"
+      ],
+      "stated_as": "Member Provincial Assembly of Sindh from PS-86 Karachi"
+    },
+    "P580": "1993-10-18",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Ali Muhammad Hingoro"
+    },
+    "P582": "1996-11-07",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Muhammad Farooq Awan"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "National Assembly of Pakistan"
+      ],
+      "stated_as": "Member National Assembly of Pakistan from NA-239"
+    },
+    "P580": "2008-03-17",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Hakim Qari Gul Rahman"
+    },
+    "P582": "2013-03-16"
+  },
+  {
+    "office": {
+      "links": [
+        "President of Pakistan"
+      ],
+      "stated_as": "Senior Advisor to the President of Pakistan"
+    },
+    "P580": "2012-07-06",
+    "P1365": {
+      "links": [
+        "Faisal Raza Abidi"
+      ],
+      "stated_as": "Faisal Raza Abidi"
+    },
+    "P582": "2013-03-16",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Post abolished"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "National Assembly of Pakistan"
+      ],
+      "stated_as": "Member National Assembly of Pakistan from NA-248"
+    },
+    "P580": "2018-08-13",
+    "P1365": {
+      "links": [
+        "Salman Mujahid Baloch"
+      ],
+      "stated_as": "Salman Mujahid Baloch"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of National Health Services, Regulation and Coordination"
+      ],
+      "stated_as": "Minister of National Health"
+    },
+    "P580": "2022-04-19",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Faisal Sultan"
+    }
+  }
+]

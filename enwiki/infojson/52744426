@@ -1,0 +1,81 @@
+[
+  {
+    "office": {
+      "links": [
+        "Punjab Board of Investment and Trade"
+      ],
+      "stated_as": "Head & Vice Chairman Punjab Board of Investment and Trade"
+    },
+    "P580": "2012",
+    "P582": "2013"
+  },
+  {
+    "office": {
+      "links": [
+        "Pakistan Board of Investment"
+      ],
+      "stated_as": "Special Assistant to the Prime Minister (Minister of State)"
+    },
+    "P580": "2014-01-04",
+    "P582": "2017-07-28"
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Finance (Pakistan)"
+      ],
+      "stated_as": "Adviser to the Prime Minister for Finance"
+    },
+    "P580": "2017-12-27",
+    "P1365": {
+      "links": [
+        "Ishaq Dar"
+      ],
+      "stated_as": "Ishaq Dar"
+    },
+    "P582": "2018-04-27",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Himself (Federal Minister)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Finance, Revenue and Economic Affairs Minister of Pakistan"
+      ],
+      "stated_as": "Federal Minister for Finance, Revenue & Economic Affairs"
+    },
+    "P580": "2018-04-27",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Himself (Adviser)"
+    },
+    "P582": "2018-05-31",
+    "P1366": {
+      "links": [
+        "Shamshad Akhtar"
+      ],
+      "stated_as": "Shamshad Akhtar (Caretaker)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Finance, Revenue and Economic Affairs Minister of Pakistan"
+      ],
+      "stated_as": "Federal Minister for Finance, Revenue & Economic Affairs"
+    },
+    "P580": "2022-04-19",
+    "P1365": {
+      "links": [
+        "Shaukat Tarin"
+      ],
+      "stated_as": "Shaukat Tarin"
+    }
+  }
+]

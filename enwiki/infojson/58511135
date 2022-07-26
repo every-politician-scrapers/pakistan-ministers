@@ -1,0 +1,66 @@
+[
+  {
+    "office": {
+      "links": [
+        "Sindh High Court"
+      ],
+      "stated_as": "Justice of the Sindh High Court"
+    },
+    "P580": "2002-08-27",
+    "P582": "2011-11-16"
+  },
+  {
+    "office": {
+      "links": [
+        "Supreme Court of Pakistan"
+      ],
+      "stated_as": "Justice of the Supreme Court of Pakistan"
+    },
+    "P580": "2011-11-16"
+  },
+  {
+    "office": {
+      "links": [
+        "Supreme Court of Pakistan"
+      ],
+      "stated_as": "Senior Justice of the Supreme Court of Pakistan"
+    },
+    "P580": "2019-01-18",
+    "P1365": {
+      "links": [
+        "Asif Saeed Khan Khosa"
+      ],
+      "stated_as": "Asif Saeed Khan Khosa"
+    },
+    "P582": "2019-12-20",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Mushir Alam"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Chief Justice of Pakistan",
+        "Chief Justice of Pakistan"
+      ],
+      "stated_as": "27th Chief Justice of Pakistan"
+    },
+    "P580": "2019-12-21",
+    "P1365": {
+      "links": [
+        "Asif Saeed Khosa"
+      ],
+      "stated_as": "Asif Saeed Khosa"
+    },
+    "P582": "2022-02-01",
+    "P1366": {
+      "links": [
+        "Umar Ata Bandial"
+      ],
+      "stated_as": "Umar Ata Bandial"
+    }
+  }
+]

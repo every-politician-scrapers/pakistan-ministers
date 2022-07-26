@@ -1,0 +1,60 @@
+[
+  {
+    "office": {
+      "links": [
+        "Provincial Assembly of Sindh"
+      ],
+      "stated_as": "Member of Provincial Assembly of Sindh"
+    },
+    "P580": "2002",
+    "P582": "2007"
+  },
+  {
+    "office": {
+      "links": [
+        "Provincial Assembly of Sindh"
+      ],
+      "stated_as": "Member of Provincial Assembly of Sindh"
+    },
+    "P580": "2008",
+    "P582": "2012-07"
+  },
+  {
+    "office": {
+      "links": [
+        "National Assembly of Pakistan"
+      ],
+      "stated_as": "Member of the National Assembly of Pakistan"
+    },
+    "P580": "2012-07-06",
+    "P582": "2013-08-30"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Poverty Alleviation and Social Safety"
+    },
+    "P580": "2013-08-30",
+    "P582": "2018-05-31"
+  },
+  {
+    "office": {
+      "links": [
+        "National Assembly of Pakistan"
+      ],
+      "stated_as": "Member of the National Assembly of Pakistan"
+    },
+    "P580": "2018-08-13"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Poverty Alleviation and Social Safety"
+    },
+    "P580": "2022-04-18"
+  }
+]

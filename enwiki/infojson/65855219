@@ -1,0 +1,26 @@
+[
+  {
+    "office": {
+      "links": [
+        "Gilgit Baltistan Assembly"
+      ],
+      "stated_as": "Member of the Gilgit Baltistan Assembly"
+    },
+    "P580": "2020-11-25"
+  },
+  {
+    "office": {
+      "links": [
+        "Chief Minister of Gilgit Baltistan"
+      ],
+      "stated_as": "3rd Chief Minister of Gilgit Baltistan"
+    },
+    "P580": "2020-12-01",
+    "P1365": {
+      "links": [
+        "Mir Afzal"
+      ],
+      "stated_as": "Mir Afzal (caretaker)"
+    }
+  }
+]

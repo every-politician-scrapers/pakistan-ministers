@@ -1,0 +1,29 @@
+[
+  {
+    "office": {
+      "links": [
+        "National Assembly of Pakistan"
+      ],
+      "stated_as": "Member of the National Assembly of Pakistan"
+    },
+    "P580": "2018-08-13"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Religious Affairs and Inter-faith Harmony"
+      ],
+      "stated_as": "Chairman Standing Committee on Religious Affairs and Inter-faith Harmony"
+    },
+    "P580": "2020-02-11"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Communications (Pakistan)"
+      ],
+      "stated_as": "Ministry of Communications"
+    },
+    "P580": "2022-04-19"
+  }
+]

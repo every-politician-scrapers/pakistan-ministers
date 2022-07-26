@@ -1,0 +1,21 @@
+[
+  {
+    "office": {
+      "links": [
+        "National Assembly of Pakistan"
+      ],
+      "stated_as": "Member of the National Assembly of Pakistan"
+    },
+    "P580": "2018-08-13"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Information Technology and Telecommunication (Pakistan)"
+      ],
+      "stated_as": "Minister of Information Technology & Telecommunication"
+    },
+    "P580": "2020-04-06",
+    "P582": "2022-04-10"
+  }
+]

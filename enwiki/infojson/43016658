@@ -1,0 +1,77 @@
+[
+  {
+    "office": {
+      "links": [
+        "National Assembly of Pakistan"
+      ],
+      "stated_as": "Member of the National Assembly of Pakistan"
+    },
+    "P580": "2008-03-17"
+  },
+  {
+    "office": {
+      "links": [
+        "Commerce Minister of Pakistan"
+      ],
+      "stated_as": "Minister of Commerce"
+    },
+    "P580": "2014-01-17",
+    "P1365": {
+      "links": [
+        "Mubashir Hassan"
+      ],
+      "stated_as": "Mubashir Hassan"
+    },
+    "P582": "2017-07-28",
+    "P1366": {
+      "links": [
+        "Muhammad Pervaiz Malik"
+      ],
+      "stated_as": "Muhammad Pervaiz Malik"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Defence (Pakistan)"
+      ],
+      "stated_as": "Minister of Defence"
+    },
+    "P580": "2017-08-04",
+    "P1365": {
+      "links": [
+        "Khawaja Muhammad Asif"
+      ],
+      "stated_as": "Khawaja Muhammad Asif"
+    },
+    "P582": "2018-05-31",
+    "P1366": {
+      "links": [
+        "Hussain Haroon"
+      ],
+      "stated_as": "Hussain Haroon"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Foreign Affairs (Pakistan)"
+      ],
+      "stated_as": "Minister of Foreign Affairs"
+    },
+    "P580": "2018-05-11",
+    "P1365": {
+      "links": [
+        "Khawaja Muhammad Asif"
+      ],
+      "stated_as": "Khawaja Muhammad Asif"
+    },
+    "P582": "2018-05-31",
+    "P1366": {
+      "links": [
+        "Hussain Haroon"
+      ],
+      "stated_as": "Hussain Haroon"
+    }
+  }
+]

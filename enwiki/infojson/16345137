@@ -1,0 +1,139 @@
+[
+  {
+    "office": {
+      "links": [
+        "National Assembly of Pakistan"
+      ],
+      "stated_as": "Member of National Assembly of Pakistan"
+    },
+    "P580": "1993",
+    "P582": "1999"
+  },
+  {
+    "office": {
+      "links": [
+        "National Assembly of Pakistan"
+      ],
+      "stated_as": "Member of National Assembly of Pakistan"
+    },
+    "P580": "2002",
+    "P582": "2018"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Petroleum and Natural Resources (Pakistan)"
+      ],
+      "stated_as": "Minister for Petroleum and Natural Resources"
+    },
+    "P580": "2008-03-31",
+    "P582": "2008-05-13",
+    "P1366": {
+      "links": [
+        "Asim Hussain"
+      ],
+      "stated_as": "Asim Hussain"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Pakistan Sports Board"
+      ],
+      "stated_as": "Minister for Sports"
+    },
+    "P580": "2008-03-31",
+    "P582": "2008-05-13"
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Water and Power (Pakistan)"
+      ],
+      "stated_as": "Minister for Water and Power"
+    },
+    "P580": "2013-06-07",
+    "P1365": {
+      "links": [
+        "Ahmad Mukhtar"
+      ],
+      "stated_as": "Ahmad Mukhtar"
+    },
+    "P582": "2017-07-28",
+    "P1366": {
+      "links": [
+        "Syed Javed Ali Shah",
+        "Shahid Khaqan Abbasi"
+      ],
+      "stated_as": "Syed Javed Ali Shah (as minister for Water Resources)\nShahid Khaqan Abbasi (as minister for Energy)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Defence Minister of Pakistan"
+      ],
+      "stated_as": "Minister of Defence"
+    },
+    "P580": "2013-11-27",
+    "P1365": {
+      "links": [
+        "Naveed Qamar"
+      ],
+      "stated_as": "Naveed Qamar"
+    },
+    "P582": "2017-07-28",
+    "P1366": {
+      "links": [
+        "Khurram Dastgir Khan"
+      ],
+      "stated_as": "Khurram Dastgir Khan"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Foreign Affairs (Pakistan)"
+      ],
+      "stated_as": "Minister of Foreign Affairs"
+    },
+    "P580": "2017-08-04",
+    "P1365": {
+      "links": [
+        "Sartaj Aziz"
+      ],
+      "stated_as": "Sartaj Aziz (as Adviser to the Prime Minister on Foreign Affairs)"
+    },
+    "P582": "2018-04-26",
+    "P1366": {
+      "links": [
+        "Khurram Dastgir Khan"
+      ],
+      "stated_as": "Khurram Dastgir Khan"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "National Assembly of Pakistan"
+      ],
+      "stated_as": "Member of National Assembly of Pakistan"
+    },
+    "P580": "2018-08-13"
+  },
+  {
+    "office": {
+      "links": [
+        "Defence Minister of Pakistan"
+      ],
+      "stated_as": "Minister of Defence"
+    },
+    "P580": "2022-04-19",
+    "P1365": {
+      "links": [
+        "Parvez Khattak"
+      ],
+      "stated_as": "Parvez Khattak"
+    }
+  }
+]
