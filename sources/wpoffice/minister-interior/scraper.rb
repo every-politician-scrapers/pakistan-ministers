@@ -10,16 +10,20 @@ class OfficeholderList < OfficeholderListBase
   decorator WikidataIdsDecorator::Links
 
   def header_column
-    'Interior Minister'
+    'Portrait'
   end
 
   class Officeholder < OfficeholderBase
     def columns
-      %w[no name start end].freeze
+      %w[no img name start end].freeze
     end
 
-    def name_cell
-      super.css('b')
+    def item
+      name_cell.css('a/@wikidata').map(&:text).last
+    end
+
+    def itemLabel
+      name_cell.css('a').map(&:text).map(&:tidy).last || name_cell.text.tidy
     end
   end
 end
