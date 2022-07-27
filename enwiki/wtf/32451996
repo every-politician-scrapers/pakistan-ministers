@@ -24,7 +24,7 @@
         {
           "sentences": [
             {
-              "text": "Mian Muhammad Hamza Shahbaz (Punjabi, ; born 6 September 1974) is a Pakistani politician, and is the 21st and current Chief Minister of Punjab.",
+              "text": "Mian Muhammad Hamza Shahbaz (Punjabi, ; born 6 September 1974) is a Pakistani politician, and was the 21st Chief Minister of Punjab.",
               "links": [
                 {
                   "text": "Punjabi",
@@ -144,8 +144,14 @@
               }
             ]
           },
+          "status": {
+            "text": "Disputed"
+          },
           "term_start": {
             "text": "30 April 2022"
+          },
+          "term_end": {
+            "text": "26 July 2022"
           },
           "predecessor": {
             "text": "Usman Buzdar",
@@ -153,6 +159,15 @@
               {
                 "type": "internal",
                 "page": "Usman Buzdar"
+              }
+            ]
+          },
+          "successor": {
+            "text": "Chaudhry Pervaiz Elahi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chaudhry Pervaiz Elahi"
               }
             ]
           },

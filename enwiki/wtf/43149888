@@ -18,7 +18,7 @@
         {
           "sentences": [
             {
-              "text": "Chor Muhammad Baligh Ur Rehman (born 21 December 1970) is a Pakistani politician who is serving as 39th Governor of Punjab in office since 30 May 2022 and was appointed by Arif Alvi.",
+              "text": "Muhammad Baligh Ur Rehman (born 21 December 1970) is a Pakistani politician who is serving as 39th Governor of Punjab in office since 30 May 2022 and was appointed by Arif Alvi.",
               "links": [
                 {
                   "type": "internal",
@@ -36,7 +36,7 @@
               ],
               "formatting": {
                 "bold": [
-                  "Chor Muhammad Baligh Ur Rehman"
+                  "Muhammad Baligh Ur Rehman"
                 ]
               }
             },
@@ -119,7 +119,7 @@
             "text": "Balig ur Rehman.jpg"
           },
           "office": {
-            "text": "39th Governor of Punjab",
+            "text": "34th Governor of Punjab",
             "links": [
               {
                 "text": "Governor of Punjab",
