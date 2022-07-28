@@ -44,6 +44,11 @@
           "template": "short description"
         },
         {
+          "reason": "Persistent disruptive editing",
+          "small": "yes",
+          "template": "pp-protected"
+        },
+        {
           "list": [
             "چودھری سالک حسین"
           ],
@@ -91,9 +96,10 @@
             }
           },
           "father": {
-            "text": "Shujaat Hussain",
+            "text": "Bongay Mian",
             "links": [
               {
+                "text": "Bongay Mian",
                 "type": "internal",
                 "page": "Shujaat Hussain"
               }

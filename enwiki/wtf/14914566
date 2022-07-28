@@ -154,8 +154,11 @@
               }
             ]
           },
+          "image": {
+            "text": "Bilawal_Bhutto_Zardari.png"
+          },
           "caption1": {
-            "text": "Bhutto Zardari in 2022"
+            "text": "Bhutto Zardari in 2019"
           },
           "predecessor1": {
             "text": "Benazir Bhutto",

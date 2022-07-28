@@ -76,6 +76,10 @@
           "template": "distinguish"
         },
         {
+          "date": "July 2022",
+          "template": "use pakistani english"
+        },
+        {
           "date": "September 2014",
           "template": "use dmy dates"
         },
@@ -166,10 +170,6 @@
               {
                 "type": "internal",
                 "page": "Sindh"
-              },
-              {
-                "type": "internal",
-                "page": "Pakistan"
               }
             ]
           },

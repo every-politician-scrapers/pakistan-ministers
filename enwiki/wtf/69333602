@@ -18,12 +18,22 @@
         {
           "sentences": [
             {
-              "text": "Azam Nazeer Tarar (Punjabi, اعظم نذیر تارڑ) is a Pakistani politician who is currently serving as Federal Minister of Law and Justice, in office since 19 April 2022.",
+              "text": "Azam Nazeer Tarar (Punjabi, اعظم نذیر تارڑ) is a Pakistani politician from a Punjabi Jatt family, who is currently serving as Federal Minister of Law and Justice, in office since 19 April 2022.",
               "links": [
                 {
                   "text": "Punjabi",
                   "type": "internal",
                   "page": "Punjabi language"
+                },
+                {
+                  "text": "Punjabi",
+                  "type": "internal",
+                  "page": "Punjabis"
+                },
+                {
+                  "text": "Jatt",
+                  "type": "internal",
+                  "page": "Jat people"
                 },
                 {
                   "text": "Federal Minister of Law and Justice",
