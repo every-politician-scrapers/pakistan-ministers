@@ -1,7 +1,7 @@
-region,regionLabel,person,personLabel
-Q163239,Balochistan,Q107453141,Syed Zahoor Ahmad Agha
-Q183314,Khyber Pakhtunkhwa,,Mushtaq Ghani
-Q4478,Punjab,,Balig ur Rehman
-Q37211,Sindh,Q6967311,Nasreen Jalil
-Q200697,Gilgit Baltistan,Q56855989,Raja Jalal Hussain Maqpoon
-Q200130,Azad Jammu and Kashmir,Q7636704,Sultan Mehmood Chaudhry
+region,regionLabel,person,personLabel,start
+,Balochistan,,Jan Mohammad Jamali,2022-04-13
+,Khyber Pakhtunkhwa,,Mushtaq Ahmed Ghani,2022-04-11
+,Punjab,,Muhammad Baligh Ur Rehman,2022-05-30
+,Sindh,,Agha Siraj Durrani,2022-04-18
+,Gilgit-Baltistan,,Syed Amjad Ali Zaidi,2022-06-26
+,Azad Jammu and Kashmir,,Sultan Mehmood Chaudhry,2021-08-25

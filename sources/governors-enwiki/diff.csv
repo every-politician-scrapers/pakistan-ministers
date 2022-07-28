@@ -1,3 +1,6 @@
-@@,region,person
-->,Q200697,NULL->Q56855989
-->,Q163239,Q6149532->Q107453141
+@@,region,regionlabel,person,personlabel,start
+->,Q37211,Sindh,Q6967311,Nasreen Jalil->Agha Siraj Durrani,2022-05-08->2022-04-18
+->,Q200697,Gilgit-Baltistan,,NULL->Syed Amjad Ali Zaidi,NULL->2022-06-26
+->,Q200130,Azad Kashmir->Azad Jammu and Kashmir,Q7636704,Sultan Mehmood Chaudhry,2021-08-25
+->,Q183314,Khyber Pakhtunkhwa,,NULL->Mushtaq Ahmed Ghani,NULL->2022-04-11
+->,Q163239,Balochistan,Q6149532,Mir Jan Muhammad Khan Jamali->Jan Mohammad Jamali,2022-04-13

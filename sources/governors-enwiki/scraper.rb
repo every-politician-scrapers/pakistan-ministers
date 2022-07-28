@@ -6,8 +6,6 @@ require 'pry'
 require 'scraped'
 require 'wikidata_ids_decorator'
 
-require 'open-uri/cached'
-
 class RemoveReferences < Scraped::Response::Decorator
   def body
     Nokogiri::HTML(super).tap do |doc|
@@ -31,7 +29,7 @@ class MinistersList < Scraped::HTML
   end
 
   def table
-    noko.xpath('//table[.//th[contains(.,"Portrait")]]')
+    noko.xpath('//table[.//th[contains(.,"tenure")]]')
   end
 end
 
@@ -52,6 +50,10 @@ class Officeholder < Scraped::HTML
     name_link.text.tidy
   end
 
+  field :start do
+    Date.parse(tds[2].text.tidy.split('(').first)
+  end
+
   private
 
   def tds
@@ -67,7 +69,7 @@ class Officeholder < Scraped::HTML
   end
 end
 
-url = 'https://en.wikipedia.org/wiki/List_of_current_Pakistani_governors'
+url = ARGV.first
 data = MinistersList.new(response: Scraped::Request.new(url: url).response).ministers
 
 header = data.first.keys.to_csv

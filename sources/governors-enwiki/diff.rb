@@ -5,10 +5,9 @@ require 'every_politician_scraper/comparison'
 require 'every_politician_scraper/scraper_data'
 require 'pry'
 
-# Only compare IDs, not names, as those differ between WP/WD
 class Comparison < EveryPoliticianScraper::DecoratedComparison
   def columns
-    super.reject { |name| name.to_s.downcase.include? 'label' }
+    super + %i[psid]
   end
 end
 
