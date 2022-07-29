@@ -1,5 +1,6 @@
 id,name,gender,dob,dobp,dod,dodp,image,enwiki
 Q101071247,Muhammad Amjad Khan Niazi,male,,,,,Amjad Khan Niazi.jpg,Amjad Khan Niazi
+Q101826396,Syed Amjad Ali Zaidi,male,,,,,,Syed Amjad Ali Zaidi
 Q101989183,Khalid Khurshid,male,1980-11-17,11,,,,Khalid Khurshid
 Q10370944,Shama Khalid,female,1946,9,2010-09-15,11,,Shama Khalid
 Q106372690,Muhammad Hussain Mehanti,male,1946,9,,,,Muhammad Hussain Mehanti
@@ -29,6 +30,7 @@ Q113268753,Irfan Ullah Khan Niazi,male,,,,,,Irfan Ullah Khan Niazi
 Q113269519,Ali Afzal Sahi,male,,,,,,Ali Afzal Sahi
 Q113301914,Mian Muhammad Azam Cheela,male,,,,,,Mian Muhammad Azam Cheela
 Q113302052,Mehar Muhammad Nawaz,male,,,,,,Mehar Muhammad Nawaz
+Q113317496,Khurram Shahzad Virk,male,,,,,,Khurram Shahzad Virk
 Q12416545,Usman Khan,male,1947-09-01,11,,,Usman Khan Engr.jpg,Usman Khan Tarakai
 Q12441891,Bilal Yaseen,male,1970-12-14,11,,,,Bilal Yasin
 Q12447362,Muhammad Afzal,male,1974-04-06,11,,,,Afzal Khokhar
@@ -1544,10 +1546,12 @@ Q6743544,Maliha Lodhi,female,1953-11-15,11,,,"Maleeha Lodhi, Pakistan-US talks 2
 Q6743587,Malik Karamat Ali,male,,,,,,Malik Karamat Khokhar
 Q6743595,Malik Mohammad Qayyum,male,1944-01-18,11,,,,Malik Mohammad Qayyum
 Q6766117,Syed Mehdi Shah,male,,,,,,Syed Mehdi Shah
+Q6783841,Masood Khan,male,1951-02-15,11,,,Ambassador Masood Khan.jpg,Masood Khan
 Q6792420,Atta ur Rehman,male,1965-07-25,11,,,,Atta-ur-Rehman (politician)
 Q6796731,Muhammad Aslam Bhootani,male,1960-10-02,11,,,,Mohammad Aslam Bhutani
 Q6809885,Mehtab Ahmed Khan,male,1952-12-15,11,,,Sardar Mehtab Ahmed Khan.jpg,Mehtab Abbasi (politician)
 Q6827611,Mian Yawar Zaman,male,1961-03-21,11,,,,Mian Yawar Zaman
+Q68890,Sardar Muhammad Ibrahim Khan,male,1915-04-10,11,2003-07-31,11,,Sardar Ibrahim Khan
 Q6892392,Muhammad Saleh Bhootani,male,,,,,,Mohammad Saleh Bhootani
 Q6892414,Mohammad Shafiq,male,1934,9,,,,Mohammad Shafiq
 Q6907814,Moonis Elahi,male,1976-04-12,11,,,Moonis Elahi in KBD Seminar (cropped).jpg,Moonis Elahi
@@ -1560,9 +1564,11 @@ Q6936643,Munir A. Malik,male,,,,,,Munir A. Malik
 Q6936649,Munir Akram,male,1945-02-14,11,,,,Munir Akram
 Q6941231,Mushahid Hussain Sayed,male,1952,9,,,"Mushahid Hussain, July 2019.jpg",Mushahid Hussain
 Q6944347,Syed Muzafar Hussain Shah,male,1945,9,2020-08-26,11,,Muzaffar Hussain Shah
+Q69565,Raja Muhammad Zulqarnain Khan,male,,,,,,Raja Muhammad Zulqarnain Khan
 Q6956893,Nabil Gabol,male,1962-11-16,11,,,,Nabil Gabol
 Q69569,Sardar Muhammad Yaqoob Khan,male,1953,9,,,Muhammad Yaqoob Khan (cropped).jpg,Muhammad Yaqoob Khan (politician)
 Q6958182,Nafisa Shah,female,1968-01-20,11,,,,Nafisa Shah
+Q69585,Sardar Muhammad Anwar Khan,male,1945-05-09,11,,,,Muhammad Anwar Khan (politician)
 Q6959673,Naimatullah Khan,male,1930-10-01,11,2020-02-25,11,Naimatullah Khan (cropped).jpg,Naimatullah Khan
 Q6959916,Najam Sethi,male,1948-05-20,11,,,Umer Toor & Najam Sethi Pakistan Super League PSLt22 Cricket (cropped).png,Najam Sethi
 Q6959957,Muhammad Najeeb Haroon,male,1948-01-01,11,,,,Najeeb Haroon
