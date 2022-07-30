@@ -293,58 +293,55 @@
         [
           {
             "col1": {
-              "text": "Tamgha-e-Diffa.png"
+              "text": ""
             },
             "col2": {
+              "text": ""
+            },
+            "col3": {
+              "text": ""
+            }
+          },
+          {
+            "col1": {
               "text": "Tamgha-e-Baqa_(1998).png"
             },
-            "col3": {
+            "col2": {
               "text": "Tamgha-e-Istaqlal_(2002).png"
             },
-            "col4": {
+            "col3": {
               "text": "Tamgha-e-Azm.png"
+            },
+            "col4": {
+              "text": "10_years_Service_Medal.png"
             }
           },
           {
             "col1": {
-              "text": "10_years_Service_Medal.png"
-            },
-            "col2": {
               "text": "20_years_Service_Medal.png"
             },
-            "col3": {
+            "col2": {
               "text": "30_years_Service_Medal.png"
             },
-            "col4": {
+            "col3": {
               "text": "35_years_Service_Medal.png"
+            },
+            "col4": {
+              "text": "Jamhuriat_Tamgha_1988.png"
             }
           },
           {
             "col1": {
-              "text": "Jamhuriat_Tamgha_1988.png"
-            },
-            "col2": {
               "text": "Qarardad-e-Pakistan_Tamgha_Pakistan.svg"
             },
-            "col3": {
+            "col2": {
               "text": "Independence_Day_Golden_Jubilee_Medal,_2006.svg"
+            },
+            "col3": {
+              "text": ""
             },
             "col4": {
               "text": "UN_MONUC_Medal_with_2.png"
-            }
-          },
-          {
-            "col1": {
-              "text": "]"
-            },
-            "col2": {
-              "text": ""
-            },
-            "col3": {
-              "text": ""
-            },
-            "col4": {
-              "text": ""
             }
           }
         ],
@@ -567,7 +564,14 @@
       ],
       "templates": [
         {
+          "number": "0",
+          "type": "award-star",
           "ribbon": "Hilal-e-Imtiaz.png",
+          "width": "130",
+          "template": "ribbon devices"
+        },
+        {
+          "ribbon": "Command and Staff College Quetta Centenary Medal.svg",
           "width": "130",
           "template": "ribbon devices"
         }

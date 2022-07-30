@@ -23,7 +23,7 @@
         {
           "sentences": [
             {
-              "text": "Chaudhry Tariq Bashir Cheema (Punjabi, ) is a Pakistani politician who was the Secretary General of PML-Q till 28 July 2022 after the party decided to oust him along with president Chaudhary Shujaat Hussain.",
+              "text": "Chaudhry Tariq Bashir Cheema (Punjabi, ) is a Pakistani politician who is the Secretary General of PML-Q.",
               "links": [
                 {
                   "text": "Punjabi",
@@ -60,7 +60,7 @@
       ],
       "templates": [
         {
-          "description": "Pakistani politician For sale",
+          "description": "Pakistani politician",
           "template": "short description"
         },
         {

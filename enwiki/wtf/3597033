@@ -213,7 +213,7 @@
             ]
           },
           "preceded": {
-            "text": "Hamza Shahbaz (Disputed)",
+            "text": "Hamza Shahbaz",
             "links": [
               {
                 "type": "internal",
@@ -704,12 +704,27 @@
               }
             ]
           },
-          "office 19": {
+          "office19": {
             "text": "Speaker of the Provincial Assembly of Punjab",
             "links": [
               {
                 "type": "internal",
                 "page": "Speaker of the Provincial Assembly of Punjab"
+              }
+            ]
+          },
+          "term_start19": {
+            "text": "16 August 2018"
+          },
+          "term_end19": {
+            "text": "26 July 2022"
+          },
+          "successor19": {
+            "text": "Muhammad Sibtain Khan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Muhammad Sibtain Khan"
               }
             ]
           }
