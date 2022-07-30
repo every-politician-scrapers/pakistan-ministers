@@ -1,0 +1,218 @@
+[
+  {
+    "office": {
+      "links": [
+        null
+      ],
+      "stated_as": "Provincial Minister of Punjab for Local Bodies and Rural Development"
+    },
+    "P580": "1985",
+    "P582": "1993"
+  },
+  {
+    "office": {
+      "links": [
+        "Provincial Assembly of Punjab"
+      ],
+      "stated_as": "Member of the Provincial Assembly of Punjab"
+    },
+    "P580": "1985-03-12",
+    "P582": "1988-05-30"
+  },
+  {
+    "office": {
+      "links": [
+        "Leader of the Opposition (Punjab)"
+      ],
+      "stated_as": "Leader of the Opposition Punjab (Acting)"
+    },
+    "P580": "1993",
+    "P582": "1996"
+  },
+  {
+    "office": {
+      "links": [
+        "Provincial Assembly of Punjab"
+      ],
+      "stated_as": "Member of the Provincial Assembly of Punjab"
+    },
+    "P580": "1997-02-18",
+    "P582": "1999-10-12"
+  },
+  {
+    "office": {
+      "links": [
+        "Provincial Assembly of Punjab"
+      ],
+      "stated_as": "Member of the Provincial Assembly of Punjab"
+    },
+    "P580": "2002-11-25",
+    "P582": "2007-11-17"
+  },
+  {
+    "office": {
+      "links": [
+        "Chief Minister of Punjab (Pakistan)"
+      ],
+      "stated_as": "14th and 19th Chief Minister of Punjab"
+    },
+    "P580": "2002-11-29",
+    "P1365": {
+      "links": [
+        "Shehbaz Sharif"
+      ],
+      "stated_as": "Shehbaz Sharif"
+    },
+    "P582": "2007-11-18",
+    "P1366": {
+      "links": [
+        "Ejaz Nisar"
+      ],
+      "stated_as": "Ejaz Nisar (Acting)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "National Assembly of Pakistan"
+      ],
+      "stated_as": "Member of the National Assembly of Pakistan"
+    },
+    "P580": "2008-03-17",
+    "P582": "2013-03-16"
+  },
+  {
+    "office": {
+      "links": [
+        "Leader of the Opposition (Pakistan)"
+      ],
+      "stated_as": "Leader of the Opposition Pakistan"
+    },
+    "P580": "2008-04-10",
+    "P1365": {
+      "links": [
+        "Fazal-ur-Rehman (politician)"
+      ],
+      "stated_as": "Fazal-ur-Rehman"
+    },
+    "P582": "2008-09-16",
+    "P1366": {
+      "links": [
+        "Nisar Ali Khan"
+      ],
+      "stated_as": "Nisar Ali Khan"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Defence Production (Pakistan)"
+      ],
+      "stated_as": "Federal Minister for Defence Production"
+    },
+    "P580": "2011-05",
+    "P582": "2012-06"
+  },
+  {
+    "office": {
+      "links": [
+        "Gillani ministry"
+      ],
+      "stated_as": "Senior Minister Cabinet of Pakistan"
+    },
+    "P580": "2011-05",
+    "P582": "2012-06"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Industries and Production (Pakistan)"
+      ],
+      "stated_as": "Federal Minister for Industries"
+    },
+    "P580": "2011-05-03",
+    "P582": "2013-03-16"
+  },
+  {
+    "office": {
+      "links": [
+        "Deputy Prime Minister of Pakistan"
+      ],
+      "stated_as": "Deputy Prime Minister of Pakistan"
+    },
+    "P580": "2012-06-25",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Office established"
+    },
+    "P582": "2013-03-16",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Vacant"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "National Assembly of Pakistan"
+      ],
+      "stated_as": "Member of the National Assembly of Pakistan"
+    },
+    "P580": "2013-06-01",
+    "P582": "2018-05-31"
+  },
+  {
+    "office": {
+      "links": [
+        "Provincial Assembly of Punjab"
+      ],
+      "stated_as": "Member of the Provincial Assembly of Punjab"
+    },
+    "P580": "2018-08-15"
+  },
+  {
+    "office": {
+      "links": [
+        "Speaker of the Provincial Assembly of Punjab"
+      ],
+      "stated_as": "Speaker of the Provincial Assembly of Punjab"
+    },
+    "P580": "2018-08-16",
+    "P582": "2022-07-26",
+    "P1366": {
+      "links": [
+        "Muhammad Sibtain Khan"
+      ],
+      "stated_as": "Muhammad Sibtain Khan"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of Punjab, Pakistan"
+      ],
+      "stated_as": "Governor of Punjab (Acting)"
+    },
+    "P580": "2018-08-18",
+    "P582": "2018-09-05",
+    "P1366": {
+      "links": [
+        "Mohammad Sarwar (politician)"
+      ],
+      "stated_as": "Mohammad Sarwar"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Chief Minister of Punjab (Pakistan)"
+      ],
+      "stated_as": "14th and 19th Chief Minister of Punjab"
+    },
+    "P580": "2022-07-27"
+  }
+]

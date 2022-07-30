@@ -4,7 +4,7 @@
   "office": "14th and 19th Chief Minister of Punjab",
   "term_start": "27 July 2022",
   "governor": "Muhammad Baligh Ur Rehman",
-  "preceded": "Hamza Shahbaz (Disputed)",
+  "preceded": "Hamza Shahbaz",
   "governor1": "Khalid Maqbool",
   "term_start1": "29 November 2002",
   "term_end1": "18 November 2007",
@@ -80,5 +80,8 @@
   "children": "2 including Moonis Elahi",
   "relatives": "See ",
   "alma_mater": "Forman Christian College University",
-  "office 19": "Speaker of the Provincial Assembly of Punjab"
+  "office19": "Speaker of the Provincial Assembly of Punjab",
+  "term_start19": "16 August 2018",
+  "term_end19": "26 July 2022",
+  "successor19": "Muhammad Sibtain Khan"
 }
