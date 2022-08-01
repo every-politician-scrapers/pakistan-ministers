@@ -25,12 +25,8 @@
         {
           "sentences": [
             {
-              "text": "Qamar Javed Bajwa (born 11 November 1960) is a Pakistani general and the 10th and current Chief of the Army Staff of Pakistan Armed Forces since 29 November 2016 from a Punjabi Jatt family of Gakhar Mandi.",
+              "text": "Qamar Javed Bajwa (born 11 November 1960) is a Pakistani general and the 10th and current Chief of the Army Staff of Pakistan Army since 29 November 2016.",
               "links": [
-                {
-                  "type": "internal",
-                  "page": "Pakistani"
-                },
                 {
                   "text": "general",
                   "type": "internal",
@@ -43,21 +39,7 @@
                 },
                 {
                   "type": "internal",
-                  "page": "Pakistan Armed Forces"
-                },
-                {
-                  "text": "Punjabi",
-                  "type": "internal",
-                  "page": "Punjabis"
-                },
-                {
-                  "text": "Jatt",
-                  "type": "internal",
-                  "page": "Jat people"
-                },
-                {
-                  "type": "internal",
-                  "page": "Gakhar Mandi"
+                  "page": "Pakistan Army"
                 }
               ],
               "formatting": {
@@ -74,7 +56,7 @@
         {
           "sentences": [
             {
-              "text": "Originally from Gakhar Mandi, Gen Bajwa was born into a Punjabi Jatt family of Bajwa clan in Karachi Bajwa was educated at the F.G. Sir Syed College and Gordon College in Rawalpindi before joining the Pakistan Military Academy in 1978.",
+              "text": "Originally from Gakhar Mandi, Gen Bajwa was born into a Punjabi Jat family of Bajwa clan in Karachi Bajwa was educated at the F.G. Sir Syed College and Gordon College in Rawalpindi before joining the Pakistan Military Academy in 1978.",
               "links": [
                 {
                   "type": "internal",
@@ -86,7 +68,7 @@
                   "page": "Punjabis"
                 },
                 {
-                  "text": "Jatt",
+                  "text": "Jat",
                   "type": "internal",
                   "page": "Jat people"
                 },
