@@ -24,7 +24,7 @@
         {
           "sentences": [
             {
-              "text": "Nasreen Jalil (born: 22 February 1944, Lahore) is a Pakistani politician and 31st Governor Sindh.",
+              "text": "Nasreen Jalil (born: 22 February 1944, Lahore) is a Pakistani politician and a senior leader of the  Muttahida Qaumi Movement.",
               "links": [
                 {
                   "type": "internal",
@@ -40,9 +40,9 @@
                   "page": "politician"
                 },
                 {
-                  "text": "Governor Sindh",
+                  "text": "Muttahida Qaumi Movement",
                   "type": "internal",
-                  "page": "Governor of Sindh"
+                  "page": "Muttahida Qaumi Movement – London"
                 }
               ],
               "formatting": {
@@ -52,25 +52,7 @@
               }
             },
             {
-              "text": "She is the second female governor in Pakistan after Begum Rana Liaquat Ali Khan. She has been nominated for the post after Imran Khan ousted after losing low confidence motion and Shehbaz Sharif came in power in April 2022.",
-              "links": [
-                {
-                  "text": "Begum Rana Liaquat Ali Khan.",
-                  "type": "internal",
-                  "page": "Ra'ana Liaquat Ali Khan"
-                },
-                {
-                  "type": "internal",
-                  "page": "Imran Khan"
-                },
-                {
-                  "type": "internal",
-                  "page": "Shehbaz Sharif"
-                }
-              ]
-            },
-            {
-              "text": "She also served as a member of the Senate of Pakistan from Sindh from 2012 to 2018.",
+              "text": "She served as a member of the Senate of Pakistan from Sindh from 2012 to 2018.",
               "links": [
                 {
                   "type": "internal",

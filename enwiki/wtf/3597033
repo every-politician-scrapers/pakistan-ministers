@@ -37,7 +37,7 @@
         {
           "sentences": [
             {
-              "text": "Chaudhry Pervaiz Elahi (Punjabi, ) (born 1 November 1945) is a Pakistani politician from a Punjabi Jatt family of Gujrat who is the 19th and current Chief Minister of Punjab, in office since July 27, 2022.",
+              "text": "Chaudhry Pervaiz Elahi (Punjabi, ) (born 1 November 1945) is a Pakistani politician who is the 19th and current Chief Minister of Punjab, in office since July 27, 2022.",
               "links": [
                 {
                   "text": "Punjabi",
@@ -47,21 +47,6 @@
                 {
                   "type": "internal",
                   "page": "Pakistani"
-                },
-                {
-                  "text": "Punjabi",
-                  "type": "internal",
-                  "page": "Punjabis"
-                },
-                {
-                  "text": "Jatt",
-                  "type": "internal",
-                  "page": "Jat people"
-                },
-                {
-                  "text": "Gujrat",
-                  "type": "internal",
-                  "page": "Gujrat city"
                 },
                 {
                   "text": "Chief Minister of Punjab",

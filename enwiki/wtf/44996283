@@ -23,7 +23,7 @@
         {
           "sentences": [
             {
-              "text": "Chaudhry Tariq Bashir Cheema (Punjabi, ) is a Pakistani politician who is the Secretary General of PML-Q.",
+              "text": "Chaudhry Tariq Bashir Cheema (Punjabi, ) is a Pakistani lota politician who is the Secretary General of PML-Q.",
               "links": [
                 {
                   "text": "Punjabi",
@@ -33,6 +33,11 @@
                 {
                   "type": "internal",
                   "page": "Pakistani"
+                },
+                {
+                  "text": "lota",
+                  "type": "internal",
+                  "page": "lota"
                 },
                 {
                   "text": "PML-Q",

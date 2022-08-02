@@ -96,10 +96,9 @@
             }
           },
           "father": {
-            "text": "Bongay Mian",
+            "text": "Shujaat Hussain",
             "links": [
               {
-                "text": "Bongay Mian",
                 "type": "internal",
                 "page": "Shujaat Hussain"
               }
